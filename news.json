@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-03T18:28:41.353071+00:00",
-  "article_count": 309,
+  "last_updated": "2026-11-04T00:00:28.538485+00:00",
+  "article_count": 332,
   "sources_checked": 3,
   "articles": [
     {
@@ -16,6 +16,19 @@
       ],
       "importance_score": 45,
       "priority": "Relevant"
+    },
+    {
+      "id": "80c02b4704f75a16a599",
+      "title": "From rates to reforms: GST Council unveils major changes for businesses - MorungExpress",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-03T18:18:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZTdMS1VJTUY2UVFUU3FCV2N4dmxIRk5KMnFqcmc1NEFSVlNBUVJjYmplWnhjSFRYcHduZWZ5S0xQMk04TG9WdmhKd1BPMTJlMl93QmhNTzhqWGJxZ0l3QVltYUp0TGtId3JqMmVCcHExcnJ6dVhZZmxtUjAtN3I3Yy0yM2t6bWlEdXdGcGNkQUVIRk9uZE5qVlVDUnI0Mm5IM3c?oc=5",
+      "description": "From rates to reforms: GST Council unveils major changes for businesses &nbsp;&nbsp; MorungExpress",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
     },
     {
       "id": "46d7f454353486e0ad6c",
@@ -1992,6 +2005,20 @@
       "priority": "General"
     },
     {
+      "id": "9413910a4ec59f75adc2",
+      "title": "Delhi High Court Grants Interim Protection From Arrest To Man In GST ITC Fraud Probe - LiveLawBiz",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-02T13:38:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWkc1cUpWS3htNGE0YlVBTlEyQTJlNlB0UjZLTndJMm5Ja2wzOTBES0tmamdYSjVwUDdzdnRYc2VIN0V0UXpQVENTWXRJeUpmeklQQUpHdFB0UEpBMXdFU29seVBwZTBmQmZpamw1cnZaMEh2UGhqY2g0NVZ6akdSZTltemI4ZVdlQXVhVmkwbDF4U1VIZkJFemFvS3FWbTFlaXNSR2VQT3FhdU5WX2kwbWdNS1FlRUhKd2xIRVZBa09kQy1zQTRiLXNMWXR5ZWprdUJn0gHTAUFVX3lxTE9aRzVxSlZLeG00YTRiVUFOUTJBMmU2UHRSNktOd0kybklrbDM5MERLS2ZqZ1hKNXBQN3N2dFhzZUg3RXRRelBUQ1NZdEl5SmZ6SVBBSkd0UHRQSkExd0VTb2x5UHBlMGZCZmlqbDVydlowSHZQaGpjaDQ1VnpqR1JlOW16YjhlV2VBdWFWaTBsMXhTVUhmQkV6YW9LcVZtMWVpc1JHZVBPcWF1TlZfaTBtZ01LUWVFSEp3bEhFVkFrT2RDLXNBNGItc0xZdHllamt1Qmc?oc=5",
+      "description": "Delhi High Court Grants Interim Protection From Arrest To Man In GST ITC Fraud Probe &nbsp;&nbsp; LiveLawBiz",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
       "id": "eb2b04e86369413fe963",
       "title": "Delhi High Court Sets Aside GST Order For Ignoring Taxpayer's Request For More Time To Submit Documents - LiveLawBiz",
       "source": "GST Legal & Regulatory News (Google News RSS)",
@@ -3358,6 +3385,20 @@
       "priority": "General"
     },
     {
+      "id": "4aba81141755679aed39",
+      "title": "Allahabad High Court Dismisses PIL Against 18% GST On Online Legal Research Services - Verdictum",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-30T14:00:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjBWMW1XY2lBc29pOWVHWTk2b3h4U3NnOXhUOFJNY3JXLW9MMWRGUVNYMEZUN1FXbzd6RFlZdHp0MjYxbmZFN2RqZl92N211Y2NFNjM3ZDltQkpIMmRabWRGdzdvc2JKNzVtRWZOVF85WnRBSFowYXo3aTNJWms3X1Q4TDJuX1dERkRKQVppNlpNTTJldlM0QnVaVkNQLWFsVGZQRlM0R3NlWjltNFVmeTVSYVgzRl84WTludldfWTJvN0p0T0RyVkVuUzZoSUdm0gHWAUFVX3lxTE4tRXZCeDh3MFVUVWNuT0dDRjRJeU9TblV1TTJ1NEJQOFR2aTJkdTJFQm05Q284eWF0eUt1dW56TFN4YkZldlhXelVyNThVMUx4MlBuM2xKcGFnY2NZeWNDX3kxTUM5bURHZ2l3dVg0cXppQkNFNjY0V3VFTGM2RkZOMW1mM0wybTViMTFRdExMXzlXTVlfenI1QWI5Nnlxa3Q1dXh2SThyZElkdTlsQ3RlYWw0NmVwTFJFS0tubE9JdjNuSWN5U1NNVU1tXzZ3VnVDLWg1d3c?oc=5",
+      "description": "Allahabad High Court Dismisses PIL Against 18% GST On Online Legal Research Services &nbsp;&nbsp; Verdictum",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
       "id": "273b64666670378d5499",
       "title": "GST outreach: Over 200 stakeholders interact with CBIC chief on tax reforms in Chandigarh - ThePrint",
       "source": "GST Legal & Regulatory News (Google News RSS)",
@@ -3410,6 +3451,111 @@
       "priority": "Relevant"
     },
     {
+      "id": "a13af3fb5a747b4f3e58",
+      "title": "How to register for GST under CBIC's new guidelines: A step-by-step guide - Upstox",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-29T07:24:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb0psMG5WX3RmYlJMRjk2ZjNYWmZOR1ZBeC04RXVQRGc5TlotY21Oa3V3UHdKcFJvT2JsdXp0ZzV6VG1EY1hOVE9oQWMteThXT2ZvTFNGaDFOa0wyWkd4eFBWOFJJbC1LNjRKaEY4LTU2UFMxcUp1WHFkaXBGaV9qUE1BaExiclV1bEpPUjBta2RyTnVoQklzQnFmZjdzclhtOWhYNTZOYlhkZFdzX0tYRlNjekh1U3VCUE9yeDUwYXc1S2IwU05ZcGhNc3Z0ZWlMZTM0Rw?oc=5",
+      "description": "How to register for GST under CBIC's new guidelines: A step-by-step guide &nbsp;&nbsp; Upstox",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "955346d28fe0cf9578e0",
+      "title": "CBIC Introduces Time-Bound GST Registration Rules with Deemed Approval - CAclubindia",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-29T05:08:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYmVIbE5ySEN5WUhTVEJqUUh6dHFrR0tIV1E3dEF3OS1WQjYwNExjX1RxSmhFdVo1amRRaVVFLXVKYWdpcjBMYVEycDFROXlsMnRtcUhzakIzeVlFSDdrcHF4WFVRMU5VNVJBLUFmOEVuYV94cTdZUDF6X1dCUkFaT2UzVDBpY1Q2dzFJVHRjOEdibldfaVYtWjBMYS1KelV0aFc5UXFDNU05c21tS3RUVFN6dGhjRXM?oc=5",
+      "description": "CBIC Introduces Time-Bound GST Registration Rules with Deemed Approval &nbsp;&nbsp; CAclubindia",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "7b54c7ccf6a95d2461be",
+      "title": "57th GST Council: Proposed Removal of GST Arrest Powers under Section 69 - CAclubindia",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-29T03:44:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR004blpQNkxON25JUkxhcTBhRnNNZ3kyQl9qam8wTGs0YVJOU2ZxVEgyR01CNGh1T3FFU0NBaWlMOWtLTGF5bFQyT2tTajV2dHFwZHpNM0IxOUNXZHlaaGhEYW1wUG1iZWdmOWo4ek01WFFWdml6cFdPRzRYamlTa2ZYclVOMmlEVGJuR2lZUjVJTjRLRFNSVnJab3NWUnc0LURPNlBKZ2xNQU5sQ3J2YjhmTlRrRzg1c0E?oc=5",
+      "description": "57th GST Council: Proposed Removal of GST Arrest Powers under Section 69 &nbsp;&nbsp; CAclubindia",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "cadb03bf0a7fc1fa790d",
+      "title": "India’s CGST Amendment Rules 2026: Registration, Cancellation, ITC & Refund - India Briefing",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-28T12:40:49+00:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUFJwZGREMDdfYk8tYzdteFlDODNaRlNHemtBaTRMZXplVzV4ekJNbU9sbWhRYmFLckNQZ0VCeUlTS0U3eDlRaWVCVE1ZdlNJRW03VWhJN1VKYVlteC1Tc3M5T1RELTZfZEZ1RTdKTjA4bEVNV05hbnpia0RiZFUwak1SenhBMnJVVlhrR2FWNHZrTmMzV3I3eFlGRlNCVU9S?oc=5",
+      "description": "India’s CGST Amendment Rules 2026: Registration, Cancellation, ITC & Refund &nbsp;&nbsp; India Briefing",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "4402417c980da9e2aeae",
+      "title": "CBIC Clarifies GST Appeal Pre-Deposit Refund Rules U/S 107(6) and 112(8) of CGST Act - SAG Infotech Official Tax Blog",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-28T12:11:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaU50TVcyTXlmLTFGWnN6alg3MVFRVWJHTUY5YWVIcEJlQjJMYVoxT21PNnBzcWxnamcxS01vM1VZSlFfZjdtYlAzQWtpWFVDbHpCSzQ5NG5HNWNURmFFRVMtM3NCYVJlbm1MMzU4WlJiVnlpXzFseWUwM3ZCdWVnMkVkRzRFbHFidE9qc0VsbFVRNlpsYlZqRzlSTDFGMDQ?oc=5",
+      "description": "CBIC Clarifies GST Appeal Pre-Deposit Refund Rules U/S 107(6) and 112(8) of CGST Act &nbsp;&nbsp; SAG Infotech Official Tax Blog",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "739ccea65b9afa832b38",
+      "title": "GSTAT Upholds Purchase Value-Based Method for Calculating GST Profiteering in Real Estate Projects - Taxscan",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-28T12:09:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdmlZRTZlcUQxdngyWGJrdUZsc2RneTV2cExPRWVPTE0tQ2s3ZjV6akpxU29Ddk52RTMxVWlnZ0VfNVBGTnJHaEI2dklaZjAwSHRKaFA1VE1VNmVHcWxhUmYxY0drbDZFZDdGZkY5cm5ZdnB1UU9leTBQdUNUaThRcXZRaVE0V3k0b2oxMTVZRkxnV1lQS1lKYmFGNG1BdmJfbWJveG80NkE2SXVyLWxkU3JXanJndGllTGpOUnRWcjRwbDQ?oc=5",
+      "description": "GSTAT Upholds Purchase Value-Based Method for Calculating GST Profiteering in Real Estate Projects &nbsp;&nbsp; Taxscan",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "a4140dc717a55d57f486",
+      "title": "CBIC Explains 50% GST ITC Rules for Banks, FIs and NBFCs U/S 17(4) of CGST Act - SAG Infotech Official Tax Blog",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-28T10:09:17+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOG56Qzl3eXZfQnc3cVZBb2k4alFJREMtdzlXa2VpbDVmX3ZQRWNrX0J5eFEtd21lQnVQTkVuX09XR1FXWThmVDlrb0NGbEVQU05CVEVDRFlPVm1Hb1N5ZXNDRkdfUmxjNUpIUTRPLWVJdURqVlZmUy0tM05JeUY3Q0xXZjc3cXh5MVhjaHZyTkJ3QQ?oc=5",
+      "description": "CBIC Explains 50% GST ITC Rules for Banks, FIs and NBFCs U/S 17(4) of CGST Act &nbsp;&nbsp; SAG Infotech Official Tax Blog",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "b4f67c9c599aeac2582d",
+      "title": "CBIC circulars: What changes with guidelines on GST registration, raising tax demands, export payments and more - Livemint",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-28T08:42:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc0U2RldjSWQ0a1VsOV9qblhTdUJYejBpLUdPbk9fakxhM3J5WWE3QVpubTFsNlBQODhuZVpDUkdUME5JaHJ1NlU3YnhqV05mVlEtcHFqZzRtZFJ3amxIeWdtVGFhRnpZRWtKTHhNRkN4YmFxekg4VF96N3lXcEQ5LUpPdHBxSzdLNzM5dEdzWUdydG1RYndUd2pXdS0weXY0U1NqZU5UWllUMHpiQlhmaG5CYXo3VjZvOFc5Z0JqMjZCZG5BN3BGR3dnVmdCanozT3lkRkJ5ZEZwMERLeXo0WXg4aTFPb2ljeEJJcG9KWVbSAfYBQVVfeXFMT21FRXU5a0xNMU5aaGJRTHJqMDktcjJRWVR5emRJQXV2dWNKdkwtUUtkckV2TW9BVHNnU0xsUmNWa2t2Tk1ja0lDVzFvdWxGSUp0STlUVy1lSTY3dWpPeFJnYUhjcGxRZS12NmVGZ0hHc2pFUlQ4LTB6RG85M0Utd00wU0lNYlNkaU5KOVVqd3AwaV94TG5ETm5wWnBBV2tqNVJIMGQtbHNYUk85dnNkT1Nnb1JkdU52UHQxNDlQSGFyTk80VHBaZWhrSWpKQVdqX0plWGdteWpfVkhJVmUyNTR1R0Y3M3VvQ2dFUTNXX0VIeW1kMmFn?oc=5",
+      "description": "CBIC circulars: What changes with guidelines on GST registration, raising tax demands, export payments and more &nbsp;&nbsp; Livemint",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
       "id": "4b00bcdeeecfb2f005a7",
       "title": "India's GST clarification on brokerage modestly positive for FPIs, analysts say - Reuters",
       "source": "GST News (Google News RSS)",
@@ -3423,6 +3569,19 @@
       "priority": "General"
     },
     {
+      "id": "1a93ce8b7d47fd1c71cc",
+      "title": "CBIC Issues 8 GST Circulars: Key Reforms Explained - Sarkaritel.com",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-28T03:04:27+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MZW4xRTg1czYtVE5UbzFSeWxZZmNrNTVHb0RhVDdHT3o3MTVLWVd4SWtSYjg3LUdveUQwSnVmTXdhQjI1eHVQeGhSMllzdDFrOUoyQ3ctaktwMEtrVkJyYTlzdS03cEVVNjY2VWJJN0F6UGVqWnh3SUpJWQ?oc=5",
+      "description": "CBIC Issues 8 GST Circulars: Key Reforms Explained &nbsp;&nbsp; Sarkaritel.com",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
       "id": "716b1947939825004455",
       "title": "GST Notification: New Change - India Business Trade",
       "source": "GST Legal & Regulatory News (Google News RSS)",
@@ -3434,6 +3593,112 @@
       ],
       "importance_score": 45,
       "priority": "Relevant"
+    },
+    {
+      "id": "6e88b7d428835a10fc2b",
+      "title": "GST tribunal allows airlines to claim tax refund on cancelled tickets if fare, GST returned to passengers - cfo.economictimes.indiatimes.com",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-26T03:19:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUjc1X2Q5emJLOUV2R2pjc1N3dnh5R2V2Nmc1UTN6SjM4VklnY1Z3NVhZVXloNmM5LXZZeXktTkxIbjNkdW9PdmlaZmU5Z2FQbFEzdjU5S093UFJNSVlFX21TSjk0Q0FVazhtNEVuRjhOOHhyMTBFU0ZSUWdrd05xSm5aQzhMQUdLWHNkeFUwMVUwcUExbFZ4dVdoajUzcjBiTXFLMmxobDRJbjBRZ0ZNSHhIZlZXY1Nlc3QzSHMwVVlQMmdXLUNiZnB0a1JCZkNGTWI3cktzQWpZNHlFT2tvMXVmTHh5VnByWUZXeUl3bkkzQ3d5cjZOaGo2YVBSQ1BxZkZ3SzAxX1JuaDUzNXfSAZMCQVVfeXFMTzg1a3E0dHhaRUFYcGZ5WHV1M3BnQ1huVzdIb1czTE1fT0YwNm9JbWVGcHh6OWFxVElLSzQtTWJwU2FwT0JDVWR6NHBMUE5yVUI0SFgweUx0eV9Id1VLWld0d0NnRWlhTDhjQWE2elR3QVVvblpWZE1zSEtYT21mMUtWNkhhRC1lSWc1SFlfeW5YTkpsU0czdzdkczFpSkJzR1lzRUxaZmRjVENtNHlkeDBRZk9ySGlvcGl0em9ZbU1kaFRWTjBrcUlPZGhWUEt4VWxoSmdTMU5fS0pKbUQ2X0dpX3JhUk00enJ1Vi1wRFZ2blpnQW9vT0JsSFN0eXhad3MyRXpVamw4RXhBeG8wNmEyaUE?oc=5",
+      "description": "GST tribunal allows airlines to claim tax refund on cancelled tickets if fare, GST returned to passengers &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "422c66002724d6beb6be",
+      "title": "Handcuffs Come Off, Leverage Stays: India's Section 69 GST Reform - Live Law",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-25T14:30:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHpNa3pJSUxIYTUwMGtidy1wTlFSRDRYV2dGSEpJVjFzbV8zM1lyUmVtWFNPYVdJeTljclVROVRTcVB6QlBjSFhURVlCZ3IyaHNhR1dsVlRnbEFkZ1ZCNmlaUWJqSnFMVUxRc3owamJUVXpLQVVqUTlKQ2lkXy1SZU96b3ZpV0FGSGxmd2lfUlBKd3FTTC1ET21xSjlpczVv0gGmAUFVX3lxTFBwVGpBSlZjN3AtRzl6YV9NNDRZQ00yOHEyVk9NWGZXMkZnSmcwWVAyYlVReklzMmVGTUxWUjVLNTliV3ZHY0RaOEYzZ3VUTk1reFZOczJfTnlBUk95cE9LYkM5VklBQ20tbmgtM04wN1NSMVR6RXRYRU9HWnZPcmtaVlJSNkNCZUp2S2I5NHd5NHlkUVBwRUkwMWlQS3R4SlY3TGRoY0E?oc=5",
+      "description": "Handcuffs Come Off, Leverage Stays: India's Section 69 GST Reform &nbsp;&nbsp; Live Law",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "ba1c7fb271df5b13256b",
+      "title": "Section 93 permits fresh GST proceedings after the death of a taxable person, even where no assessment proceedings had commenced during the deceased's lifetime: Madras High Court - Taxo Online",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-21T13:40:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNc2o0dkNjdllnbTJURlpDZmV4US1qekFEVTRWRm1jZ0RWUVVmWTgxOFFxYWMwZFVra01pUFphdk5rWnZhM1JpdVlLQzVXQnNUYzFHbUo0NjNJcm5RYklKTTVuSklSTmZFbW5rclVnWWJ0ZlY0NjN4UnZCT3hWZFdFcG5Qck13NFk2dVdXNzVlVVZBb3lTVE1tclBhd3pUMTVidHVQNDZpbHc5YmpZYWxPNTNiX3ZVcDRXdFdtMVVMVTcyeUpYcWN6T3JFME9HS3F4bDlGbWpKSG9scXZLMnJWVDdqYlVYLXBHcUpQUmxnQWVVSlotSlpjMmc3NTJUbVQ4UGlRcGlPcGZqeUFmclpmNFNVUjhQY3plQmtFNmFNOXJ4bHdlbFRlSm8zNDdYN3BKY1E?oc=5",
+      "description": "Section 93 permits fresh GST proceedings after the death of a taxable person, even where no assessment proceedings had commenced during the deceased's lifetime: Madras High Court &nbsp;&nbsp; Taxo Online",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "066bedf614d6281b9ecb",
+      "title": "GST Council simplifies tax structure from four slabs to two under next-generation GST reforms - News On AIR",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-19T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQU0wZ055NjRCRmZPRFplYU4wdU9WMVE3RUlwTmU5MFlrUUdsbTBjemxiSmdUU3VKeFR5U3gySWxiLXVfbEhWMTdHeEozSFc1Q01xOXlLaTVXMmd0NGpSUDU4UmZLT1E2cHdQaXA3Mkg0NXhlQmd0LXpVMkJ2RnNWdzZ4Z0dHUGxfWE01SmZDY3RJSXk1OVVHLUtNWURIVWtOanIwT052Und5R3dtdHQtN1FweGs0dVBCbm5n?oc=5",
+      "description": "GST Council simplifies tax structure from four slabs to two under next-generation GST reforms &nbsp;&nbsp; News On AIR",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "dd3e2c5e8fe3e61ce7a0",
+      "title": "CBIC Holds Stakeholder Outreach Programme in Nagpur on Recent GST Policy Reforms - www.pib.gov.in",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-16T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiOWdJanJGdEdLQnA3MW9iOG9YWmp5bGZ3ZTFiRmRMUXlxNVJzcFFlcFVzVnNWMlRWOUp4ZjRwb0lwNGV6Z0VhZWRnaERrelpKTHBsUGZLNlJzX04tTEFKMC03aS1jazd3?oc=5",
+      "description": "CBIC Holds Stakeholder Outreach Programme in Nagpur on Recent GST Policy Reforms &nbsp;&nbsp; www.pib.gov.in",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "e216301f58147a5d4907",
+      "title": "57th GST Council meeting recommendations - PwC India",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-15T14:13:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEhELWhUbEJiTzE1SG9maklQSGZpTTl6NHJlOENaSXI4dDhaZFU3bTNoRHdOV0Q1aEFCbGNINEx0T0dYUFFJZE5GVk9vQ0FJeXZnLWN2Y08xVEloX0Rycmo4bWh2V1Zta0pBN3lHR1FDaHNrTTRSaXlKSXdPZ1VreDZwWlRsSXQ5UHJuTFJYcTAyTkNwdTZEVEJIeHQ1XzhPT2t6aWRiSHZPZw?oc=5",
+      "description": "57th GST Council meeting recommendations &nbsp;&nbsp; PwC India",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "c8eb8771f02e002540ba",
+      "title": "Outreach program by the Chairman, Central Board of Indirect Taxes & Customs (CBIC) at Hyderabad about the outcome of 57th GST Council meeting on key GST Process Reforms - www.pib.gov.in",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-15T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01QkJLUGNRZ3ZNR2ZSWTlxYUFNM0lILXhHYWhIVFd1aWh0Wmp4WlhxR2tWMkN6ZV9Wcm50azFjQmdDOHRhU08wSWZGQlc3MUpBT09ma3RBaElZWEVkVjBBT1FxRkVfVEl1?oc=5",
+      "description": "Outreach program by the Chairman, Central Board of Indirect Taxes & Customs (CBIC) at Hyderabad about the outcome of 57th GST Council meeting on key GST Process Reforms &nbsp;&nbsp; www.pib.gov.in",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "2237c3387d4c4017b7d6",
+      "title": "Delivery completed: On the GST Council meet, reforms - The Hindu",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-10T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0NVd1g0WWRCS3JZa2JnQUcwcEJmMGNtZkpMbHlfcDRqV2s2ekZlLWtZREFZV041VFc4TnI2aXBFZTY2bEtHZDhRTkdOeGhjRGtoSzc0QnJPRnpiSGlGOXFwQWphc2pCSU0wNTRsRWxDZnZlVE53bXR0c0NGT1I4cFJacmJ6cTRXcjhGZlczN1JfcUk4WFU4ZVJDcVpJd0tnajkwNngxQkFTUnl2SkdMaXpKRdIBugFBVV95cUxORmRSdm94dHBGckxaWF9POEU2YVl4S3VsdWtIcC0zNU45a1dqUVJ6VER2SXByeEJTcEZrNG9WanN4U211c2t4VW9ieWJheTVSS3VEcGtfd0dMaVB2NnQzLTllcDFlX2FhZzBwcUZWc2JxTElpbGhsZ0FNckxGSm55TFhvaDlVOVpDUjdHUlJqVzJNUmpFWDkzT0h5WXhLZ1RHd3JDY2hNNzBwOV85eGZMaFRrVnJ6RU81eHc?oc=5",
+      "description": "Delivery completed: On the GST Council meet, reforms &nbsp;&nbsp; The Hindu",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
     },
     {
       "id": "434c8e76693dfc668551",
@@ -3488,6 +3753,19 @@
       "priority": "General"
     },
     {
+      "id": "5b6bb2da705d0337b62f",
+      "title": "Press Note Details: Press Information Bureau - पीआईबी",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-09T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGlNYXlubHhIRjRaekZYTVNtQUNkQlFQdGticVF5ajgyZDZiYndlVWtTSkZNcXd3S01IMS1vSlJjVVNfZTk1X3lYT0xHX1V4MEZ4dlZtUkdfajlqbTNuNFFwM1VNQk4xUTVENzhVX3BuZTJCbEprZVlURlpiSGppUWdsMGtYcmlxTVNIb2F0ci1TT2o2Mjhz?oc=5",
+      "description": "Press Note Details: Press Information Bureau &nbsp;&nbsp; पीआईबी",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "77d5d13232f613b58b91",
       "title": "India eases punitive rules under GST regime - Reuters",
       "source": "GST News (Google News RSS)",
@@ -3520,6 +3798,32 @@
       "published": "2026-10-08T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEtmN29XblpCY3NiRFdlNmdmMmJBUG9VUmc4dEtiUjZicWxBUnBIUEhQOHZlUUVhVlMtVmFnNmNkcG14VGRHYmgyLU5VOWUtaE9kRjcyRVpaLUdvV2hsODdrd0RhaGlMYTJYTWh2OXdxY0kxeVdwdkdteVRPTUloODBXaDQtcHZXVmVYckJnekxGS0NVcVBuRnV6RkpfUlFVN2kxeGZvOWhHd0haaHZPSXZTaVlwa0JpUHhsd1h6YngzNTNlNXc?oc=5",
       "description": "PM welcomes GST Council’s recommendations for simpler, trust based tax administration &nbsp;&nbsp; PM India",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "93ac7fef1ce5fc2170aa",
+      "title": "GST Council unveils reforms to ease refund, registration and reduce litigation - The Hindu",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-08T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS3I4Wm1rV2d4NFdTRm8wY3JvSUgyUWJReVVESUxsTFJyNWZ5ZnRSdFozNUQ4cHAzNjB3MVhmQV9tRWxPNmhOMURtSWFhbHBialQ5c0c0MUh1Q0RQMGdfOEY3dHZvekxmLUhJcUE2cW5RbHpYRDlGUFdKNkVFR1NiTTl0b0xTbHNhaXJSNFFTdlpqbUVKRG5yMDNtbGF1bDh2ekV5LTRSUGZqZUlVUGVLWnNDOVRlOXc5bmt6UjRqcTRJbmR4emNvX2pvQUJ1TE04ZHk5WGwwdE5NWmdLb2hpT9IB5wFBVV95cUxPMHh3SlJnZGpyNS15ZFVIUndIVG42WEZYTlN2eFNWVUt1ZUNnR0RONUtvb3U2VVl4NFBBQWx6NXBudmtCOTZ1eVFIS1RON2piQjd3UnF3UFlnMFVRLVcyb1BfSjJVWDd0MG1WQ2FiLU8ybjdZTUFQM05OY19qM3E3SkRHeHktelVscEpHaThZS1NMWlJHcU0wa3BqNE9CR0w0UXk0SnNGU1dRQ0hNdEtoUDYyX1hKdU5OTXB5TmwzZ20za3VfZXU2aFBhVk94d2hMelNNT0drQ0pSYjBGMFZUM2Eyd1FwMXc?oc=5",
+      "description": "GST Council unveils reforms to ease refund, registration and reduce litigation &nbsp;&nbsp; The Hindu",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "d280e0d9694af13e8721",
+      "title": "GST Council meeting: Arresting powers of tax officers scrapped, prosecution threshold raised to Rs 5 crore - News On AIR",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-08T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSlcyaVVtZGdjLWplNnpBQVotZ1ZPN2VSWkk5LWV4a2Y1a0RpSXdoaExDS3VvcGlaM2xYekRYc1FRTDVlUS1HMTRWUnR2eUVzUmM4azhmQXRDY3NaV0ZTSHJLb3ljXzVvOUVFMTRpX25mMjJ2U002allkeHpPR2VCX0RTN0NWNlJtTkJIYjN1N3FVdzRydmtINDVQbmg5em1lY01xR2NHNF9DSnBRZ2xKS2ZldmZYOFRsTWl1NTlFWmpDc0dDWDhEYW1n?oc=5",
+      "description": "GST Council meeting: Arresting powers of tax officers scrapped, prosecution threshold raised to Rs 5 crore &nbsp;&nbsp; News On AIR",
       "categories": [
         "GST"
       ],
