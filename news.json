@@ -1,9 +1,567 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-04T00:00:28.538485+00:00",
-  "article_count": 332,
+  "last_updated": "2026-11-04T06:36:10.886467+00:00",
+  "article_count": 382,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "0453fb451f086c0fd135",
+      "title": "District Judges Recruited Directly From Bar With Postgraduate Law Degrees Entitled To Three Advance Increments From July 1996: Kerala High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:30:33+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/district-judges-recruited-directly-postgraduate-law-degrees-three-advance-increments-july-1996-557241",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "df672a2510fc84288f74",
+      "title": "LiveLaw Breaking News Alerts: 04 November 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:21:59+00:00",
+      "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-04-november-2026-557229",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "9cb72e1f405da583d805",
+      "title": "Rajasthan High Court Orders Complete Ban On Parties, Marriages, Restaurants At Monument In Reserved Forest Area",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:20:32+00:00",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-bans-marriages-parties-commercial-activities-jaipur-vidhyadhar-ka-bagh-protect-wildlife-557238",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "1c16d8347f471c92b795",
+      "title": "Appeals Against Urban Land Ceiling Orders Abated After 1999 Repeal: Allahabad High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:19:16+00:00",
+      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-appeal-under-s33-survives-1999repeal-557225",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "2982921c79f1b8d1b0da",
+      "title": "Supreme Court 7-Judge Bench Holds Reference On States' Power For Additional Levy On Sales Tax Academic After GST",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:18:54+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-7-judge-bench-holds-reference-on-states-power-for-additional-levy-on-sales-tax-academic-after-gst-557237",
+      "description": "The Court held that the reference has been rendered infructuous.",
+      "categories": [
+        "GST",
+        "Supreme Court"
+      ],
+      "importance_score": 55,
+      "priority": "Relevant"
+    },
+    {
+      "id": "626d90e211d41ad2e611",
+      "title": "BREAKING| Laws Penalising Having More Than 2 Children Have Lost Relevance Due To India's Falling Fertility Rate : Supreme Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:18:38+00:00",
+      "url": "https://www.livelaw.in/top-stories/laws-penalising-having-more-than-2-children-have-lost-relevance-due-to-indias-falling-fertility-rate-supreme-court-557233",
+      "description": "The Supreme Court has called for revisiting the earlier verdicts which upheld the laws imposing 2-child norm.",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "bf2879403d9913bfc0e3",
+      "title": "Delhi SIR : Petitioners Flag Before Supreme Court ECI's Statement Asking Deleted Voters To File Form 6",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:15:44+00:00",
+      "url": "https://www.livelaw.in/top-stories/delhi-sir-petitioners-flag-before-supreme-court-ecis-statement-asking-deleted-voters-to-file-form-6-557246",
+      "description": "The CJI said that people need not be apprehensive as the Court was hearing the matter.",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "ae4e8140f70503ec7daa",
+      "title": "Mere Presence Of Another Person In Matrimonial Home Can't Prove Adultery: Madras High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:13:27+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-upholds-restitution-conjugal-rights-order-557231",
+      "description": "",
+      "categories": [
+        "Family Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "2cd9e42e78c4c4019144",
+      "title": "Aravalli Hills Must Be Preserved: Punjab & Haryana High Court Seeks Report On Mining Lease",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:10:31+00:00",
+      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-mining-in-aravalli-hills-flags-significant-public-interest-557235",
+      "description": "",
+      "categories": [
+        "Environmental & Mining",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "36e30f8e89df2d1e9e46",
+      "title": "Delhi High Court To Hear On Friday PIL Seeking Action Against ACP Manasvi Vashistha Over Alleged Threats To Advocates",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:06:34+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-to-hear-on-friday-pil-seeking-action-against-acp-manasvi-vashistha-over-alleged-threats-to-advocates-557243",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "ff1b36513cf193f1c9b6",
+      "title": "States' Power To Levy Additional Sales Tax Academic After GST: Supreme Court Disposes Of 27-Year-Old... - LiveLawBiz",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T06:04:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQd1ZfLTRkV19oUVZYUFVGMkRhZUs2NXFQWlhmd2dqbGY4c3dSbVBlTngtMUFwTGpVY2g4RFIxWFo1a0RtYU5ObklHYWRwR1B1R19oSXlTOVc1UTZOTHlLMUl6b1RxNXZ6NUh4ek1idE55N21reEhVVnU3MUNVQzBKTzhrY0VKdXN1T3pJT3d1a3UtTTVETU9lcUctZlZvS0Q1V2JWbmlMVkRRR0gweElHTU45MmNWWmlpblJFNFdfQjdUYjJsUG9lMjB2bDhfbHpkWWNYOWp6dnluNU1OVXp2dmR5ZE45RE5VZ2duNW1NRTBmd9IB9wFBVV95cUxPY3VOTEtFQ2c4UEp4WjNRSno1VjR3N211NkRUOHVFMDZNdk81aXR0bU1FUTl1bU85TlI0MkdaYnh4dGxhZXFuRmxqSjlXNXIwdE1fUGZ6MXRVdk1sV1dWQU93V3pScXFvaFZtSWRHajNpazh5VFBIQ0ZORkVqaVd3N3NpNnRDZ0dNTHNrTVg5a3NRZ3V5UEE0YVYwNWU5U19qUTQtcjhZbnNiUEJBY1RqVGVINE0tWmdlUmN3OF9tMlhzWVhob0tuQi1Pb2NYeTVfeUtHZWE5YUY1c2hHNXk1OFczOTFyMWhEMml1al85MExmVVRfME1z?oc=5",
+      "description": "States' Power To Levy Additional Sales Tax Academic After GST: Supreme Court Disposes Of 27-Year-Old... &nbsp;&nbsp; LiveLawBiz",
+      "categories": [
+        "GST",
+        "Supreme Court"
+      ],
+      "importance_score": 55,
+      "priority": "Relevant"
+    },
+    {
+      "id": "72bc575055743c071b89",
+      "title": "Family Court Lacks Jurisdiction To Decide Maintenance Modification Pleas Under Domestic Violence Act: Bombay High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T06:01:00+00:00",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/family-court-lacks-jurisdiction-decide-dv-act-maintenance-modification-557170",
+      "description": "",
+      "categories": [
+        "Family Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "162633083706376bda3f",
+      "title": "₹1 Lakh Compensation Too Meagre For Minor POCSO Victim Who Became Pregnant, Suffered Abortion: Karnataka High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T05:50:29+00:00",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-orders-maximum-compensation-sexual-assault-victim-557234",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "12bdaeddedb216aa4c6e",
+      "title": "Supreme Court 7-Judge Bench Holds Reference On States' Power For Additional Levy On Sales Tax Academic... - Live Law",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T05:48:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZDgyT3VBNTUxN0RoZXc1b2d3Vl9KSF96Uy1pdFVTMDN0ci1VZ3drVHNrUndmX0hwMldURkRIaWoyNnMyeFZlQ1h5RnFYdU9FTHliS1VjendZNGtYUkFqOFg2VXI1Z2tZeG15OHFwLXNUR25ZYmlfVk1zd2FmWkVMNF9nREFXWlZTYkVrS3dfQjIyMWtrcFVjOG54eFR3bF9zUUZNbllqYnRGcnpkXzNNcGVQNmpPeDZ2eGdkMVZaNkdwM1lIWXdtVVB4OGxrdjRvWmVkWERueVlyV2ZmXzV6NGlQR0FjTnhV0gHuAUFVX3lxTFBBSlpHOWZtX0xsd1VNcTNVVEhkZTVtQ1cyTy1SSEZ5SlVOM3AyNzlUSjBTT3doeEpwOE1adFpSSE96Vl9GZTFCbVZ2NnEtOWtFVTBzeHBGbS1OdnpDRmdMOXFpbU5lM08wZy01ZC1ycTNoVDlEOTlDSlhwT1FENkNySUZJT0V5cnlYTlpkMW8tVmFjMWw4OWJlMzFUSk8tZmprVXlydzFDUFV1QnlHc0FsV3BjZ1NVWjRHQUtZUTV3aFpRYTNPRWViVGY4eXdrdWFnWnJyR005S2ctb1lHMGUyMVd4WWtZUnlDSDA0eFE?oc=5",
+      "description": "Supreme Court 7-Judge Bench Holds Reference On States' Power For Additional Levy On Sales Tax Academic... &nbsp;&nbsp; Live Law",
+      "categories": [
+        "GST",
+        "Supreme Court"
+      ],
+      "importance_score": 55,
+      "priority": "Relevant"
+    },
+    {
+      "id": "e5d68f3952394ad66bc9",
+      "title": "Mere Website Accessibility Can't Confer Territorial Jurisdiction In IP Suits, Courts Must Draw 'Lakshman Rekha': Delhi High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T05:45:28+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/mere-website-accessibility-cant-confer-territorial-jurisdiction-in-ip-suits-delhi-high-court-557203",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "d2ba1fe3e9d570490c27",
+      "title": "Poor Class 10th Results Alone Can't Justify Penalising Teacher Without Finding Of Misconduct: Rajasthan High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T05:40:58+00:00",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-poor-class-10th-maths-results-cannot-invite-penalty-teacher-557228",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "0a2c7e98e811375ebd40",
+      "title": "'Love Of Both Parents Is Child's Basic Right': Jharkhand High Court Upholds Father's Visitation, Declines To Disturb Mother's Custody",
+      "source": "LiveLaw",
+      "published": "2026-11-04T05:30:26+00:00",
+      "url": "https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-upholds-father-visitation-rights-declines-disturb-mother-custody-557177",
+      "description": "",
+      "categories": [
+        "Family Law",
+        "High Courts",
+        "Jharkhand"
+      ],
+      "importance_score": 52,
+      "priority": "Relevant"
+    },
+    {
+      "id": "2ba1f23ac5fe0f0bc420",
+      "title": "Karnataka HC on Reasoned GST Appeal Orders - Taxscan",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T05:20:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmRNaDU2eGxGNkwyOFE4OXNWTVRJeDJaQ1ZKR2szdWVWSnZnMW5mNTNnMy0wUzViNjMwSXFUSDJGeUNWVXJ3MzJtcEZjUE9POU5JZy1YSnhGb0dxUTBscE1xTXFfcmdZV1hJVzM0MXNCR3YzTVpZRW5HcHpkM043dG5keTl4LWFYTV9GbUxMZTdDNTF4UlpTWDM3NU4tWFFidllLck5ZU2NtX1J6MmpMcGF1TVZGc3dJX0tWX0llaU5XNmFwSjJ5aEFxa04tQQ?oc=5",
+      "description": "Karnataka HC on Reasoned GST Appeal Orders &nbsp;&nbsp; Taxscan",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "8f452ff5595045f5adc6",
+      "title": "Does Parole Temporarily Suspend Sentence? Rajasthan High Court Refers Key Questions To Larger Bench",
+      "source": "LiveLaw",
+      "published": "2026-11-04T05:10:24+00:00",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-refers-questions-parole-rules-suspension-sentence-557227",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 47,
+      "priority": "Relevant"
+    },
+    {
+      "id": "4ce121bcce6ddbabf266",
+      "title": "Sitharaman says GST 2.0 has triggered private investment, India’s consumption story intact - A2Z Taxcorp LLP",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T05:05:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1dEQm1zamJxQS0xZFdvWEZLb0d5MWF6RkJBbVUyRmpLR25aMi13OWRRQ0lpUGgxb3hhVXQwRkpBUlhYak5TaEgtQlJSaXYzY21UbGp2SlcxMEQ4cUhKWnpOMjBET1NJQUh0eHFsMlBvMWR1SksxMDBCaldKSnlucHBVWkg5N2EzLXdjOGxJQkx6Tjk5dzBRUFBxeHVYTGdxNnhSYm9iNW9KQkRmNC1UYnV3?oc=5",
+      "description": "Sitharaman says GST 2.0 has triggered private investment, India’s consumption story intact &nbsp;&nbsp; A2Z Taxcorp LLP",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "f2c538fbe7a7b8d216a6",
+      "title": "Karnataka HC Grants One-Time Relief Against GST Registration Cancellat - Taxscan",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T04:53:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDdOSGhjMGNUb0FOVGtKVE1sWnFWcGkzVlExZFBGTTZFOXFoeDhIRFJYMzBxUktvcGlTZ0htOXRZMmx5X2w0el9qNXpoTlpEZGEzSld0OXVELVlkYndQTWdGc2syRnNna2VMYnJNbkIyTmpuUFE1SHVoamwtUTJRUTdHbkRlWnFfZTNOMjZPNG9Bd0ZSWHpJTkV4QnZUc01GcmdWNDlsQVdrS1dITm9fUG1NYm85SzgxMkEwYVRYLXg4Y3hvWEVnRTBqWm5YdXlKTDc3Vg?oc=5",
+      "description": "Karnataka HC Grants One-Time Relief Against GST Registration Cancellat &nbsp;&nbsp; Taxscan",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "eaf71f06ecbbdf6e0eb0",
+      "title": "Uploading Photo On Social Media Not Consent For Others To Use It In Obscene Material: Karnataka High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:51:22+00:00",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-uploading-photo-social-media-obscene-material-557226",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "853ea9838aa3b34b1c8d",
+      "title": "It's Time To Take The GST Council's Bet On Trust Global - NDTV Profit",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T04:51:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzE5ZFJHcmJtUGsxdkRZYVU5VG5jamltQ2lrUVhGTkhNSHdvbmplTTFLTVY4QWVTMlFWNnhiN1VaTnJMcGhKTVhVam9oVUZWUVlVeDVRUGpjQ1VBdnJ5WWRNdjZsOHpZbzRCTFNRR1o1SXF4dWF5UzhGU19mbDY1Z0lHaG5EbERKc2Z3NmxPM0l2SExEY0k5ZUJrcUpRd9IBpgFBVV95cUxQV0pja3prOHhEWnhBQkotNmt0eUdqYzktV3RuUUpVMzBvWUlCblcxbGN5WmdHanlQUXlBUnNOSWkzTjBNNkU0VlAyWkJxZkpoSlFsUTUyNk9fYl9YSWpsZFFueG1nNHRaQVZwNWx5RHRsenlMZDdRU3Nsd2Q4cFdZbnAzX2tjeU15Z1ZTNTFMcXBZU2pTUlhVa2I0VnQ3MHNuMXR1dzln?oc=5",
+      "description": "It's Time To Take The GST Council's Bet On Trust Global &nbsp;&nbsp; NDTV Profit",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "1300910ec34aa2460c87",
+      "title": "Courts Should Not Interfere With Bona Fide Technical Evaluations Of Infrastructure Projects: Rajasthan High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:45:20+00:00",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-dismisses-pil-against-ajmer-road-underpass-557224",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "94dd83d0a98111094abb",
+      "title": "Madras High Court Orders Closure, Demolition Of Illegal Resorts In Sathyamangalam Tiger Reserve",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:36:35+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-sathyamangalam-tiger-reserve-illegal-resort-closure-order-557223",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "2c2a5752561d73da1074",
+      "title": "Project Associate - II Vacancy At Indian Institute Of Technology, Gandhinagar",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:34:04+00:00",
+      "url": "https://www.livelaw.in/job-updates/project-associate-ii-vacancy-at-indian-institute-of-technology-gandhinagar-557222",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "70fbd9b168dfed4cbf2f",
+      "title": "2026 LiveLaw (SC) 1126 | CRYSTAL CROP PROTECTION LTD v DHANUKA AGRITECH LTD & ORS.",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:31:01+00:00",
+      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1126-crystal-crop-protection-ltd-v-dhanuka-agritech-ltd-ors-557221",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "8784bbe9c58bcf1f161b",
+      "title": "Freebie Has Giver: What Pharma Marketing Committee Must Recommend",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:30:48+00:00",
+      "url": "https://www.livelaw.in/lawschool/articles/freebie-pharma-marketing-committee-recommend-557103",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "b8958197e6e16f467f14",
+      "title": "Competitor Cannot Challenge Grant Of Registration Certificate Under Insecticides Act : Supreme Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:29:52+00:00",
+      "url": "https://www.livelaw.in/supreme-court/competitor-cannot-challenge-grant-of-registration-certificate-under-insecticides-act-supreme-court-557220",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "15f187b3660de6e03c22",
+      "title": "Theni Jail Break | Madras High Court Orders Medical Examination Of Prisoners After Mother Alleges Police Torture",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:28:04+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-theni-jail-break-medical-examination-ordered-alleged-police-torture-557219",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "d26700fa36afb60df7a8",
+      "title": "Law Officer Vacancy At Jail Department, Madhya Pradesh",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:26:36+00:00",
+      "url": "https://www.livelaw.in/job-updates/law-officer-vacancy-at-jail-department-madhya-pradesh-557217",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "0e0d5ac5f12bf61bd975",
+      "title": "Young Professional Vacancy At Central Silk Board",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:26:12+00:00",
+      "url": "https://www.livelaw.in/job-updates/young-professional-vacancy-at-central-silk-board-557218",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "6935c8d3cf03670b709a",
+      "title": "Temple Staff Paid Atrociously Low Salary : Madras High Court Asks HR & CE Department To Step In",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:25:47+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-temple-staff-low-salary-hr-ce-department-take-steps-557209",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "b73fa3b5d63d1a2db9a4",
+      "title": "Legal Advisor Vacancy At National Institute Of Technology, Agartala",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:24:23+00:00",
+      "url": "https://www.livelaw.in/job-updates/legal-advisor-vacancy-at-national-institute-of-technology-agartala-557216",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "b4e4bd8c72b29aea7d5d",
+      "title": "Cancelled flight ticket? GSTAT says airlines can refund GST to passengers and claim it back from the gover - The Economic Times",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T04:18:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdWRLa280N2dpUXI2VlVUNjlSQ2MwZXFkZlhVWWdCcUxNRl9SU3kzRVdhT29zVmlHSTlyWi1teUJFYlZuUHV1TzdRODlmRE96UU1obnhCZlVseGRMelA0dTVuRUZiVlExSXczb3MwLVNqLWN5bDNIcWxwVkhiTloyeEFnY0xtTnI5bmxfeHVUbkxrTktCTUYwcGJRb1hYMTZKaTBfWFNlMy0xSHVjaEdNSDhPZlY3anJvSmlXRk5UU3BaYXlQVlowdERRZkZRejFsLXVRNDdhRnVLVXZvOUZoeFI1TE5vS1A0eEpFenhuVHcwWU5tVDc4dWRaWDdIYjBSMnNvR0l30gGLAkFVX3lxTFBJZ1hkU2VhT191ZXlDY1EzdWNTWWRWOGkzYTlQRUUxTkgzVGEtbG9zV0VXRXpmLTlEeHcybS0xMGdTRVNVdm93Yk95Z0p0eVBYUk1OZ3ZENFFYSHpqamlhNUdNRkZCUDgwUjFfZk9pZXFwWjh6TElpeHRZRndacHUwWDhobTI1ajMwVTZhWHZIZkk0Z01EOUxhOWt4ejJ5M1Z0ellIQ1BSRVExTFBkbHpLYjFkeHgzUWlZRXh6SU9xS0hNbEQtOWc5Z0FHc002d2ZRaDVCcmVScnpsT1prZk0wWHotTzFLTEJkNjU3Y1NtaHV3WE1NNGhPNVVJMm42bklqWGVJYi1OcHFUaw?oc=5",
+      "description": "Cancelled flight ticket? GSTAT says airlines can refund GST to passengers and claim it back from the gover &nbsp;&nbsp; The Economic Times",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "d2c4839cab5a656f1f18",
+      "title": "TN Universities Functioning Without VC Or Syndicate, Will Impact Higher Education If State Doesn't Take Steps: Madras High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T04:00:14+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-tn-universities-vc-appointment-higher-education-impact-557204",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "fa10197ce274dab81653",
+      "title": "Political Activities Like Dharna, Hunger Strikes & Satyagraha Have No Place In Constitutional Democracy: Kerala High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T03:41:12+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/political-activities-like-dharna-hunger-strikes-satyagraha-have-no-place-in-constitutional-democracy-kerala-high-court-557208",
+      "description": "Educational Institutions are meant for imparting education and not politics, the Court added.",
+      "categories": [
+        "Constitutional Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "18b5f0470d52e1430c22",
+      "title": "Rajasthan High Court Dismisses PIL Challenging Police University Vice-Chancellor's Appointment, Imposes ₹1 Lakh Costs",
+      "source": "LiveLaw",
+      "published": "2026-11-04T03:30:40+00:00",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-imposes-cost-leaves-law-question-undecided-557172",
+      "description": "PIL forum not for pursuing personal vendettas or wreak vengeance, Court said.",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "49d14ae2ee6070723ab1",
+      "title": "Bombay High Court Refuses To Order Interim Deletion Of Mahesh Jethmalani's Posts Against The Indian Express",
+      "source": "LiveLaw",
+      "published": "2026-11-04T03:24:33+00:00",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-refuses-to-order-interim-deletion-of-mahesh-jethmalanis-posts-against-the-indian-express-557207",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "276674b7094ca982b951",
+      "title": "In pushback against Opposition, Minister Logesh says Tamil Nadu’s actual GST revenue grew 15 per cent - The New Indian Express",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T02:33:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONndkOFpiTWE2TVBiUlN4S01MMmhJMlhFaThaSUltYW5OejFMYjdoSnE3UDZXR3B0cGJvcEpXTW5QNWJIMlVfRnZZMy15UWtsMFN5UDBjcFFTZ25UMzkteXJsLUg5THVhc1NmVVRDRENrS2JWNG9CWG40Sm5wOWZkemx2U2Zlb2VBSEtTTlBQa0U1ZlZrdjU2RjdNblN5b0t2YmY4azE0UGRISDZQMWpFQU9uY0o2OXVGaFdlVHltYS1uakV1ZUx5alNCYm1hdzhaaWluLWUwd2JhUU0xQkhlMXFrOEkxbV9uRlVUMXZzUmhWdWxY0gGCAkFVX3lxTFBMTElvQ3plN3pkWE4yNXVVbVJ3QW4yblFSSDNaZTBBd3hnVFFZa2U5OG4ydDhfenhFM3lhdDNyaTVhY29xaDJJUXBKeGNGTlp2cjBrRkNxWmE2WkloM3hBQnJJQ3RZNVZiZmtjYVhLaHN5NXlRZnN5elluYk9LcjZJRHByYm9GYWNDVDY5MU5iMTlIQjYyMnh5bjhwTUg2elFhRXVFQmZPRmc2WTBwTk1oM2JGU05pd1YydDdKTTNzZFhtM2VQNnFfdmd6RVB0NzJxMXZyVXZCZ3ZvMUpVbmUyY2s4Sy1Sek9NMFhPOWNDWmdBSVV1SjctVVZHV2owVFhrZw?oc=5",
+      "description": "In pushback against Opposition, Minister Logesh says Tamil Nadu’s actual GST revenue grew 15 per cent &nbsp;&nbsp; The New Indian Express",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "3506e940056b20c2acd1",
+      "title": "Confidential Information Can Be Relied On To Establish Security Threat: Bombay High Court Upholds Eviction Of Tenant By RBI",
+      "source": "LiveLaw",
+      "published": "2026-11-04T00:45:50+00:00",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/reliance-placed-confidential-information-establishing-security-threat-557171",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "a7d963b90f16a1b25d7c",
+      "title": "Suspended Sanskrit University Students Move Supreme Court After Kerala High Court Denies Interim Relief To Write Semester Exams",
+      "source": "LiveLaw",
+      "published": "2026-11-04T00:31:39+00:00",
+      "url": "https://www.livelaw.in/top-stories/suspended-sanskrit-university-students-move-supreme-court-after-kerala-high-court-denies-interim-relief-to-write-semester-exams-557206",
+      "description": "",
+      "categories": [
+        "Supreme Court",
+        "High Courts"
+      ],
+      "importance_score": 57,
+      "priority": "Relevant"
+    },
     {
       "id": "a5ce268f7fe21247f22a",
       "title": "Supreme Court Daily Round-Up : November 3, 2026",
@@ -120,19 +678,6 @@
         "Criminal Law"
       ],
       "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "3506e940056b20c2acd1",
-      "title": "Confidential Information Can Be Relied On To Establish Security Threat: Bombay High Court Upholds Eviction Of Tenant By RBI",
-      "source": "LiveLaw",
-      "published": "2026-11-03T15:20:30+00:00",
-      "url": "https://www.livelaw.in/high-court/bombay-high-court/reliance-placed-confidential-information-establishing-security-threat-557171",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
       "priority": "General"
     },
     {
@@ -616,6 +1161,19 @@
       "priority": "Relevant"
     },
     {
+      "id": "806e8144093b029cd8bb",
+      "title": "GST E-invoice 5 Crore Rule: Major Changes from January 2027 - CAclubindia",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-03T11:29:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd202cWE2U3oyZnY2dS1UTzF0b1AxZVhHVWt4QmpRXzI2dlNEbVNFWHVjZlhYb2o0UHVWLU1QdlctR3ZDZU5yZVZDcEVkMUxGRmRZVS15MDNtNHROZ1hCSUVJZHpLY3pyRXktTG1Oc3J2SlZSYndGdFd1Q05kczNPc3ZaTy1QbDA3WXdDZ2cyMENCNlRYUW9UWmExMUczaG9pQWJzU3BJZw?oc=5",
+      "description": "GST E-invoice 5 Crore Rule: Major Changes from January 2027 &nbsp;&nbsp; CAclubindia",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "2f4b1b87d04095f32d7c",
       "title": "Supreme Court Seeks UP Police Status Report On Probe In Assault Of 4 Advocates; Directs Protection",
       "source": "LiveLaw",
@@ -630,11 +1188,11 @@
     },
     {
       "id": "bfe19f7a2e0f32012630",
-      "title": "GSTN Updates GST Amendment Verification Process - Taxscan",
+      "title": "GSTN Implements New Online Verification Process for GST Registration Amendments on GST Portal - Taxscan",
       "source": "GST Legal & Regulatory News (Google News RSS)",
       "published": "2026-11-03T11:18:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDhXMDAyZjhBZXp6UUFWX1M4XzZXZmc0SGR0RXpFUGYxU0RJeUxTdmZSQzFiVDdMLVpzaEhWSHdqWXowSGNCaVN4bzVDVi1MWkZlNVlZeThGRlNxcVotNHBFRkxEZnl4OEtzelgwY0o5b0MxNVVTTlFtTGIwd25JbXcwTmg4N05pVkp1cS1SekxNZXpiU25BLWZyVDQ5Wm1KQnJiR0xYSGx6TUJRc3I2WjJ5aXE5Q3BHLTNrVw?oc=5",
-      "description": "GSTN Updates GST Amendment Verification Process &nbsp;&nbsp; Taxscan",
+      "description": "GSTN Implements New Online Verification Process for GST Registration Amendments on GST Portal &nbsp;&nbsp; Taxscan",
       "categories": [
         "GST"
       ],
@@ -2951,6 +3509,19 @@
       "priority": "General"
     },
     {
+      "id": "5a6af2dc2c9607be16c9",
+      "title": "Gross GST Collections Rise 22.9% To Rs 2.31 Lakh Crore in October - ETV Bharat",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-01T07:32:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzh2T0Rrb2pDRGZjaThoc0VXbTZueFZpOHVhaTBnUC1Xb2pjQ1U5dnBIUWVEakNrUW43ZjZqc3lqYXBOcGU0VXdDUlhmSUE4OFJpYmNSNkhHRGdGZWNJdTVaN3lJUjJoaFQ1VEt3cF9wV1JkRXhHQUdUOWVPWWJnUDIwRnF0RzAzeFE2M0kzTTEycWY5VldRXzJWWjdPYUNsSVF6Y3ZyRVBaZF85bE16cGozR00wUW1fM1llLVVfbnlrUnF4bnFqdzFrc25hYzZVOGw00gHYAUFVX3lxTFByYlNPdzF1d0hsVjQ5ckF4NXlBT1IzYVQ3Wm9EX2lLNkt1TURSWkhMeGU3SndENHhJSWpGRjY3ZXVmYnVrdzF0QW54bnhvbm1FdmFscTBvdGxKT1BJVWp6MFRiNXBCTmFfTzBpMHEzT3hXclp4SzFGYkxETkFkREJEaTRPZlllbWdlN0FfZm5NUGR1aE43S0ZSR1VTQnBmRVFmeVdFOWJoVGdiSlZIQWJKb3UxbXFjWXNkTUV2Mkw1TmxtaWh3ZElzUzEzRXJGcXpCMENhelE1Uw?oc=5",
+      "description": "Gross GST Collections Rise 22.9% To Rs 2.31 Lakh Crore in October &nbsp;&nbsp; ETV Bharat",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "804aa6aaaa3eefa12ea8",
       "title": "GST Collection October 2026: Gross revenue rises 23% to Rs 2.31 lakh crore, Net collection up 26% - Zee Business",
       "source": "GST News (Google News RSS)",
@@ -3102,6 +3673,20 @@
       "description": "Telangana HC: GST Arrests Must Comply with Section 69 of CGST Act &nbsp;&nbsp; Taxscan",
       "categories": [
         "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "a8eef3745be35a5880dd",
+      "title": "Andhra Pradesh HC Rejects DGGI Plea to Cancel Bail in Fake GST Firms C - Taxscan",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-01T05:25:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbmM5dFVRcEtMbTVZQnBlU3JoZFFBWEI1eHVIME9BdmxJOU9sTWJKRmZ0NFlDejdLaFR0azdnSzVKeXFnY3hXVkFsSXhFeHRpdklnWkV0bExzU3ZfcnZuSEp1aVhCT1ZOQmtwclp1dDE2ZHBXRW4tZVl6Yms5bHFvSkxHQU1lRzRhbFc2MWZtUDdRUV9qdC1naEhnY0pRM0dwaDJHeU82QjJjME9VSWZHLXJockFGaXlKWUJuQ1JmU2tfN05Oa3RUY3pCQ04tdnNVSFVsMGtiM2VoYkxkaXFMSA?oc=5",
+      "description": "Andhra Pradesh HC Rejects DGGI Plea to Cancel Bail in Fake GST Firms C &nbsp;&nbsp; Taxscan",
+      "categories": [
+        "GST",
+        "Criminal Law"
       ],
       "importance_score": 30,
       "priority": "General"
@@ -3454,7 +4039,7 @@
       "id": "a13af3fb5a747b4f3e58",
       "title": "How to register for GST under CBIC's new guidelines: A step-by-step guide - Upstox",
       "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-10-29T07:24:43+00:00",
+      "published": "2026-10-29T08:23:14+00:00",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb0psMG5WX3RmYlJMRjk2ZjNYWmZOR1ZBeC04RXVQRGc5TlotY21Oa3V3UHdKcFJvT2JsdXp0ZzV6VG1EY1hOVE9oQWMteThXT2ZvTFNGaDFOa0wyWkd4eFBWOFJJbC1LNjRKaEY4LTU2UFMxcUp1WHFkaXBGaV9qUE1BaExiclV1bEpPUjBta2RyTnVoQklzQnFmZjdzclhtOWhYNTZOYlhkZFdzX0tYRlNjekh1U3VCUE9yeDUwYXc1S2IwU05ZcGhNc3Z0ZWlMZTM0Rw?oc=5",
       "description": "How to register for GST under CBIC's new guidelines: A step-by-step guide &nbsp;&nbsp; Upstox",
       "categories": [
@@ -3582,6 +4167,58 @@
       "priority": "Relevant"
     },
     {
+      "id": "ea6ac0ff02e994063e9c",
+      "title": "New GST registration rules 2026: Applying for GST number? Check documents, deadlines and 5 key changes - Livemint",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-27T14:12:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZkxFaHYxNnVNbHhhUk9KM08xaGEwakozb2hETzFKTXlySU84LXpSWVVvM01oT19iTFJHcjlzZENNb0RDenEzNmRWZm5UNUdSdDNiVVhVQUNWMGc1YUF1c0EtVDdFTFNUdG1BNkYxV2tiZnFibzhNTGhXb29nbjBLMHliWnFSN1N6NXNRSEx1dG1sd2tQVlBUN2h5QmJxdFRKbGkxT0tkcmx1cDQwai1sTndDV2R6VWM3SldJazM0dGtJRGxVY2c1ODNmaDFURXBFRzg1QnczeDBBN3dWOTBtaU1ua3Q0ZDgzNF9lWFVCOEpnSzhWNG4xaEhJSdIBgAJBVV95cUxPeXFEdGlzQU9LcXZBd0Z2WFl2S0RsNmJNNGliTF9mNDQwS0ZST25EN1gtZ0kzLVBZZWtKOU1QeVlEb0sxNTNSS0hQdWFNUXcxMkRPRE8zX1paalZSb1ZhLU9ZdllEYS1TWWFRTFZXR0NjNjVYNWVVTlVYcm1lOGlja3RDSWI4ZUJEc3pTNlBzejExN1BsRTZmelNoZEp2bHNtWFVmNExOT3ZnVVE3bWR3OWIwLVFGc1dfLXhUYkdHY0ZxQ09mSUZvT2VWdkduM2pyS2hFR1pVeThLNnluY0VvcW9fSUdwcjlkcUxqTkdlRmUwLTVhTGgtQW8wNUU1Y3Jy?oc=5",
+      "description": "New GST registration rules 2026: Applying for GST number? Check documents, deadlines and 5 key changes &nbsp;&nbsp; Livemint",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "7529fea79765a42d96aa",
+      "title": "CBIC clarifies rules on GST refunds, pre-show cause notices and export settlements in major procedural... - Moneycontrol.com",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-27T13:00:49+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeW53VXpJdm1XTzBSM21qaGtEdm1OclhicWozVlBfN3RmX0VZTGFDMzFSdkMzRmNmbUpKbXV1aEZDX0RwaXRYZGpXYTVIYWtVMVRHdXhlX2hoeEJmTFF4cUR5bHV3RDdPMGQzZDhLclFOeHdIMXc0RzREeTdpSjVUM1VrdjdEUTBFczhkcnYyeXNPay1rLWRkZ3BJdWJodUg4RjJMejVkb0hybmEwUGhOTkpYNXJIRGdOd0tEMXJrV2twcFMyRlRLX3hmQVpjRnduV0JkUVJ2RmZ1MVZMcC1OVlVrbmkzVnctUGNqeFhzWVRkNHZxZm44Vm0ySdIBgAJBVV95cUxPRmoxMXpMRlN5bWdOck1fYldmVGJueUpUMDh6V3VISTNkckVsQ3FXZE5vSllTOGM0ZjB3QWdxTXIyTGxLNXEtSnp6UHZGUFdnRU4yMGUxZWJwYjhtZkNRU0ctVWpkVU1oSGtfM3ZoQkNlYTZ4anZQaGVPTjlQUW5mZHExTjhkaF9pd1pCQXptc0xsOWpYbXlJTFNYa2JYMzd4akJ6Q1hlZ2dWc2ZrT2w4RmtOLUs0ZUxsczRQVzNqaVcwRnlHc2FHcUtzZHBNOEdsd1hfNzdkTm9UX2RiWENmd3VEWTFVZjJVZHdqWHVqY2w3RXJJUERtTG9VVXh0WkNF?oc=5",
+      "description": "CBIC clarifies rules on GST refunds, pre-show cause notices and export settlements in major procedural... &nbsp;&nbsp; Moneycontrol.com",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "8663c054f362cfdc102d",
+      "title": "CGST amendments on discounts and refunds to take effect from 1 November - SCC Online",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-27T12:30:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTk8tdXVCb3Z0aGF4ODRlVGI0Mnk2bExuZmdxRDNKbm1nMVVMYzhPSnpJdjVGU1NQdm91M3h2SXY0ZWVDMjQ2eWZBQWJ3MUlHLUZuZTcya3MwY3IxQVpEd0pzOG5RcDd5R1prT2d4NWZOUFk5OEM1ODMwNXM1NjFsUFpOVTZqTWFaV3ZWdVFBal9wNWU2bXUyMU9DZDY4a3NVSFRZ?oc=5",
+      "description": "CGST amendments on discounts and refunds to take effect from 1 November &nbsp;&nbsp; SCC Online",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "0c8ec2ab0f3ed7b127cb",
+      "title": "CBIC issues GST clarifications to curb disputes, tighten adjudication - The New Indian Express",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-27T08:48:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR2ZMWTVJcmRvS0I3TkJJeWVVZEEteFBjM0RUNXN2TVpKa3ppVDVEUFJseDgtWDczUGdSQUhkMkVKRVZ6UENORFh5VnpNSDlPVWczN0NlSDBxMWxXa1VlWUlYYzRIZXg0NUJlY05ockFGOTRfb094eDd6dHR4S3czZU1KZnZhdUd4M18xclgyNVI2SHdMbGoxZThnUW9WREp6Vm1KZ09kY1hCZGlTSGRqUk5VTUYxM0VuQUxURXEtNNIBzAFBVV95cUxOd1hFNlZ0ZzlBZjdZakhzb2pTaU50Q0tHYTFTNUxFOS1fWTVuMEtKbWRSSXZvZU82ekN6bmlremdHTl9ydm8ydHBIb1ZDS3RCN2t4RkV5b29QU242WTBzUmFxeURqeC1MTWxXZVBGV0Y4WXcyd2J2T3U4RllfMFhOZnhiMjRVRHZNQ3RrU2tvSzg5SnFFSDg2bkRqZ01RLVhFTTMzZFlVZ0Z2aWxlM3FaWFBrZkZQTTVHaTdWN1ZKM1FnZ2wzd1d4ODZPbUQ?oc=5",
+      "description": "CBIC issues GST clarifications to curb disputes, tighten adjudication &nbsp;&nbsp; The New Indian Express",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "716b1947939825004455",
       "title": "GST Notification: New Change - India Business Trade",
       "source": "GST Legal & Regulatory News (Google News RSS)",
@@ -3615,6 +4252,19 @@
       "published": "2026-10-25T14:30:19+00:00",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHpNa3pJSUxIYTUwMGtidy1wTlFSRDRYV2dGSEpJVjFzbV8zM1lyUmVtWFNPYVdJeTljclVROVRTcVB6QlBjSFhURVlCZ3IyaHNhR1dsVlRnbEFkZ1ZCNmlaUWJqSnFMVUxRc3owamJUVXpLQVVqUTlKQ2lkXy1SZU96b3ZpV0FGSGxmd2lfUlBKd3FTTC1ET21xSjlpczVv0gGmAUFVX3lxTFBwVGpBSlZjN3AtRzl6YV9NNDRZQ00yOHEyVk9NWGZXMkZnSmcwWVAyYlVReklzMmVGTUxWUjVLNTliV3ZHY0RaOEYzZ3VUTk1reFZOczJfTnlBUk95cE9LYkM5VklBQ20tbmgtM04wN1NSMVR6RXRYRU9HWnZPcmtaVlJSNkNCZUp2S2I5NHd5NHlkUVBwRUkwMWlQS3R4SlY3TGRoY0E?oc=5",
       "description": "Handcuffs Come Off, Leverage Stays: India's Section 69 GST Reform &nbsp;&nbsp; Live Law",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "f84238b671126e1babdb",
+      "title": "GST reforms to roll out in phases from November 1, says CBIC member Mangal - cfo.economictimes.indiatimes.com",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-23T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOUZKZmZOTVd5a191ZlEwVEx1UGVGVEMzeE1NendteEZFdXZOSFVZOHRYQk85aHRHVE11NTVaeTQtQ3ZhUzFlMXBVaGZETXdwMnBDSjFBUFY4b1NjYlljS1dKb1FMV3ZDcW9vOFpGaG1Sc1NqU3gtUkpBQjdveEp5ZUhRdnBHRFA1NkU2LTdEQVMzVmlIckE4VHFYYkI4SGI4OXdRalBZX0NVUVlOeEdPUC1Xa2lKb1locnptcXVPbEpUVTVpMDR5YVhBcnBPbzdWWEhTMnp5c1dhOThTNmR5cGc2S2TSAeoBQVVfeXFMTzBwSlM0bjJPY2dheFZDNDVTWW5FcS1DUFIzc2YwSXNybG9JeUhRak9ZTEkxMXRSbVJfaGlNSUtLUWNER2dMbnFBWVN1RUJ0LVdDTGp4THdNNnpoNHhFRTJhRXhrQUxwS3hzb0pldVZtbkhYSWZxeUFOdUdkTUZkaDhEQ0lUSE9qMmJwdkV4R2ptaFlxQkQzQ2NtYlNxbkhnamt6TUxRTHZTbWlWZmhidzhrcE1JMDBIRkI4MUdEamtoRGZvVmpWRERhLV91RjBnazV3WGg3MVV1b3h4b2JWbWpScm9tSDFWdUFn?oc=5",
+      "description": "GST reforms to roll out in phases from November 1, says CBIC member Mangal &nbsp;&nbsp; cfo.economictimes.indiatimes.com",
       "categories": [
         "GST"
       ],
@@ -3659,6 +4309,20 @@
         "GST"
       ],
       "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "00b508799523f8ac9e2e",
+      "title": "Amul wins Rs 43-cr GST battle as Gujarat High Court quashes tax demand - The Indian Express",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-10-16T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRmMwQmdUdG1Jamp3Y1B1TC0wWTQ5VXg4RHJkNkg2V2sxd2I1ZWRYenoxODFIdGstWEtiamd4YmFLZUdRXzdOTUhRWFF4SjN6S0M1N1pyVFZxU3FwQXVvWkhKcm12VlBfaGgzUHZNQ0xLNHJMQjcwc0E5ZHlGNXU4a1hfY3BlT1Q3RFE1QTRybWZtdzJlS1JWVjZCaHY0Z0ZGR3JOQkpqVk16N1NOWlHSAbQBQVVfeXFMTnRENUJzbFRBN09KNGk5MEF1amNtWFg4OG11SEJhYlBuRWd0VUZGOXpTWjJaVU1nWmwyVktwZENOLTBXaGVhelpaaENvRFYyQzZNOUp3Zm85S01Wdk44Q0Jfbl9lMUswbmtUMXhXRUZMLVBnMXMwNGtpTGpLU0hRb3RVU21xbk54WEVGb0ZPTHRMSWVvQXREb1lza2VlTXJUdXBsalpaZ3k5UmUyNUd0Y1lOY2hF?oc=5",
+      "description": "Amul wins Rs 43-cr GST battle as Gujarat High Court quashes tax demand &nbsp;&nbsp; The Indian Express",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
       "priority": "General"
     },
     {
