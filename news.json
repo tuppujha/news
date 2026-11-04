@@ -1,9 +1,153 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-04T15:29:40.478261+00:00",
-  "article_count": 459,
+  "last_updated": "2026-11-04T21:56:27.207655+00:00",
+  "article_count": 474,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "bcab8dd2fa43e1210d64",
+      "title": "SC upholds states’ power to levy additional sales tax, surcharge under pre-GST regime - The Economic Times",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T19:30:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaExaOFRPd1VGRlkwejR4QmpST3k5X0RQY1B1YnFnNFV6Nk14YnNQdWpJRFdCWm5HbVJLeHNCMzFjNi1kN2hZNXZINDRzQUl3UnlheDJka1RGSmdoVUtRU0k3UFVwekNoM2NuY1Z3VFRGT29jN2hJMjROakktWmhhR2taV0JaVEZfVllaTzN0VmNYblJONWZwalVPVmtielRnZjNFYm9NYTlfVDdFRFNVSDNsMnRlZUFCZFBaY2N5dHlLNDJKZFhGU2R2M1EwY3p2M1NVOW92Z3dkWFUyM2ZxT3BB0gHnAUFVX3lxTE91cm12VFc1NXpYWlNMWi00bWNlajJtYmE1V1VOQkoyckR0Nk92LTVPY2xVcGV2dFYtR29ZVnk1U0lnWUNqVnRnOFVMNG1IejJ3OF9lUGE0RDZ6T2h1eXloOVJwQWtfMWs5MWtobUNCb2h2ZzdqTm9pdWlmUi02b1hNZFRwc2hmMnhPSzdOaFhwYUFfYlc3TGt0LWRfYWdMWE8xdmYtd3lOQTNFRjBTb2pmTjJIckktXzVpWTlNb2J6aUxSVjJPLVpZcWVUdVZkUUFpQkxNRk5mOWZ0dDlFVzhVQnZDN2VFQQ?oc=5",
+      "description": "SC upholds states’ power to levy additional sales tax, surcharge under pre-GST regime &nbsp;&nbsp; The Economic Times",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "30cfd791482075770a38",
+      "title": "SAMHI Q2 EBITDA margin fell 300 bps on GST credit impact - Multibagg AI",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T19:23:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWlPREZUOTBQend5Z0xZM0JOcFFNckh2V0pwSktKckxuYnQzcDByYVV0N0xMYWNzZzMtZHpQdkszS3Z3Z0h4MUxmRUlxOVdXazBwX3liT2pTQzFoS0JOTnhFdWxBMGJTWC00azdIdXpIWWNYZURaZmJhY0ZpWGlIRi1UbW51cHBfLXRHaHJjeDdqTGhqT2dIMkdBTVctU2FRUGtRN0lKZkozbkE?oc=5",
+      "description": "SAMHI Q2 EBITDA margin fell 300 bps on GST credit impact &nbsp;&nbsp; Multibagg AI",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "bb68e4dfcd39f1e5700e",
+      "title": "Supreme Court Daily Round-Up : November 4, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-04T18:25:52+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-november-4-2026-557375",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "fdd83cbfad833626b593",
+      "title": "Chennai Court Acquits Former Minister K Ponmudi In Hate Speech Case For Comments On Saivism, Vaishnavism & Women",
+      "source": "LiveLaw",
+      "published": "2026-11-04T17:53:41+00:00",
+      "url": "https://www.livelaw.in/news-updates/chennai-court-ponmudi-acquitted-hate-speech-case-saivism-vaishnavism-women-557388",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "57b7d0d6e9d246ca9077",
+      "title": "LiveLaw High Courts Daily Highlights: November 04, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-04T17:01:07+00:00",
+      "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-04-2026-557377",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "d06bca5b3375aae3ecd3",
+      "title": "Students Must Not Be Uprooted: Bombay High Court Allows 14 Schools Operating Without Sanction To Run Till March 2027",
+      "source": "LiveLaw",
+      "published": "2026-11-04T16:50:36+00:00",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/students-must-not-be-uprooted-bombay-high-court-allows-14-schools-operating-without-sanction-to-run-till-march-2027-557381",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "f3ffc75cc7eeca4df4b8",
+      "title": "Supreme Court upholds states' power to levy additional sales tax - Business Standard",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T16:46:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbklGY0tOZml6cE53eGNTQmJkOFpyeF9TZlBZd1l6T1BuOEJLMzNHQkh2YmZOeWZXLU5sb04wNlRmNGw2NjhtM0RkZS12bWtaNjZHdm52S2JBTGZsekVXT1UwNGNmaGhtc3NQb2plV2hVLUZaWlhjaElrNzFhMTY5RzVudm41MmdkMkNnVkVwandRaEcxVjdDWGdPOGNiaDViRDI0YVVvRUg5SmtINnBic0Jkazg4amx6S2xOanF4Y0dscTFhbncxWlhXT1ktel9QLWfSAdcBQVVfeXFMUEhoTnlaZUtKUHZieG5UZ0xBNVhaZVFXNEdtNGNqMVd2dVk3QmhYYzJiRWZfUk9hLUlUWExBUkgxUW9qclhmSzhtUU8yWGFuUUMzN1hXRHA5WHJvZFVvTmx2WGx2cnV5MmNTbVZFczJtTGw2MzlGeXF0aklYSmNaMFRnYldfb09SNkhKUTNyUmFhczNsU1NsOWN5UC1JU2lfeVVvRmZyLURIWGc2ZHdNbXQwb1Z5YzItQXRLdy1oblpFbUhFRGVhbjJtLXNMb0pWa0pDbmxnQWM?oc=5",
+      "description": "Supreme Court upholds states' power to levy additional sales tax &nbsp;&nbsp; Business Standard",
+      "categories": [
+        "GST",
+        "Supreme Court"
+      ],
+      "importance_score": 55,
+      "priority": "Relevant"
+    },
+    {
+      "id": "5e3bf559e22bfe75f928",
+      "title": "Judiciary Is Citizens' Last Resort, Judges Must Hear Advocates Patiently: Justice K Natarajan Bids Farewell To Kerala High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-04T16:40:00+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/justice-k-natarajan-farewell-to-kerala-high-court-557380",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "b27b0fb113b84cb29273",
+      "title": "One Factor I Consider For Elevation Is How Judge Would Be A Team Player In Supreme Court : CJI Surya Kant",
+      "source": "LiveLaw",
+      "published": "2026-11-04T16:34:09+00:00",
+      "url": "https://www.livelaw.in/top-stories/one-factor-i-consider-for-elevation-is-how-judge-would-be-a-team-player-in-supreme-court-cji-surya-kant-557378",
+      "description": "With so much filings, Supreme Court is virtually playing a T20 match, CJI said, at the SCBA felicitation for the newly elevated judges.",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "a1c6535396710232ec20",
+      "title": "2026 LiveLaw (SC) 1132 | Arjun Flour Mills v State of Odisha",
+      "source": "LiveLaw",
+      "published": "2026-11-04T16:07:32+00:00",
+      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1132-arjun-flour-mills-v-state-of-odisha-557376",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "74828d2707543bdc10ab",
+      "title": "Bombay High Court Seeks Details Of Maharashtra Government's Scheme For Drought-Affected People",
+      "source": "LiveLaw",
+      "published": "2026-11-04T15:55:45+00:00",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-seeks-details-of-maharashtra-governments-scheme-for-drought-affected-people-557374",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
     {
       "id": "0c93de3adcadd52c6c5f",
       "title": "LiveLaw Daily | 2-Child Rule, Deleted Voters, SC/ST Quota, Khan Sir & Child Labour",
@@ -104,6 +248,19 @@
       "published": "2026-11-04T14:20:58+00:00",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTlNLZERieURsZllxSENoVE5yTlB4QUFtekZkTUpTeG5OMGNvbjg0R2pHVEpJNy15dXBnSEstU0xQdVhfLVVmdG5mTEpTcGtnaVFPc3AxSy10VkhWSnFkUmN2c0dOTldmLXVKeXA1T2JBc1VLa3drNDdSQlVIQlFweGNrVQ?oc=5",
       "description": "LATEST CASE LAWS UNDER GST – 04.11.2026 – A2Z TAXCORP LLP &nbsp;&nbsp; A2Z Taxcorp LLP",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "5927c4b6af1c7314a3f1",
+      "title": "Andhra Pradesh leads South with 24% GST surge - A2Z Taxcorp LLP",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T14:01:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEWEtUdWhEdlRMSGFpdUdYclk0cDZiYzFkRXEzRzJhOThtWUJwM0RraWs5N1RIcTIwbFVlUVYtQUsxRGZWTmZ1WGdndWlhN093TU5LelJXWWY0aGg4dVhLcnkzNU12NjVlYk9WcDMtRTd1cGNmTXdr?oc=5",
+      "description": "Andhra Pradesh leads South with 24% GST surge &nbsp;&nbsp; A2Z Taxcorp LLP",
       "categories": [
         "GST"
       ],
@@ -216,6 +373,19 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "9fcb3d4891cb80848055",
+      "title": "CBIC Directs No Further GST Arrests, Bars Notices Below Rs. 10K And Restricts E-Way Bill Checks [READ INSTRUCTION] - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T12:48:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVJ1OUJ0UG5teVI0Q2JkY0RJWnZtZGF2T1l4Z2ZMbDJWRG5hbUx6a2M2eWRRV0xMYUtPTVBnd2Z5U2lhMDNvMXdJTUdyMEQzQVlkbVhzNDRoWFF2a3J5ZkNMdlMwVFBSZFF4RkYxcF90WjNYVjFoZ1ZnZW9MNEhabFhNblZfN09n?oc=5",
+      "description": "CBIC Directs No Further GST Arrests, Bars Notices Below Rs. 10K And Restricts E-Way Bill Checks [READ INSTRUCTION] &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -355,11 +525,11 @@
     },
     {
       "id": "ed0f0b7d3ea26b95ac70",
-      "title": "GST Registration Cancelled After Accountant Failed to Inform Taxpayer of Notice: Karnataka HC Orders Restoration - Taxscan",
+      "title": "Karnataka HC Restores GST Registration After Cancellation - Taxscan",
       "source": "GST Legal & Regulatory News (Google News RSS)",
       "published": "2026-11-04T11:33:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTXdwdXRnUDJiay1EQXAtNWJ0NHJVMUxzdnZ1Z19LNXVQcmg2NGZpU2Y1NTl4UVlHT3J0T2FuVUV2QUVBYTRsQ1ppN3FKYS1EdXA2XzZBUjVUa3ExcnRlNDlFZHNYejg4YTJEbWdVYXRRQkdydldsOEVidGY2T1FmZTlOYVo3Ty04dUc4R0lzTkpLMkdOWEVLS3ZldFQ4NUduMml5aGFGSFJYcWxWdnlreTFlb3NlQUEtUXJrZjZ6VEZkcDVUbVFCckoyZFE0OFFHeGNjTw?oc=5",
-      "description": "GST Registration Cancelled After Accountant Failed to Inform Taxpayer of Notice: Karnataka HC Orders Restoration &nbsp;&nbsp; Taxscan",
+      "description": "Karnataka HC Restores GST Registration After Cancellation &nbsp;&nbsp; Taxscan",
       "categories": [
         "GST"
       ],
@@ -922,6 +1092,20 @@
       ],
       "importance_score": 45,
       "priority": "Relevant"
+    },
+    {
+      "id": "e978eb92fd16c005c646",
+      "title": "GSTAT Upholds GST Refund Despite Delayed Credit Notes for Earlier Period - StudyCafe",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T07:35:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMVo1VTNYeVgzXzYzYS1PU3hDX1h0bExzWUdoQkNiT3hBOVBmUGh5dzFfQ2Z2QTdKNDVPdWdkbVc2TWJhXzZqVlYzS245bW5rSlc0OU5nM1FQcmt2THRPdDMydjNwNVJEVE4tdEZMSVZjMFdicjdwanFHbWlBWEpBSnBmd3NGLTh0MkQ2TE9KRkNWVG56Wm9XdmhuR19wTUtiQmNrdnNrVDk?oc=5",
+      "description": "GSTAT Upholds GST Refund Despite Delayed Credit Notes for Earlier Period &nbsp;&nbsp; StudyCafe",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
     },
     {
       "id": "4605db39f93e329c4628",
@@ -4220,6 +4404,19 @@
       ],
       "importance_score": 30,
       "priority": "General"
+    },
+    {
+      "id": "bc90fcf3afea34394320",
+      "title": "CII calls GST decriminalisation move a landmark reform, says it will boost business confidence - CNBC TV18",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-01T12:26:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWhRQXFuV1pJLVRjcXJNMUhhSXlfZWJwNkdlSkRvemFQaVdoNzViMWU0RWRVZDFleG5pcDlIVi03OUhIV1hJelVoTTdteWRkMlJZaTNJeHNmVi0zRGlsTHZ4WFduc1ZQQkJXLVVKZGJWN1lrdldjOTZpX0hvcVhfbE5lT2g2SnM4T1pDZXF0bG1jVHRHdDBiMFE3dVZ4RmNyeS1VN2s3aHJBSWY2eXlZS9IBtgFBVV95cUxOVDBhcmNkdTAtTUg1TXBTVzBVOXpGaTZ4NEs0cmJtMFJQMVFHbEt2aEU2UFZDQkUxYWljaFJxUGU0TTJLYTZ0OGRlQ1gyTkR2cWRlQ2ZHY0FJeFJRWGpDamRyd2JJeEctQ25aX1hnaVhMVlhRWGlpOUE3anpKa1RMVTFfNk40S3lldHlIY3I4OV83QllOM0MyYWdtTUJLcUlvNXpGSW8zckp5eFFzMUtKcVhpR0pQQQ?oc=5",
+      "description": "CII calls GST decriminalisation move a landmark reform, says it will boost business confidence &nbsp;&nbsp; CNBC TV18",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
     },
     {
       "id": "a73aaedede3bc94f495d",
