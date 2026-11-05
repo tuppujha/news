@@ -1,9 +1,49 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-04T21:56:27.207655+00:00",
-  "article_count": 474,
+  "last_updated": "2026-11-05T02:32:28.397822+00:00",
+  "article_count": 478,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "96dd291a2c8047967f60",
+      "title": "Program Associate-II Vacancy At Media & Communication Office, IIT Gandhinagar",
+      "source": "LiveLaw",
+      "published": "2026-11-05T02:31:25+00:00",
+      "url": "https://www.livelaw.in/job-updates/program-associate-ii-vacancy-at-media-communication-office-iit-gandhinagar-557394",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "6e44d09d404866b7a584",
+      "title": "Research Associates Vacancy At National Law University, Delhi",
+      "source": "LiveLaw",
+      "published": "2026-11-05T02:30:38+00:00",
+      "url": "https://www.livelaw.in/job-updates/research-associates-vacancy-at-national-law-university-delhi-557393",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "9348bc84fa9bc6061ddc",
+      "title": "Clerical Error Led To Withdrawal Of Cheque Bounce Cases: Rajasthan High Court Says Writ Not Maintainable, Remedy Lies Under BNSS",
+      "source": "LiveLaw",
+      "published": "2026-11-05T02:30:04+00:00",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-clerical-error-led-withdrawal-cheque-bounce-cases-557379",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
     {
       "id": "bcab8dd2fa43e1210d64",
       "title": "SC upholds states’ power to levy additional sales tax, surcharge under pre-GST regime - The Economic Times",
@@ -842,11 +882,11 @@
     },
     {
       "id": "517e2b5c31657958c021",
-      "title": "Supreme Court Reaffirms States’ Power to Levy Additional Sales Tax, Holds 27-Year-Old Reference Infructuous After GST - Court Book",
+      "title": "Supreme Court Reaffirms States Power to Levy Additional Sales Tax, Holds 27-Year-Old Reference Infructuous After GST - Court Book",
       "source": "GST Legal & Regulatory News (Google News RSS)",
       "published": "2026-11-04T09:34:14+00:00",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzJVbWZZS0Q5T05QeDBtTUljZ2ZTbzJHQ2xGWXNsY3NiRmtmZ1BRYndTZFFjUWIyTjZoZjhpVzBmd3dJSDc0aXYtWlZrdVcwTEN4NndBdWZkRFd0d2VjYWZZRVUzbGVmY2VfN1lPbXR4VGdsZ2RzTGd4UlBLaG5PRVpsS1Fqa3BacHU0R2pzcWFkOEtraWswYVQ1alRUYWZYbkFHLVctcWFCd3lSUXBYdmlwLVZiNk01cnRzUVJ3M0RxZzR6RDV1dzl3Tk1vRUhLajRaQ2R4Y3RZZw?oc=5",
-      "description": "Supreme Court Reaffirms States’ Power to Levy Additional Sales Tax, Holds 27-Year-Old Reference Infructuous After GST &nbsp;&nbsp; Court Book",
+      "description": "Supreme Court Reaffirms States Power to Levy Additional Sales Tax, Holds 27-Year-Old Reference Infructuous After GST &nbsp;&nbsp; Court Book",
       "categories": [
         "GST",
         "Supreme Court"
@@ -3499,6 +3539,20 @@
       "published": "2026-11-03T04:49:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWY1UGhZSklxMGh6aExLWkpCSDU2d2JQVzU3VzhfamdXQjR3TF9CYnVXQWJEeE9hZnFmcVJ2Nzh2V2dYcnVNRlM4UDJtTFYzSm1BOW9BNnhIVldYLXl4SklzaHR1NEF2S3pQY2RqUW9nTFJvbFgySEhRa1dwYkZVd0VMLTBNSVFuMXNTQmdjNy1GMnFsOVE1c0k0bF96SWg4Ql9nbW9PTzdrLVRzdTAzMktwTQ?oc=5",
       "description": "GST Refund Filed on Feb 29 within Limitation After COVID-19 Exclusion: GSTAT [Read Order] &nbsp;&nbsp; Taxscan",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "58b2e972608ef8743d1a",
+      "title": "GSTAT: No E-Way Bill Required for Rubber Latex from Agriculturist - Taxscan",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-03T04:49:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNenRBNndQdVRCQU9uRHMzS1hNOU1nYmtGRmtBMmhIbmhkVXBEMUtPYWNWdTJHVnBCSUJIVWxFbWNGUjdUalB0ckZyU2dNRW5YbUZkVmJaQ29TVlhjWm9Uc1VpTms2QUQ2d2F5ZURmeElSYnVhQ3E5b1BicWwzcjM0bnFLUHBzVVk4aTNDcFA0Z0VqN181bENtaFNQZk5ReG9BOVA2MmNtM3dUV1E3X1lORnMwM0ZiaE1MazY5cVNZYnlicllkT21aOWhzaVJyNFZtWUctZ01TY3VnbFk?oc=5",
+      "description": "GSTAT: No E-Way Bill Required for Rubber Latex from Agriculturist &nbsp;&nbsp; Taxscan",
       "categories": [
         "GST",
         "Tribunals"
