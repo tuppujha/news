@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-05T18:48:16.239792+00:00",
+  "last_updated": "2026-11-06T00:22:44.145750+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "d256374c0aa67033c8e4",
+      "title": "LiveLaw High Courts Daily Highlights: November 05, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-05T20:11:44+00:00",
+      "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-05-2026-557564",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
     {
       "id": "e46de2505cc47449ef89",
       "title": "Supreme Court Daily Round-Up : November 5, 2026",
@@ -603,6 +616,19 @@
       ],
       "importance_score": 52,
       "priority": "Relevant"
+    },
+    {
+      "id": "618f1f044a4405fbd9ae",
+      "title": "9 years of GST: How India’s biggest tax reform has evolved - Mathrubhumi English",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-05T10:36:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2Y2a0tqdWxCRElRNmxUajFpc3gyR0J2Smh6RUc4MjhjSWdHcmVBQnQzTndPQWF1c0NyUE9ybFREaEFEU0k4TWp6S1NXSmlYc29xWk5rODMtakl2R0N6UWxRMTNqWFJ6c21UeTlnanR6SjZESlp3WjU2UVFSRHUtSWdraDAxMl9ra3FWVDdTcHUxMzZTRkM4czVjSVU5Q1FfUExhWW9vM2bSAa4BQVVfeXFMUEtHeWFORUl6NEpOVG1LRWQ5d0dnV2xKRmRYSEtFUlY4MGNyeE5HdlhZVE1paE50WFdMX2RYM3pyWmdJc0F1X2RGMGN6cC1fYVg1WEktR0xDYUlaMi1MZlRETkV2ek5Zd2o3ODZyZ183UE5GZGFBWjNpd1lnZmdwLVBSNHdLY3hweXhxMER5eVU2b2NrSVB3eEotYk9ZejhEUGJHQlJHTXVSRjhOR0NB?oc=5",
+      "description": "9 years of GST: How India’s biggest tax reform has evolved &nbsp;&nbsp; Mathrubhumi English",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
     },
     {
       "id": "a19fdd4cb9c19efaa6cb",
@@ -3199,6 +3225,20 @@
       "priority": "General"
     },
     {
+      "id": "f721ef760fed09acba45",
+      "title": "GST Registration Can’t Be Cancelled On Vague ITC Allegations Or Oral Intimation: GSTAT Restores Registration - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T04:30:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXNtU3dUMnpGRlA4SF9aM0JINE5EbVdJMFFnQVZPaVdJWmtES193ZVhaTGFDa1h6T3dEbnBIbU1FWVNHWXFHY1FvYi1wMVVXTWROMlNnakxJLWxleWVOSGZkN1l6dFRWYkpYQ292UVo1ZURYVFBRVzhZTFk1ZEg1QTRkMWdRVmEtS1E?oc=5",
+      "description": "GST Registration Can’t Be Cancelled On Vague ITC Allegations Or Oral Intimation: GSTAT Restores Registration &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "b8958197e6e16f467f14",
       "title": "Competitor Cannot Challenge Grant Of Registration Certificate Under Insecticides Act : Supreme Court",
       "source": "LiveLaw",
@@ -4835,6 +4875,20 @@
       "categories": [
         "GST",
         "Constitutional Law",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "9bed904b80f712e50e60",
+      "title": "Failure To Issue GST DRC-04 Fatal: Madras High Court Orders Refund Of Tax Collected During Inspection - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-03T05:55:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xYm9UTEVLN0RjNlZvd3BuS0JYVlJzRWhPTjZTX3h6dnladjMzTkZfVV92c2Y4TmdXaFRCdWdHS1NTVzcwdTg5U0xfYno4ZjNMWVJsU1ZCR1ZSX0c0QmlhalBZWVJIU2RSbDItekdiazU?oc=5",
+      "description": "Failure To Issue GST DRC-04 Fatal: Madras High Court Orders Refund Of Tax Collected During Inspection &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
         "High Courts"
       ],
       "importance_score": 42,
@@ -6585,59 +6639,6 @@
       "published": "2026-11-01T05:40:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHBkSVEwUnc0cm9lTmhIYUNKeTJIa2hDLUctWC1XdXlrM2xreWZHUlpFOWFZSTFMLV9VbEtQRUdmM1Q1SHVYc0l2ejBpdk9VME5yVHRMbkotRU43MjhHZXFER0RxNUpfZzJhQldZajBITzhmamVaUXRMNXdRRjU1d1ZzcFczU1p4NDdDMklQcG02T1NrUHRSaDN6WTFKMkliOXVLdUhsQXZlMkJxakQ3U3JMS09LX1FOOVF6dUJkSkNZZGFFOC1HRGJjU3ZiX2NT?oc=5",
       "description": "Telangana HC: GST Arrests Must Comply with Section 69 of CGST Act &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "a8eef3745be35a5880dd",
-      "title": "Andhra Pradesh HC Rejects DGGI Plea to Cancel Bail in Fake GST Firms C - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T05:25:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbmM5dFVRcEtMbTVZQnBlU3JoZFFBWEI1eHVIME9BdmxJOU9sTWJKRmZ0NFlDejdLaFR0azdnSzVKeXFnY3hXVkFsSXhFeHRpdklnWkV0bExzU3ZfcnZuSEp1aVhCT1ZOQmtwclp1dDE2ZHBXRW4tZVl6Yms5bHFvSkxHQU1lRzRhbFc2MWZtUDdRUV9qdC1naEhnY0pRM0dwaDJHeU82QjJjME9VSWZHLXJockFGaXlKWUJuQ1JmU2tfN05Oa3RUY3pCQ04tdnNVSFVsMGtiM2VoYkxkaXFMSA?oc=5",
-      "description": "Andhra Pradesh HC Rejects DGGI Plea to Cancel Bail in Fake GST Firms C &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Criminal Law"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "b81ada9e2b2ea5a2da5e",
-      "title": "New GST reforms start today: Relief for online businesses, no need to open offices in every state; check all the changes - Livemint",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T04:21:27+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb3lGaGl1dDloMlNTenFWR0NxUC04Nk1ZS0EyMDhRaGRsUU9ldWxveVZqZ2thUnBVUUFIUFdadkNkTFBQZW9iQlo3anBRMV8ybm1Oc0tzMTRDbXNQWEpBS2hCQjdVRUxYaGdFa2NabDJiRzB5aU5COURkdlRFMnNEMGJzSldtdHNkUmU3VzBPMHcxTVgwYW80ZTNGdE1RY2luN0NYczI1YUV1MHl5WFBUai10UXgtdEkxVFpzaURuaEVuV3g2VVBFVm9kVHIzQ0JVMTRkb3F2RlU5Nm96c1lYWUJockR4VHgxcEZDRVRvamNmZ3d6MjBMRlFUSXrSAYICQVVfeXFMUC1uX0NTMS1hQlkycERFRHZ0Y1dXRHBxNnAtVFhLS0tsTTZXUk9HT0htNnBQTGpUXzFqSlU4dlJuVm95YWd3bGtUbjhGeWRXakYzWmU3d2VMV1dLQzFDa0UyYlVOQnFYVjltUzRaMUU0em45aXR0ZEpzeW9sMk40dUNjNmgwWkRfWXB4VG5uUDJjT2kwOEJDWmFiM2JNR2tQc015S2txTzNTVVR5andnM0tMSFBpcGxPMkhnNGtVZVFzclJrSE1PSkRVczJnU0VwMjJBYXJUMFluWm5uV0FVaVUxZXdhMC1iVDRIWjlULXJucnIzSHY5cnExdnVydHhlcUVR?oc=5",
-      "description": "New GST reforms start today: Relief for online businesses, no need to open offices in every state; check all the changes &nbsp;&nbsp; Livemint",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "015b9d9f405582789629",
-      "title": "ICICI Bank GST Appeal Order Telangana Penalty Update - Kalkine India",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T04:13:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamlCMEtDVWktMDNoRFBKY0FEMGhXWDhQVjlETG1rNTRPamVhZ3hCRFNjT2N1V1k1dDk2a3J6cm5rcVBHRlR5cDNsVk5HUTU1WVFKUGdQLWhiaEhNUVl0Y3VCREd0YmlnZVZ1anBrWkh3NE1mOUtva0pXNHRiVy1yN0pBNWxYTEhGLUhOOXRxNU0yb0tqNmdXMGJQUVBBOXBXLXFKVk00WGdEZFZRNUtjcEdZYmt0clUx?oc=5",
-      "description": "ICICI Bank GST Appeal Order Telangana Penalty Update &nbsp;&nbsp; Kalkine India",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "6e49b4397c43ce326df4",
-      "title": "GST, pensions, PNB credit cards and more: 7 financial and regulatory changes effective November 1 - India.com",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T02:23:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVVoOEhIVXRVeV9melgzN3NEZXVWUFJuLWRQbFlWaHdVNmF1Rko4U1pIWGp4Yk9tNkhFM09LdWVsTWtISFJQejgxeUwxeENRSkxuMkk2NHN1VGtoVEVpY1V1SkRJWWhadm1QZ2k2YWFteTdZNF9tNktSZ0lvbUQ1NFUyZnZPX3ZLYzBUdW5jYzFFQWRfUTBRZzZrNHJveWZvMlFpR3FNMmNHUU5ZVFdBeFNMV25EdV9Lb2U2dU5vZk1SVlo4bUt2c2YtVHVLbGPSAdQBQVVfeXFMTk1TNVlVM01UX3RNMm1xTXJJVkdqMFVqaTNPN21Id01VZXZESm9sQ0dQR19yamtvMDUzSFlzdmdnRWJ4NUc4M2N5SjdubkEtOXZyOTFrb19JbE5CLWwtMzJuWHlUazN5SGVmNW9tWnJVRzN4RUNlMDlRa041OGRQNWFSRVYwUUdWaE5OLUJpeGstN0N4RUEtN0hMQnlmY0JmSkRpejZKTVZtMEZuOFpWNG9xM3hMVnVHM19XMDI0dmZuVFV1ZXdLak9iV0MyVFhsSktYRkg?oc=5",
-      "description": "GST, pensions, PNB credit cards and more: 7 financial and regulatory changes effective November 1 &nbsp;&nbsp; India.com",
       "categories": [
         "GST"
       ],
