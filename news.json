@@ -1,9 +1,704 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-06T00:22:44.145750+00:00",
+  "last_updated": "2026-11-06T07:58:32.822181+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "a379c7d3331557094499",
+      "title": "BREAKING| Supreme Court Refuses To Suspend Tarun Tejpal's Sentence In Rape Case",
+      "source": "LiveLaw",
+      "published": "2026-11-06T07:57:14+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-refuses-to-suspend-tarun-tejpals-sentence-in-rape-case-557631",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "3798be4db56a5288283f",
+      "title": "Microfinance Fraud Case: Kerala High Court Finds No Sanction Required To Prosecute Vellappally Natesan, Others",
+      "source": "LiveLaw",
+      "published": "2026-11-06T07:45:36+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-microfinance-fraud-case-sndp-vellappally-natesan-557628",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "12d04fc0e4f2c1e825d9",
+      "title": "Gujarat High Court Judge Recuses From Journalist Ravi Nair's Anticipatory Bail Plea In Forgery Case Over LIC-Adani Investment Report",
+      "source": "LiveLaw",
+      "published": "2026-11-06T07:36:32+00:00",
+      "url": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-ravi-nair-anticipatory-bail-adani-group-forgery-fir-557627",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "6b1f836a1c96bd180399",
+      "title": "Supreme Court Issues Notice On ED's Plea Challenging Delhi HC's Quashing Case Against NewsClick, Prabir Purkayastha",
+      "source": "LiveLaw",
+      "published": "2026-11-06T07:32:26+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-ed-plea-against-delhi-hc-quashing-of-eow-fir-ed-ecir-against-newsclick-prabir-purkayastha-foreign-funding-notice-557626",
+      "description": "\"We are not very impressed with the ED SLP\": Justice Joymalya Bagchi.",
+      "categories": [
+        "Criminal Law",
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "64ba3915487dab64c173",
+      "title": "Municipal Contracts Cannot Be Awarded Through Private Negotiation, Without Tenders: J&K&L High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T07:27:51+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/public-contracts-cannot-be-awarded-through-private-negotiation-without-tenders-municipal-corporation-is-under-constitutional-obligation-to-act-fairly-jk-high-court-557551",
+      "description": "",
+      "categories": [
+        "Constitutional Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "33487b78f9d48f95db92",
+      "title": "Major Adults Entitled To Marry As Per Their Choice; Police Duty-Bound To Protect Their Life And Liberty If Approached: J&K&L High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T07:27:34+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/major-adults-entitled-to-marry-as-per-their-choice-police-duty-bound-to-protect-their-life-and-liberty-if-approached-jk-high-court-557426",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "1011a4f7b9202cdaa9e5",
+      "title": "Fair Trial Under Article 21 Does Not Require Certified Copies Of Trial Proceedings Before Confirmation Of Sentence: J&K&L High Court Upholds BSF Rule",
+      "source": "LiveLaw",
+      "published": "2026-11-06T07:27:17+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/possession-of-certified-copies-not-an-invariable-requirement-of-fair-trial-under-article-21-rule-129-bsf-rules-constitutionally-valid-jk-high-court-557578",
+      "description": "",
+      "categories": [
+        "Constitutional Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "784d6bd973d50ce3cafe",
+      "title": "Candidate With Recognised First Degree Can't Be Denied Admission In 3-Year LLB Course By Reassessing 10+2 Qualification: Karnataka High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T07:10:32+00:00",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-independent-relevance-qualification-applicant-first-degree-llb-admission-557607",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "eaff2a70ff912fb23ce5",
+      "title": "Are Diwali Gifts Taxable? Income Tax, TDS & GST Rules [2026] - SAG Infotech Official Tax Blog",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T07:00:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONnd6TENfZDBNWHdnMjZ2SGJGZDM3VWFpMWR0VTB3azEySl9xNzJOeS13MzFKeWtZaHl2YThKeUNJb0hRbWtsVU4zeHI1dTNfakpDX2pHWFRRanRabU9vZDhfTTB0UXBET3JuWlBkcXFUeS1ORnNSVWVPaHRmZXF0XzZTR08?oc=5",
+      "description": "Are Diwali Gifts Taxable? Income Tax, TDS & GST Rules [2026] &nbsp;&nbsp; SAG Infotech Official Tax Blog",
+      "categories": [
+        "GST",
+        "Income Tax"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "35bf7e0a3731136fb9d2",
+      "title": "Firearm Attack Not A Private Dispute; Settlement No Ground To Quash FIR: MP High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T07:00:02+00:00",
+      "url": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/firearm-attack-not-private-dispute-settlement-cant-quash-fir-557600",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "08d6c3e66cbee3464202",
+      "title": "Kerala High Court Grants Bail To All Four Accused In Mini Cooper Crash; Prime Accused To Be Released After 10 Days",
+      "source": "LiveLaw",
+      "published": "2026-11-06T06:56:28+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-mini-cooper-crash-bail-suhail-557619",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "01a1aaed42bc6ff406ef",
+      "title": "Order 37 CPC | Failed Settlement Can't Revive Defendant's Right To Defend Summary Suit After Service Of Summons: Rajasthan High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T06:50:30+00:00",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-right-seek-leave-cannot-revived-557599",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "521b42aad94f0d1dfe41",
+      "title": "'Presumption Of Innocence Not Effaced Merely Because Trial Court Has Recorded Conviction': Patna High Court Acquits Man In Rape Case",
+      "source": "LiveLaw",
+      "published": "2026-11-06T06:40:29+00:00",
+      "url": "https://www.livelaw.in/high-court/patna-high-court/patna-high-court-acquits-man-rape-case-noting-material-contradictions-557431",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "c22206823dead5e94a41",
+      "title": "Supreme Court Clarifies Judgment On OBC-Creamy Layer Parental Salary Computation",
+      "source": "LiveLaw",
+      "published": "2026-11-06T06:39:46+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-clarifies-judgment-on-obc-creamy-layer-computation-557608",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 60,
+      "priority": "Relevant"
+    },
+    {
+      "id": "034048896f5914531b62",
+      "title": "Takedown Notices For IFF, SFLC Were Sent By Impostor, Not Delhi Police: X Corp Tells Delhi High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T06:35:08+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/takedown-notices-sent-to-iff-sflc-were-fake-complaint-filed-against-impostor-x-corp-tells-delhi-high-court-557595",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "c2a0afb7de04bc19412b",
+      "title": "GST Demand Based On Return Scrutiny Requires Prior ASMT-10 Notice: Gauhati High Court - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T06:31:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QdHZ6aENUTUgxOFhUVTNnYUlTdnZhRm1leGlhVWVNZm9falZlWjJBNlJhbi1VMHBKNVdWb0FUUTloQjdodjdtbVJQSmJ3NFB0ZC1JZDZsMlkwRlZ5QzdXZENUdVJDS3A1N2JhUm9GMDVJTXVkRkoyUENXYw?oc=5",
+      "description": "GST Demand Based On Return Scrutiny Requires Prior ASMT-10 Notice: Gauhati High Court &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "51d2b3839b38faea810a",
+      "title": "LiveLaw Breaking News Alerts: 06 November 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-06T06:06:09+00:00",
+      "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-06-november-2026-557596",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "b9fe4dab093f689aeeca",
+      "title": "Govt. Funding Doesn’t Establish Eligibility For 12% GST On Spinning Mill Construction: GSTAT - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T06:06:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oY3Uzaks3c3Z6alNOcnprTzRWeE5adl9ocE9WU05PamZsaDBpb0ZNME8yUVY1TzFIUVFVR2owc21WbjU1UWZvZmg4bVQ5aHRDSE1OTlNiemZhWTBlUjM2djJjQkplczRraWMzMXQ5dXJBdm1RQk1Z?oc=5",
+      "description": "Govt. Funding Doesn’t Establish Eligibility For 12% GST On Spinning Mill Construction: GSTAT &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "67d39b70517e2eb822b5",
+      "title": "'No Citizen Can Be Terrorised': Bombay High Court Cites Sachin Waze's Police 'Clout', Criticises Special Court For Granting Him Bail",
+      "source": "LiveLaw",
+      "published": "2026-11-06T06:05:42+00:00",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/sachin-waze-bail-cancellation-reasons-antilia-bomb-scare-557597",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "78297b05bfc17e22d481",
+      "title": "Appointing Court Commissioner In Possession Suit To Identify Disputed Land Before Trial Begins Is Evidence Collection: Telangana High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T06:00:25+00:00",
+      "url": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-sets-aside-pre-trial-appointment-advocate-commissioner-injunction-plea-557593",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "ddb3b0925fdb1ac66703",
+      "title": "Voluntary ITC Reversal Doesn’t Erase Interest Liability After Utilisation: GSTAT - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T05:51:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOakFMYmlBZjU3bEFoMWRFWFpWa1k5dGxad1Q0OGxLcHRDM2VWLW5FdWoyRDR2RkZsZXlJQ0R6MVlfbEtVc2lGV0ZmdlpfT0tHendfeWlPdGJmU09SRzQ0OXhCbTVWZF8yRVVTSEVqWHNIWl9uRnVmZkNzYlIyZWg4c0J3U1dVenFQNEl3?oc=5",
+      "description": "Voluntary ITC Reversal Doesn’t Erase Interest Liability After Utilisation: GSTAT &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "5949c99e3091d508ba31",
+      "title": "NEET PG In-Service Quota: MP High Court Issues Notice On Plea Challenging Exclusion Of Central PSU Doctors From 30% Quota",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:50:24+00:00",
+      "url": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-petition-challenging-definition-of-in-service-category-mp-chikitsa-shiksha-pravesh-niyam-557592",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "950f402c7c5fe217df76",
+      "title": "Gujarat High Court Fines Gram Panchayat ₹1.20 Lakh For Demolishing Homes Without Following 'Due Process'",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:48:04+00:00",
+      "url": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-fines-gram-panchayat-120-lakh-for-demolishing-homes-without-following-due-process-557575",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "c52f7cfde863eff5cf59",
+      "title": "Intervening Termination Won't Disentitle Employees From Regularisation If They Complete 10 Years' Service: Rajasthan High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:40:53+00:00",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-slams-state-practice-periodic-appointments-avoid-regularization-557581",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "8ba6c3b6b9d4c06d7893",
+      "title": "'Absence Of Injuries Does Not Ipso Facto Negate Rape': Patna High Court Refuses To Quash Cognizance In Minor's Alleged Gang-Rape Case",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:37:15+00:00",
+      "url": "https://www.livelaw.in/high-court/patna-high-court/patna-high-court-refuses-quash-cognizance-minor-alleged-gang-rape-case-557429",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "2946a311a2b5b2dda45d",
+      "title": "Kerala Law Academy Invites Papers For 33rd International Seminar On Good Governance And Artificial Intelligence In The Digital Era",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:31:54+00:00",
+      "url": "https://www.livelaw.in/lawschool/seminars/kerala-law-academy-invites-papers-for-33rd-international-seminar-on-good-governance-and-artificial-intelligence-in-the-digital-era-557591",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "b4bd92d48832d4d74767",
+      "title": "GST Appeal Pre-Deposit Must Be Refunded After Demand Attains Finality: Bombay High Court - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T05:31:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tM0o0M1I2YnZZSUJwMWRvVUxMdF9DaTl1dldlWU9tX1g3OE1kZ3NNWjM3X2NPc0FWcWZXOU5HUGJjZDJvMFVJOGtsOTdUVGlVaG10SUNURkVOOGM3c3BtSTZVelEyUTlmOThBU3FhWTVvbkY1?oc=5",
+      "description": "GST Appeal Pre-Deposit Must Be Refunded After Demand Attains Finality: Bombay High Court &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "54ca3f2c46203a459f62",
+      "title": "Rajasthan High Court Asks Authorities To Decide Rape Convict Asaram's Open Air Camp Eligibility Within 3 Weeks",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:29:09+00:00",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-seeks-administrative-decision-full-bench-ruling-rape-pocso-convicts-eligibility-557590",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "7770c87ca1c795b07ea4",
+      "title": "Legal Advisor Vacancy At National Institute Of Technology Agartala (NIT Agartala)",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:29:01+00:00",
+      "url": "https://www.livelaw.in/job-updates/legal-advisor-vacancy-at-national-institute-of-technology-agartala-nit-agartala-557589",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "00074d7cb8e97fb87ad7",
+      "title": "Data Protection (Data Privacy & Security) And Technical Officer (Data Privacy & Access) Vacancy At Employees' State Insurance Corporation",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:28:08+00:00",
+      "url": "https://www.livelaw.in/job-updates/data-protection-data-privacy-security-and-technical-officer-data-privacy-access-vacancy-at-employees-state-insurance-corporation-557588",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "79171f51c8645c595c2f",
+      "title": "Assistant Registrar Vacancy At Gurugram University, Gurugram",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:26:47+00:00",
+      "url": "https://www.livelaw.in/job-updates/assistant-registrar-vacancy-at-gurugram-university-gurugram-557587",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "0e2f13bc3034a9548280",
+      "title": "Madhya Pradesh State Legal Services Authority Launches 'Surakshit Bachpan Abhiyan' Across State",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:26:05+00:00",
+      "url": "https://www.livelaw.in/news-updates/madhya-pradesh-state-legal-services-authority-launches-surakshit-bachpan-abhiyan-across-state-557586",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "b93e2ea84b6f22583057",
+      "title": "Legal Assistant Vacancy At West Bengal State Health & Family Welfare Samiti",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:25:58+00:00",
+      "url": "https://www.livelaw.in/job-updates/legal-assistant-vacancy-at-west-bengal-state-health-family-welfare-samiti-557585",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "5762a100545cd4884bba",
+      "title": "Supreme Court Expresses Pain Over Death Of Girl Due To School Pillar Collapse, Quashes Criminal Case Against Officer-Bearers",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:21:29+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-quashes-case-school-officer-bearers-death-student-pillar-collapse-case-557584",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "65ec3c1d81ec2b51f574",
+      "title": "2026 LiveLaw (SC) 1140 | MATIN SHANKARRAO BHOSALE & ANR VERSUS STATE OF MAHARASHTRA & ANR",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:21:14+00:00",
+      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1140-matin-shankarrao-bhosale-anr-versus-state-of-maharashtra-anr-557540",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "34f0ae263c71f03e40c2",
+      "title": "Sanction For Prosecution Under Prevention Of Corruption Act Is Governed By Law On Date Of Offence, Not Date Of Cognizance: Allahabad High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:20:50+00:00",
+      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-sanction-prosecution-prevention-of-corruption-act-law-governed-offence-date-557576",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "ccbf018cf779e7d63cd5",
+      "title": "Call For Papers | 5th RGNUL-SAM Conclave On 'Regulating The Digital Economy: Emerging Legal Frontiers'",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:18:54+00:00",
+      "url": "https://www.livelaw.in/lawschool/call-for-papers/call-papers-5th-rgnul-sam-conclave-regulating-digital-economy-emerging-legal-frontiers-557583",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "30f50673d46cc10a33bf",
+      "title": "Calcutta High Court Defers KMC Elections Till Plea Challenging Ward Delimitation From 144 To 209 Is Decided",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:18:53+00:00",
+      "url": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-defers-kmc-elections-till-plea-challenging-ward-delimitation-from-144-to-209-is-decided-557582",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "b24c215266add1ec7b67",
+      "title": "Karnataka High Court Quashes Case Over Social Media Post Linking Rahul Gandhi With Pakistani Army Officer",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:16:45+00:00",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-quashes-case-against-man-shared-objectionable-photo-rahul-gandhi-557580",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "ac52d47ede97ceed0543",
+      "title": "GST Paid Under Wrong Head Can’t Alone Trigger S. 74: Bombay High Court Orders Rs. 7.65 Crore Transfer To IGST - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T05:10:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10cWEyUVRZZUJ1Qk41OTlUVW9LQm1pMmhsUm9vM3Q1MldRaldrbngwNHRKZndLeUpjT3N6YWlqa0RXS205UEZGUTlYME14TGgyRFd3aDdVT1RTa1JReHpMRV9zOXFEMUxfc0RXVFpkOFdWbHhQWEprcQ?oc=5",
+      "description": "GST Paid Under Wrong Head Can’t Alone Trigger S. 74: Bombay High Court Orders Rs. 7.65 Crore Transfer To IGST &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "f7a1bfb0b00eb6f192b9",
+      "title": "Portal Upload Without Effective Service Denies Fair Hearing: Bombay High Court Quashes ₹16.25 Lakh GST Recovery - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T05:03:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zSU9WS0pqSXdzY2NQaXRCc1U3ZEZselgtTXdzMUt2dU4xNTlsa1FhU0RONnVUTUstVDl3S1VLdjdrOW16S3RKckFhTmtNSmlVaHItUUNCUjFJSGF2V1NLTFpIeHJyTVduVGRNblRDdzNpaU0yakZ0Rzc1NXRDYVk?oc=5",
+      "description": "Portal Upload Without Effective Service Denies Fair Hearing: Bombay High Court Quashes ₹16.25 Lakh GST Recovery &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "4cc70871de92f95a718e",
+      "title": "Adequate, Timely Medical Facilities Intrinsically Linked To Right To Life; Healthcare Reforms Must Yield Tangible Results: Rajasthan High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T05:00:18+00:00",
+      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-closes-pil-statewide-healthcare-deficiencies-557574",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "0100da335e5041c13bd0",
+      "title": "NOIDA Is 'State' Under Article 12 But Not 'Govt' Under Section 80 CPC, No Prior Notice Needed Before Suing It: Allahabad High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T04:55:47+00:00",
+      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-noida-state-article12-government-557573",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "7e632b5e0e698de957ed",
+      "title": "Wrong TRAN-1 Column Can’t Defeat Admitted Rs. 6.29 Crore GST Transitional Credit: Bombay High Court - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T04:54:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iM3M2VXFOaHJmM1E2ckVNckphZllwX2ZmeFV0QjN3ZGZULTZmNk1scnFnMGhlRnZYVWd3dWxvUkczeGlDUUtoaGVhUFJfcFRiOWg1TFRLV3VhRGFiRDhYTWhLaV9CdVpxbVVjNlE0T3dGYmxOZHJzSTVHOFdkUQ?oc=5",
+      "description": "Wrong TRAN-1 Column Can’t Defeat Admitted Rs. 6.29 Crore GST Transitional Credit: Bombay High Court &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "3f63e73d4b4fdbf6030b",
+      "title": "'Fatwas Have No Legal Status Or Binding Enforceability': Chhattisgarh High Court Dismisses Plea Alleging Social Boycott",
+      "source": "LiveLaw",
+      "published": "2026-11-06T04:50:46+00:00",
+      "url": "https://www.livelaw.in/high-court/chhattisgarh-high-court/fatwas-no-legal-status-binding-enforceability-557555",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "bc96250b701e5e5a340a",
+      "title": "Magistrate May Refuse Remand Of Accused If Detention Exceeded Reasonable Period Within 24-Hour Timeframe : Supreme Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T04:39:18+00:00",
+      "url": "https://www.livelaw.in/top-stories/magistrate-may-refuse-remand-of-accused-if-detention-exceeded-reasonable-period-within-24-hour-timeframe-supreme-court-557572",
+      "description": "The detaining authority should ensure that detention should not extend beyond the reasonable period within the 24-hour period.",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "a2e0d06699673ccd4794",
+      "title": "Griha Lakshmi Scheme Beneficiaries Can't Claim ₹2,000 Monthly Assistance As Of Right: Karnataka Govt Tells High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T04:38:04+00:00",
+      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-griha-lakshmi-scheme-benevolent-scheme-beneficiaries-cannot-claim-557571",
+      "description": "Court orally rejected the argument saying State can't make all entitled beneficiaries come to court.",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "1dd762c9c7b14110f37f",
+      "title": "Shifted Voters Filing Form 6 Or SIR Enumeration Form Will Be Making False Declarations Liable For Prosecution : Bombay High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T04:32:41+00:00",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/shifted-voters-filing-form-6-or-sir-enumeration-form-will-be-making-false-declarations-liable-for-prosecution-bombay-high-court-557568",
+      "description": "A voter who changed address can only be asked to file Form 8 during the Special Intensive Revision, the Court clarified.",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "ab883059571365bc931c",
+      "title": "Can Privacy Become Gag Order? Data Protection Law And Investigative Journalism",
+      "source": "LiveLaw",
+      "published": "2026-11-06T04:30:45+00:00",
+      "url": "https://www.livelaw.in/articles/data-protection-law-investigative-journalism-557513",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "2783a0a5918a6de2815d",
+      "title": "‘Post-decisional hearing at appellate stage cannot cure absence of RFD-08 notice’; GSTAT Thane remands 39 refund appeals of 100 per cent EOU - SCC Online",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T04:30:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUm14ZWFBRl81RGppcFRRZ1ZhR2lfbEJ0NjFMcVRCM3dKR1NlWm1UVzR6amhhaWxwd3k5SVhYWXVDSWREekY2ejNkTzlSMXAzeDJUd2ZpRVJvalJoMFhCbzQtQ0UwYkxucnFIMF9DZS03V3B6VWFIcmtzQ2dWNmMtdHRJUExZN1ZwYUQ5TExVTWE2WlFxSG1jWVJGb3hmY0REUlZLLTdfSEo0SkJvVU9ITXU3MnRwTU9lTEwzaFBoODY?oc=5",
+      "description": "‘Post-decisional hearing at appellate stage cannot cure absence of RFD-08 notice’; GSTAT Thane remands 39 refund appeals of 100 per cent EOU &nbsp;&nbsp; SCC Online",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "7f3dbbe8de3e6d91a37d",
+      "title": "Pending Pre-October 2020 Traffic Challans Cannot Be Used To Block Vehicle Registration Services: Kerala High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-06T04:21:06+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-pending-pre-october-2020-traffic-challans-cannot-block-vehicle-registration-services-557569",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "b6d81847b656de7e2201",
+      "title": "Consumer Law Monthly Digest: October 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-06T03:50:03+00:00",
+      "url": "https://www.livelaw.in/consumer-cases/consumer-law-monthly-digest-october-2026-557565",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
     {
       "id": "d256374c0aa67033c8e4",
       "title": "LiveLaw High Courts Daily Highlights: November 05, 2026",
@@ -165,19 +860,6 @@
       "priority": "General"
     },
     {
-      "id": "65ec3c1d81ec2b51f574",
-      "title": "2026 LiveLaw (SC) 1140 | MATIN SHANKARRAO BHOSALE & ANR VERSUS STATE OF MAHARASHTRA & ANR",
-      "source": "LiveLaw",
-      "published": "2026-11-05T14:36:06+00:00",
-      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1140-matin-shankarrao-bhosale-anr-versus-state-of-maharashtra-anr-557540",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
       "id": "37dac1293d5e40d7ae49",
       "title": "For Conviction Under S.304A IPC, Death Must Be Direct Result Of Rash & Negligent Act : Supreme Court",
       "source": "LiveLaw",
@@ -281,19 +963,6 @@
         "GST"
       ],
       "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "8ba6c3b6b9d4c06d7893",
-      "title": "'Absence Of Injuries Does Not Ipso Facto Negate Rape': Patna High Court Refuses To Quash Cognizance In Minor's Alleged Gang-Rape Case",
-      "source": "LiveLaw",
-      "published": "2026-11-05T13:25:24+00:00",
-      "url": "https://www.livelaw.in/high-court/patna-high-court/patna-high-court-refuses-quash-cognizance-minor-alleged-gang-rape-case-557429",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
       "priority": "General"
     },
     {
@@ -4168,11 +4837,11 @@
     },
     {
       "id": "eccc5612c84c15cfb3a4",
-      "title": "Tamil Nadu’s post-settlement GST revenue grows 15% till October, says Minister - DT Next",
+      "title": "Post-settlement GST revenue up 15% in TN: Minister D Logesh Tamilselvan - DT Next",
       "source": "GST Legal & Regulatory News (Google News RSS)",
       "published": "2026-11-03T10:09:15+00:00",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnZHMW52NFExXzRuN0dzenQwN3pZYjBQVjF2QkhWeWh4cWl3VU1xU2Y5SzdBc2pvY2lEX093YmhkRkVvd1R4S3d6RW1aTHJxdGthZGZCZjBJQmdLQmtSaWpmZGxnbFhlcjdkeTFSeTY5M2drYWJYWXFVQWg5Z01XSUpnVGxfS05OMlZXQkd1OFZkbWNtcHBRQ3hzdlBLOHZHbmFfekxOazVLT1M2UXZWV3R30gG_AUFVX3lxTFBQNUJRV0trX0RqRFU1aTQ3emRkUkc0ZWQ0WTlWVXI1R3dVSk93NFlFMDZGRUxqMXNjdkdxd2lSaTRDVlptX3lEZ1BFTHBtSnJrVDdmMXBBblJiRGxlLS03dXU0cTZ1RkxOcnFCVnRWWWczcFMwQXRscjBUZE1xaUl1aXY5bGFaTC1HUTlidFNpT0JQdS1BWEpQd0htV0hQTGNUWlVvell2RVRsSnJ1c1Z5WFV0TGtaVVdySmFFZXpR?oc=5",
-      "description": "Tamil Nadu’s post-settlement GST revenue grows 15% till October, says Minister &nbsp;&nbsp; DT Next",
+      "description": "Post-settlement GST revenue up 15% in TN: Minister D Logesh Tamilselvan &nbsp;&nbsp; DT Next",
       "categories": [
         "GST"
       ],
@@ -5239,6 +5908,20 @@
       "priority": "General"
     },
     {
+      "id": "3e52c612394a2bc3255f",
+      "title": "GST Portal Glitch Can’t Defeat Transitional Credit: GSTAT - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-03T04:47:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTW5BLUVPLUJEU0tySm9RY01FTWZoWDM2aHAxQnp3UzFTN2RXN1JGbldoZXZFUFc4Ri1SV2dLYXRmaDd6NXI3Vm9vaVRabHdvVW1OekowSE9ueVBMYWpaRDFGNmJiWDNqWll1eTkzT2dXQVFXRzcxYzAtcGQ3MzQ?oc=5",
+      "description": "GST Portal Glitch Can’t Defeat Transitional Credit: GSTAT &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "ba0e7c715d756d684e01",
       "title": "GST 2.0 Spurs Private Investment as Sitharaman Reaffirms Demand Outlook - Siliconindia",
       "source": "GST Legal & Regulatory News (Google News RSS)",
@@ -5975,670 +6658,6 @@
       "published": "2026-11-02T01:29:34+00:00",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaFBuZXZ1S1pUWHh5WXNVWjBvVUY1U0xyX0RUYzNGM1JNS1Q1S3QyeE0wLVVtNVQwYlhzNW5rZkg1aTFZVDJLT3pSR080QTRZeHdnTk1lWlROV0lzbWF3cGRWa0FDTFdHd2xtN3BSNHpPSm5qQ0gxQ0wzS1FTOHFtQmtNMXlwVXVOMkZaOGxJZkZXSnJEb3I1eFc1ZDlubHJZTWs4VEc1c1g2LWxLREk0WXppd2stN0VsV2RydzdmNThKSHg4bmpKRDZ0X3F2dGRsbzFtUV9n0gHbAUFVX3lxTE92S005dTEwQ0dEZ0pUenFnZjFpS2dQZVRTRkF5aHR1VmlEWmZ4MXpjMEppOUVuZHVWMTd2ZWRGdFF1YUtMa3FPQVU4SFNwYm45eURTNVo3MXEwZXNsOXlLM2dvVDFGNGdiS1BBUy1BbWhRTnA4V3FuYVpVSmZETFlEaDcyZ3N0UGg5bXUwbS1tcVNPV3NQcHh0dUZGRG1lYWN4N2lLR3JRMVNMajFJODA4QnRDMTRTaENpTU91Nnhna2s4Z1hnYVAyeHZiOW1pWFJvcTFDYnpRcVFZdw?oc=5",
       "description": "GST decriminalisation reforms marks bold shift toward trust-based governance: CII &nbsp;&nbsp; Business Today",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "cbba835ea22911b346b5",
-      "title": "GST Collections Rise 22.9% To ₹2.31 Lakh Crore In October 2026 - Sarkaritel.com",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-02T00:30:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVkw1LUVkVTd4MWQ5V1ZJbDZmZFBnSlQtUW1wQ0hMbXQ3bndZY3oyd25PU192NmlFYmxlcGdZOVU5bC1tRHFQalgwMERIdDJBUWlpdUZpdWVMZk1DaElySC1aejZISUNYRDNaZFRwVUhBbHdEQ0RTbG1ack12cy03c1ByVQ?oc=5",
-      "description": "GST Collections Rise 22.9% To ₹2.31 Lakh Crore In October 2026 &nbsp;&nbsp; Sarkaritel.com",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "7462170cb119028f6c51",
-      "title": "New GST norms to simplify pan-India expansion for D2C brands - The Economic Times",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-02T00:30:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcXNPOVlhT1FaOW9zWkt0X1NCN1kzdTlLVHhkajlkLTJGalU1M3FwYTAxY1hMNFRCaWF6SnZFMUhfYTRsa0RKVkVJVjNKbi1lZkxRQThxOWREZzhEVWtQSGVxcDBKVmJhSlN3OTBEVGZmTnZzb05PNmtTSXp1S1diVEpBSGFNazFxX1Z6UGFvMlVOaTZXcDBidUV4Vm5rWlZFTFc3elUxWUVmbkFPSnJYaHhXMkdmQTVpSnNSM2g5Z1Z0M055T0U00gHMAUFVX3lxTE9SR2FwMkx5QnhBYmsyTjQ2eDhqay0wUURHUDlnTmhoaDJ0aWxxVlhza1J3OVBPODNwbDV6ZEIzQTZNV0lMRFpQMWJCUzJ0QWZjMEJ6VkVvQUJkT1BTMURxdHpOOF9keXZVdEI5VEJDZFlIa0I0RW95RGlPb002aHZ5Nzk3MDVkTDA4d2JrX0x0c1J5cjRFdUFkMUk2amNOeDhxY3BvSzZUc2Y0SFhjWFBfZ1hhaGZGc0J2QmIyQ3BfQXJZbnBFSjA0b2gxUg?oc=5",
-      "description": "New GST norms to simplify pan-India expansion for D2C brands &nbsp;&nbsp; The Economic Times",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "5be2e36b3d6330a389ca",
-      "title": "GST collections jump 22.9% to Rs 2.31 lakh crore in October as festive demand beats high inflation and int - The Economic Times",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-02T00:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOZE1fSGhNYy1wRmFlZnZjUXVxS1JiT3ZCcFhEamdJN215N1hHOGxCQkh3b1hGVXYtc3phSWg5M0dPRmJfMGNLeHBPNkwxRGlhQzVjRmpsTWxuOUdKVndUQ0VzZ3Jza3hfSXlOZFVUSjlwTl9GbWxTODE2UzdiZXk1T2h5eVlFa1NwN0ZrWnRNS1pBYTVUNy04eDU5NnZkREhCZGhwUS1tdHdEUEg5djFia0FyWGhST3l5MUJSNDNVV1BBVjJDSF9HUEZQTXJzdTZPUG9vaFJzdVhlZHo2RTlxLUQ4VGJGa19OendTNnNTUk13SndLVzlET2N3NTFiazJvMHNJbnhKNTYyX1owNXB1aVpWZHdsakZiZDVZa2lzTdIBpAJBVV95cUxOeEktSm1lZHVUMi1PdGlfamM5UUoxeHZfaFhtQV85clFHVW4tRWNDdnlfeUo2Y0dJMzY2ME9jX2pfWUdERUhuODJ5NUVPNTdJWlQyQkR1RDJWcl9PVXo3VUp5Q3Z6RFhjYUFpdS1CWWpKSGYzM25pU2tWajFpYnNNWFJlNXFXRUFUZ09weGdUVzlqU3l4aDZ0VmdkcV9FZWdLYmI4cVpkTkVCLWgxcHpnZUNMS1M5OURkZjFzRFBveWlMSUdram9Tbm1hZnlWR3dEc1ByQUNwbEF4dG85Y28xVmx0MHprZU9uSllOYTdtN05ySlhkOVVUM0RfSC1LR1dWYkpQaUhJTzBFVlJDYnlScl9CMzR1YU1RSVR1RFI1Y3NqbGta?oc=5",
-      "description": "GST collections jump 22.9% to Rs 2.31 lakh crore in October as festive demand beats high inflation and int &nbsp;&nbsp; The Economic Times",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "5b44476ce18cc1f7eda7",
-      "title": "GST decriminalisation decision marks shift towards trust-based governance, says CII - Moneycontrol.com",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T22:30:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcDNNLVQ2UVJYd1NHMkZHTWVjemlkbkFYaTFLRDYzRllWSXBkTk51X2FGVUQtMnktZWRGWmZvOEFNV1oyc0t2ZERIbGhxVzFQOXZ4T2hEUnBWcGhuYTYzZUxYWDA4TlNHMGlkaDVybTQ0dTctM0pobF8zdGkzZlJYbTdTS2FkVUo1cUktbzYxWkJSdmhIc3h5TXlyelV2NnctTFk5ZC1kYnA0b1hPR0lRVlBDTmg3LW9xdXB0SU1QSzBfcFBBalZjNDVVYUJoUDJKNmZGY0NkSnVxM25ZNnloSg?oc=5",
-      "description": "GST decriminalisation decision marks shift towards trust-based governance, says CII &nbsp;&nbsp; Moneycontrol.com",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "e4bea34306c40317ba50",
-      "title": "CII calls for GST-like reforms in land, labour & local approvals - The Economic Times",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T19:39:53+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjdYVVBEWWFta2M2U2U4WjhjZG5TYVpJS0lNejNDOHBpN2taNnhHOGItWmNyX0I4OW5pSEhhQUNwZDJmZFBpMG5Ea2FWZy16RlJYQ1RaMFVsZmpIMlM3Z1NHbWtKVXRua1o3TnZJQUVpMGN0Qm4tLXZHZkJUQmNDRGhwVzlfRk1EcjRuN01RV2dRMjNVNGZqY0pEbGNkblB0V3RDOTl1ZGluS25FRDZhZVlKR0FqWS1zUVdDa2g3WUpNRFhtM2t1WkNtV3kyRWdC0gHWAUFVX3lxTE9sNmU3TmhGZFJCNVNLeGlsWDBzTW5QXzI5RkNRNnRBeXJ1eHdwY1VRWnJCdHUyOGRFX1pOTmhyeXcxRGl4TUtpbGlIUDNNeTJVX08tYkxfNEZiYmp0WG9kYmZPVzJGeVNGamNiUHo1aVdXSFdORC12dmhYQ2pZRVM4UFdyQ0lBalFVVzY0TVo3aXc2bWZ3WXM3V0pkV0I2cUt5V1huM2l5M3hsX3pvWFZRdWxScXNHR014bUQ5M25qeEZFTXZWbHhtUmpWak9teFdwVWRQN0E?oc=5",
-      "description": "CII calls for GST-like reforms in land, labour & local approvals &nbsp;&nbsp; The Economic Times",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "e7bf7ceff463b1d06e1f",
-      "title": "GST mop-up rises record 23% in Octoer, hits Rs 2.3 lakh crore - The Times of India",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T19:25:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRlFPQlZGRmkyQWFRMzIzSkNrOXBNSFB3S0tlRVM5bDBxVkFwMjJUaTkwNUFQVUZfQmtYSEU4bmoxZWNOZFh5eDhwYlhhSEhzekZ1bXkxSGtLa0RLSUh6YVdZZVlmNDhMSmtvdmNpMmVsZmVGcWpxbDI0RHpkWjFBa2gtQ2ZMVm90dGZWNHQ5QW5zNm9FV3BkRzNvZ19BZzVmN3M5alRVT1phcUhCZGJzVmx0REkyS08tWkRTQVB3RGd3NTVpMy03WUZXU1lGcTZUY2EyZkcwaFZ5N2FzUnfSAeMBQVVfeXFMT1luQjBNWTZwS0VfVmtUME5fR1BWSmwwM2hPLUpTUFNPaDVFTVEwNWtHQ3VKUi1xRUlTMC1XYnotR29DbkQzVmtndkpWVWE2ZXhaQVRoUkVqQXZfdzBwVkZnOTNiNTVQNFo3Q0xWeXVIdGxBTEJLb2s4eVdtR3M5dVFYN1k4dWhwb1dENlFmTWo5RHNKeFBzczRHSWtTSWF0bGNGV0xTMDNrbU1mT1lobXFMNktYRXlLakFzX1R5cDY3cTg0c1VOQS1qbFhwbUtXSzg4bjlNWFVDbl9xZUpVOTUxT2c?oc=5",
-      "description": "GST mop-up rises record 23% in Octoer, hits Rs 2.3 lakh crore &nbsp;&nbsp; The Times of India",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "808742af65215b3c71cb",
-      "title": "Telangana ranks third nationally in April-Oct GST growth - The Times of India",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T18:30:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbFNxamtsNTlEekpQb1FjYzgxekZGeVh5a0owZTdXU3A0R1VWOTJqekpPNXFrdWx5MEU2TllLUmt3OUxQYkttYUxoQzN1TGcwU0diLTJheHJmR20yU1FWa185MWF0UXlIZnlUWjhsUWVSS21QSnN5RjRJNUZ6OFFBSTFuMGlCZ1Vrc2MzX3Bib2lndEhkX0xlYVhiODFPYmdXUWtCNHZuTXptMWtBNUstNTlsc3N3RHItVTBQRVhCVld2MlhTNlV2VDFmeVRIUdIB0wFBVV95cUxPNndDSWhpTnctTlV5ZjdOTm9YZXpDNWJsS2NmNGg5aEFWX0VQdzUxTk5TZkxLSml0ZDA5TnJERHJBU2tmNDA4T2tpMklYMmlJM3pudjdla24zUUpPS2dBemNQSmtKNEpuaUZad1BQRVJZd2lCRHVCWUFtYUU3dHVQYTY0M1NLX2lqbG1waC1wUjg3WmNVRm0yMGdRRFZCQTlYRjdCbGwzUVhTWVBsRU1QSlJFbTduNUtWLV8yUGd5eHBoaHY3b1VPZ1hxTGc1YTlNaUdZ?oc=5",
-      "description": "Telangana ranks third nationally in April-Oct GST growth &nbsp;&nbsp; The Times of India",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "0cae666de9733aee75f3",
-      "title": "CGST rule 96(10): Govt must return recovered money - Business Standard",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T18:16:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUdiclJJMG9rSnlmcFFmbGFtUTVFRExQTVJkeHdoQnhjZG9BdjEwcUxRaVdyWU1VUkplNWNvVS05MnpLeDNfeHliYjRtSUI0TDg1NVlyaUctRUwtcktoS3drNHBtaE5LaVFjQVlQVHM1U0IzMUtDang4MW5xbk5SRGc5X2ZJdEZzRFNab2tsMGZudFVhQ3ZsVlR3VWRVaFFvdDlLclVvTkxOU3NzRFRBalc2dUwydndYaUHSAb8BQVVfeXFMT0tralVJUGJjX2ZyUUs4QThWMFM3a2xqS0tQWXJZZE9fMG1SRU1xR2JBVC1FSVVUSkZuRzI4YTdOdXpFNE9rR3RkWXk1bFZtQUN1SXlWb3RTZ3E4Vms2RGxZSWVjSmhleHlCX2ktTHRYalhfa0pzYVV4TjRWdHVlcW4yd0dzMVhobnB5Y0ZwNTZvRzBFQ2ZMR2FBelpsSEZLMUN0Q190c0p6dFB4N0NuTWZ4UDlNZWdEOE1PSXQtSVE?oc=5",
-      "description": "CGST rule 96(10): Govt must return recovered money &nbsp;&nbsp; Business Standard",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "89ed22c6cee9743d95eb",
-      "title": "More women at work in India, but on worse terms, says Icrier study - Business Standard",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T17:47:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSnkybDNUVFZQSE51V3VwMU9LMkhVZUFTc2drd1owYmU2R3FNLUJjMTlCTVJ4UVZ2WXhfWmNrWjJYLTdJVlo3UzN2d3NOalRUdm1qSFhlR1E5UVo2R0dmZ2h1TWJobkxXNTVGQlFacmNsU2lPQ3RvR2l0NjlZeUI3a1RXX1BpVmlPdVFSdXNVTlpwRmdCX1Zyc2VkSHNoMVQ4SUUzSThoS3E5TEdOTUoxZ28xZlhQNkd6Y3ByRndrUVV5bnJTYUVNUDRYUdIB0AFBVV95cUxORVQ3Y1kwNm5WMVFxbm95UFUxekJBNE1WVlZSMUhXWXJHczUtcE9mT2FKcHNEUW94M0h4S0tZRXVtWjZxb1BqQU1wU1paOGNlb1B5LVRyUzlJc2lEUDN1ZlJuSEZfSklOUnVXR1FkUXhYM1ZUQmg2VFRyemFVT3lVMFdpbHBSQ0xoMGNfREFKUUs0NWV1c1ZYMHdnc01lMHFvYl83aXRoYm12U2xBNlNaRFNXSDZ2aV9MUXZzenVaWlNZbU96OTIxLVBTRkhxMkQw?oc=5",
-      "description": "More women at work in India, but on worse terms, says Icrier study &nbsp;&nbsp; Business Standard",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "f8a94a7b9573271e6512",
-      "title": "Retail e-invoicing pilot likely from April 2027 to improve GST compliance - Business Standard",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T17:35:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVm9aazdDRjhVS3JBamVNcDhaVDhBdXRKdUJfb053VVh1UWkzaWM4R25zVHc3YkZuV3NSVmpJc01kMFBzWHUtbk16aTJ6dG0xdGhhWE9KWC1va2JkTUhBeDFUVy1nTjI4eS1leDZQMFMtc0UxZ21uSWxhakJuZkpuVFhBSERNcWE2ZnpmM05FQTdYYnJ6SW1mVkNtTzV5bG94US1Dd3RyQTlwQ25YTlNHVlpXMUd4c3hYTE9vWjA1QnJCZEZYbXBSaC1wSFJCVXlnbmtRcmpCZ9IB3AFBVV95cUxOQWFGRVNyWVk1LXI2RGV6MV91NjFlek1hMTl0dzlGQy15VGw4azBZZEdDWlhqd2N0d05pcEkwbDRaeU8yUkhrRXZadkwwdlNqSHhLeUJEWUhtRHN6WDQweXF1Q0lvdzI5TDVWNkd3Rk95R2Z0M1dGTlphT3M2d1FUSDEyTEtJSXZjMHN6VDJ4bFhYTkg3OE9VbTJYME1JbmhPNjM0STlZZ21pT1Y2RTBGS01XX0R2V2ZMN3VvbmstY21MQi1TWU1wS0llR3lfRjBtWmo4VDBZNHJKRnpa?oc=5",
-      "description": "Retail e-invoicing pilot likely from April 2027 to improve GST compliance &nbsp;&nbsp; Business Standard",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "f4765f671ac1e3421f67",
-      "title": "GST reforms from November 1: Easier registration for small e-commerce sellers, faster refunds and new discount rules | India News - Hindustan Times",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T12:52:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVlAzTE55cXpMQ0FhT0p5c3ZRcVpKTGtBVS12aDZFTkotcWFIcVplUG4xSkIxSVZJdFFWclZWZjFEY25BMEZGNEJ3TGpRWTZJTERoakFoUG0zWHJPcVJ6bktqX1ZYdXhPdFpfUWpqM29zLUZ3VHJEY3RTUnpxYkl2Qm9BSkxVQ2NsWnpZcDY2aGVKdk5WeEZ5NkNZUy14TVUzRzV0dmlGWktyRUkybDFKVjFZU2RHdHk2M3FwZ1NFNi0ydTFfaUlKRjhpVTUwNi1EbEJOM2VxSVJJTHE3NE1CT3dQSzhrSG1SaEttWkxvZEhBcE5YTDZPS1B5eENVN0NyamYwUndyYTbSAY4CQVVfeXFMUDVLZko1bkdhYllhQVplM0JycDQwS3BvWmozVWtnNjBaSHMxR2k5bXVDRS1KNHhwUHRrZmpNNWhrZWZ4ZHV4SUUzRDUzOGlsU0pINTl1NV9EX2ZwY3VQVGE2eHFGN2N2SWVqZXVNbEtFOUt1clM0WXNlNkNRcWlRcVJjZHpsZUJwTmhsMXJJUndsTTM1bFJYOUs2ZHFQMFMtLW13aWtxQllhLTBKQm9aYVZzOWxUZ2ZOMnBmTWJ0WExtemt5TEFLQW1HVjdibWN6bkxoU3QzNUpKNlZJYXgzMUtFMWNSVzRrN3VNTFJoTk8wTEdvN3p0S0ZuTzNaQmR0Q0ZzOWZaams3ZHRSbWpB?oc=5",
-      "description": "GST reforms from November 1: Easier registration for small e-commerce sellers, faster refunds and new discount rules | India News &nbsp;&nbsp; Hindustan Times",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "827a09f294a84027717e",
-      "title": "GST collections surge 22.9% to Rs 2.31 lakh crore in October - The Statesman",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T12:33:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1VxS0hnckxBSnZGbmFoVms4Yk42Nl9zaS1KWEl0N2FKQUY4aXZLSTdSeGlFc2ZUT0NOanpnUWk4N0ZnQktHUDN0dkRzZ0NpVlNtUUxXbUREd3VZemJ3bi1oS0wwY005VkEzcThleTZmdWhWVVBhdVFiVU56UkEyYlMwVlgwQlJGX1QwT2RUZ3FKZkFfeFZFeTNNdUlocTdiSHVvd0wyWHQtd2l6VkZDVlZfSdIBuAFBVV95cUxPc1hNdDJZM1ZONzc5aEJDSnNLWF9pMVg5TW1YcnA0V3hLWDFVUE1pbDJ6eGVzdGx1RHVtWjlGZTBZX3pmX3dEaUxBbnQyVGo3RGcwejAtOXZpcU1fN1o4SVFpRHdoN3J0WmowZGdVUFdoSTY4TTdpTV94SWVwWF8yRUJ6MXFPSnhhZV9CSUIyYlNpb1h6WVRETm1LMTZvU2FjRlBtS1lKOF9pX1BfenVPZGhqdUtMWEZ3?oc=5",
-      "description": "GST collections surge 22.9% to Rs 2.31 lakh crore in October &nbsp;&nbsp; The Statesman",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "bc90fcf3afea34394320",
-      "title": "CII calls GST decriminalisation move a landmark reform, says it will boost business confidence - CNBC TV18",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T12:26:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWhRQXFuV1pJLVRjcXJNMUhhSXlfZWJwNkdlSkRvemFQaVdoNzViMWU0RWRVZDFleG5pcDlIVi03OUhIV1hJelVoTTdteWRkMlJZaTNJeHNmVi0zRGlsTHZ4WFduc1ZQQkJXLVVKZGJWN1lrdldjOTZpX0hvcVhfbE5lT2g2SnM4T1pDZXF0bG1jVHRHdDBiMFE3dVZ4RmNyeS1VN2s3aHJBSWY2eXlZS9IBtgFBVV95cUxOVDBhcmNkdTAtTUg1TXBTVzBVOXpGaTZ4NEs0cmJtMFJQMVFHbEt2aEU2UFZDQkUxYWljaFJxUGU0TTJLYTZ0OGRlQ1gyTkR2cWRlQ2ZHY0FJeFJRWGpDamRyd2JJeEctQ25aX1hnaVhMVlhRWGlpOUE3anpKa1RMVTFfNk40S3lldHlIY3I4OV83QllOM0MyYWdtTUJLcUlvNXpGSW8zckp5eFFzMUtKcVhpR0pQQQ?oc=5",
-      "description": "CII calls GST decriminalisation move a landmark reform, says it will boost business confidence &nbsp;&nbsp; CNBC TV18",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "a73aaedede3bc94f495d",
-      "title": "GST mop-up growth highest in 4 years at 23%; October collections at Rs 2.3 lakh crore - The Financial Express",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T12:25:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVFBR3k5MFpaMUxzRzJLb0h2eHdoRkdXTWdmaExSaThMbHlvLUlUQWZYTVRWVTZOYUlpM05DVDd1ZDNnd0pzVVV4VWEyMDc4SG1ZUHppZDE1bndCUXJRX25EUFlaa2JJeEtnVnBocDhTTmtFZmpnR1RBbVpmQ2dSanNYT2hTdmZ5YUJBY29CTy1pMEsxa1JENXpnNHdqalVCSEYzbUlWbHZGOGM1dXN5bmRJazl5RnNxRWVOUXlnLXFEbE3SAcoBQVVfeXFMT1dkLU16RjNhcGRkeHV5TkZnVHJYd1d6VEg0ZThiN2wzVnkyeDJ3aWFfdW1Ycks0R1BBQzFuQjFJRTRUQXgzTnFQSXdZNlVUNnRocFNEbjhjZ1NiVm9kaDFVdmh0WkhnNUJlRWNRYTJMUXQ0MmFTUHJ2WWJZbWFQYmgwN3ByTkREcUJDblo2N1NyVlUwMTBtaWtocHhFQ0VwZExIS0Fkem84S1FadDZrVTFPbHlGUVNRZnN5UDl6WUxJS2JPR0t2dmJGdw?oc=5",
-      "description": "GST mop-up growth highest in 4 years at 23%; October collections at Rs 2.3 lakh crore &nbsp;&nbsp; The Financial Express",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "48ff70c84b1b8916367c",
-      "title": "Imports drive 23 pc GST surge in Oct as domestic revenue engines lag - The Federal",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T12:23:58+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGZiSHdURFUtV0RNVW1Qa3FqdHJoM1J4dlRUWVhkZUJFVTdVYnp0NG1IaV9PcWQyelBkZWY5MUhVT0Q2MlQxNHJhRG00WEdBbndHRjdRWldUb1VkNkRVYmtGdXB0OU5YMmxuYWVvVF8yOHBOaVVMUElDT3RybFF1TUtnbjJ4NUJWXzRPS2M1ZHVudy1SWS1FcXFzYVRYMXZaZ3c?oc=5",
-      "description": "Imports drive 23 pc GST surge in Oct as domestic revenue engines lag &nbsp;&nbsp; The Federal",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "0305602077e9040240b2",
-      "title": "CII hails GST Council's decriminalisation move as landmark tax reform - Business Standard",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T11:47:23+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS1pWTDhwd1VBak5JUFl4dXVuWTFUSjZJTldRenFuN0htTXJQRXpxYUgwVFdsWnByRFhFQTgwUTNVeWF6ZnV0UTRaRnpudTRKbGVQSzk3TDRyektjenFReHRfVVhiVmg1djZ3M2ZrMk9PMUZPa29KclZYekpKNGU5WlJzVDVud0p0UWdMSXIxby1VSnlEMHNoU1dHS0JiMk5YdGtzajREUHc1Tm1yWUZZeUN3alpobWRuVllvV2ZqNmx1R2pINTAxNm95WmFFTWJwZ3fSAdcBQVVfeXFMTm8wX2Q0bzlyLVR2V19SSEpjV3pybzJhNk44cmV0TFBHUVg3TFp0QTIyWlA3TEZuTzNCTEtoc21MWWtPWXB3YnBjZ0FZWGpHUTlTeUZTRjVUcUVkRmVnUnNzZzRMV1lYdk5YWlZGclFKOXE1azB4Q1FlWVJhTE1ENzhyVUI0WHlZYW15QlVCNHI4WThPckZsN09vREtKdzVDT3pVTDJmZU1abEdwVHlWUlU3SzF6WEF0U29HZzNYbVVqZGtNeVllbnVQb002R1AzSVJ4REIzRFk?oc=5",
-      "description": "CII hails GST Council's decriminalisation move as landmark tax reform &nbsp;&nbsp; Business Standard",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "e2a32021131f39ab73ea",
-      "title": "Oct GST Revenue Surges 22.9% YoY to Touch Record Rs 2.31 Lakh Cr - Pragativadi",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T11:46:18+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUhNYVZ2MkR6VGtHY1JFYWVfYjR3OWUwakpBbmV6dzdsc19vUzhfY09kcWZPakhEb2JjVHpZYktQUFNRWUk3NHlZR1RBM25TMHhFUENjQjR4U0Mydi1KTEFzVzZrSTJ2aG5lSDZkMnhoaXZtYl80Y09yUTh1TkZXSnJObGhMWmVSMV9RTGZWeVpYR25ZUXBMck5Tbw?oc=5",
-      "description": "Oct GST Revenue Surges 22.9% YoY to Touch Record Rs 2.31 Lakh Cr &nbsp;&nbsp; Pragativadi",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "8ab0de4df48e72bc7f67",
-      "title": "GST refund new rules from November 1: here's what changes for businesses - Livemint",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T11:14:20+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSGg3anBOUlozLUxhREVVU3hqYmVvQzI2YnhuZ0l4NHM5Y3V2dm9oRERnMV9QZUFEbklScmdIcmVUODJ5VnlRaVduWm4zQmNhdUVya2o2Q3NuYXRwTlVMMkpxSkNyRnJMM08ySDN3WVRJY0V2dlRVVHZiNDB3X0Q1bEVlenQ1cXhEM1ZQRlM4eHJJTG9ZeHEzY1NFcXB6dnAzZ0JDczMxQm13WTRreVUtYS13U2lpQXZiZHZqaW130gHDAUFVX3lxTE9ReWZVSGNSQVNLc1lfc2w4eHdYMENKeF9xbE9EcURfUVZhTUZHNFpibHg0S09BOXFvTTY0aGJkWjBBMm94YlV2Xy1lRVpNSlpSbWFTNXhBTGNKblpRdlNFYzkxTGJlSzZFV2hPZk1mMGVnYUFjRHQ1ZlBvWGNOUm15REhETUl5c0tvb05WY0ZrbWZRWF96eWt1VlFVZi1COHhzZ1BQanRGcTNXUEZvQXZMSzNzMFBnTlJ2amEzN1FVb0Zjaw?oc=5",
-      "description": "GST refund new rules from November 1: here's what changes for businesses &nbsp;&nbsp; Livemint",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "63cda6f42b9c4910b443",
-      "title": "India's GST Collections Surge 22.9 Per Cent To Rs 2.31 Lakh Crore In October - Swarajya",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T10:54:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOEJNdmVGSE9YY1A4UUg2QVUwSUlfQnRpY1pKRUIzcGVJQ1RoZU12LWo5WDdYaGZhQlAzckxMQWp1cmhkYWJweGlCRGRKaHhXa093VWZGZUx0TlBDMU1mcmoyOHNDZVh5NFVkUjZxSVgzT1paZ1lOMHhwQmE5d0plM3IwYkNnYmdNYkRlTTFKUEdjRDN0clN3TVdtSmxHLWdWTmZ3MXJRX2_SAbgBQVVfeXFMT2N2SG43eVRTOFJSRXdGZHBGQ21rSmJtdDB4a3JCVE9GVzJLMzF1X05GenIxMnhZZUlZZlNVNkczU2t0NHU1YjlabjgzYWxOVXZGWnRONU0wbUxTc2cxUWoyOGM4cnpyb2k4Z1dIZ04wdzZmR01KaS13Q2pINjcyLWo1SGdtRVoyQ3NNLWM2WV9pSVd2UkpLbF91OGZzcVZPdmM3T09YSVpsamlvSlFSV1ZYV0RqWkYyZA?oc=5",
-      "description": "India's GST Collections Surge 22.9 Per Cent To Rs 2.31 Lakh Crore In October &nbsp;&nbsp; Swarajya",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "0d08a541c8adfd8cae11",
-      "title": "GST registration new rules from Nov 1: How small online sellers can expand across states — everything you need to know - Livemint",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T10:52:53+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNjlCeUlzZnI5VWtOc3hDLS16X1d3eEJ4MzdZTjdGdFI0X2JHX0dMUkJFMlBxZG1WVk95MFpOdUx0VkQtb09yT21HSjlYT1phejhIZ18yTngtd0hsZldjUDQ3VUtSbnZ3cS1xam9qR01PX0RsR2hvSmNkMkFqTDVLR3JyLTVPU1hmbHg5TmNoU3Y2Zmx3MExSanY3cWNwM1JCek9EQVY4dGZiSEd4NzJWRk9kLTloV0hVbjUzUWVaN3RKY0ZyNmowOUxlUEF3eUZCcU03dWw5eGRLaVlUNXpxVEZKWmdrSWhZMlhwM3ExQUJCVnN2RVJCSFpjNFpaMUJXTVVfQmZwMFFXRzRHZExhddIBlgJBVV95cUxOWm1HOFd3ZURVTjBFNlBoV0tIZDdSV3d3ZDVMVUtmMmk4ZDlhUDVwRmpvZ0hWaGdxX09oWDRPWXI5VFNXenlCMHNDa1ZqbGgyc0pSYmxZYmMxM3dfLVlQc2FDdGhYQlUzUkFYRGZabjRWQ2RmMzV1SUVHaWxUMFlOaVloZVJLaUNWOVlGNmRkYUk4MTROT1l2dUR0M0ViRnhCVkJPTWZodG0yMFJ1aGJyV3AtbjFfcy1temRoNnlPX1dfeDlsVk5qU2FVZ2xjWHFiLXd1MW9hNFlwS0VwMFF1QmhPOEU4QUg1dnQ4RGd0eWRVeDRWd3RWWW5wa1ZWVFFiQ3paOUVMc21waG1PMzhhV1hxYUh2UQ?oc=5",
-      "description": "GST registration new rules from Nov 1: How small online sellers can expand across states — everything you need to know &nbsp;&nbsp; Livemint",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "6bc3512e005c27775918",
-      "title": "CII hails GST reforms as transition to trust-based governance - The Hawk",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T10:51:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnJEVkZuejdrS3gtMXN1LXFUVEp0LUFZZm01WURfUU9HSkk4WTJWR0JsQ3BsUzVFVHUyTVc3TEdFMm9MSkdzR2l3cjNYM19JSHFLcnJWZkFUREktcGpkazZkSmhYLUtLbU9IV2tVTWFIMU5vaUgzdnZRc3Z5dFVwSThMek9uN0RvVjBjN3p3ZGhXeG1hZzZyQWxhMA?oc=5",
-      "description": "CII hails GST reforms as transition to trust-based governance &nbsp;&nbsp; The Hawk",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "520715dded80bb1cade1",
-      "title": "Net GST collections rise 25.6% to ₹2.03 trillion, fastest growth in FY27 - Business Standard",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T10:25:46+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZGhnQXNpRGVtTDJqN1ZndVc2RHMta3J6OXAxVUNsME5yY2ZUY3Y5LUxIZk5tWmRNWHgwRHZubllzQk00TkVtZGg1RTMzUUEtS2RLTHhlZmlZQi1oQVlWME5DaUFwbWVzcHZVWWFrNE1UVVc2U240WDdhMlhCekYyT2xwZWY1RWpiNWdQZHRXSld4NVpaVUhCSmZjSl9UUXhuNnJUeTNHUjZ3azZNeFBGUWY2NTl0Um4zQWdhQzVfam9WeXBPWnhYVjdTWGI1Y0F5WXfSAdcBQVVfeXFMTnltNUhYOHVDS0lXWGJIOUZyZFE5TXhDaGNYQTRucEVVWWc2Rk5taFpjTllDVFlyelpWdnVSb2RIbWliWVdqU2NBZC1nM3J1SkhjSGs2WkhFakFpTnJwSWpFWFpqRHZhSC0wYkNJejFfSWtVQko3YUM1ZHpSelpwdUFkWHlGaUxGX1FDdFczX01XWDl3d3lDRTJjQXlpd2tDWm03eGU1WlRRSFdyUmZnY2RuYWx3djQ5WFJ1NGM1TVBqSW1OTzJMWnJHMUM2SzNsbnp2emN6MDg?oc=5",
-      "description": "Net GST collections rise 25.6% to ₹2.03 trillion, fastest growth in FY27 &nbsp;&nbsp; Business Standard",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "ef2e0d85069e4ed759ec",
-      "title": "CII: GST Decriminalisation Sets Trust-Based Governance Benchmark - Rediff MoneyWiz",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T10:14:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlJzRFIyOHBlTHM1a25iR0xQU2RBS1VyQ3pjNVFXWm5IVGprTEJIa0RqRDQ3aEFxS2VwVk5QS3ZzY1FNbkp3NnAtYU9xamJzNU0xNnlGOVpBSTk3Z1hsNUxnX0xUNzhFdGw5SzBOaXpKeWNwQXlfcklGUVBuOWZteDk1c1k3MzdudlFhNko1a3k5cU0tTGlUWHJsQ3JyN3pXS2w4M0JjR2VQWk9uT1YxQ3NWSVpXUdIBuwFBVV95cUxQVDJibF9zbWtHeGJSWEVIVlM0Q1VxNGhVRkxGVnBocXd5SjZ0RW1FU1AwWUk3aUlnVVp1Tnk3VUJTNFBhbHgyWFZOTzBmbjUtdkRfcDh0aWpxSl9NWEZ1cWoxMDFnV3VzZW5pUWxFejJCRFphdDRZVzFGaEhwdXNGX0x3UE00ZGJlZXVCeE03UjgwbDF5QUU5emNheGhsLThGcHp1Z2NvWW5hamZvenc2emFjbjRkQUdqWng0?oc=5",
-      "description": "CII: GST Decriminalisation Sets Trust-Based Governance Benchmark &nbsp;&nbsp; Rediff MoneyWiz",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "7ac035ab7d3ca7bf2bcc",
-      "title": "GST decriminalisation decisions mark shift to trust-based governance: CII - Business Standard",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T10:12:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZnhEdTBxWWx0S1Z5ZXJRNHRSTFFtRmYteE1rNXZ4dTZWdktHTWRQQ3FWbjY0NWlUMnRhaHg2UXh6aERVZ3k1RkEzOGNqLW1ZVW5iWlhRbV9uWktDVUkxQW9xbWttMXNWdnFuUEp1ZjROeUhxTWxmanZPTGdWYmRxdEtBejFzQThubnFWb0dVai1meE4zMldoV3dYSk16OU1RSnZvS3JkTk05RWY4bkNHdmN3UlFSeWcxOHlzWjdJTWdtckRFRExqai02MW14Xy1TaG42Z2Q1MNIB3AFBVV95cUxPRlkwRlNtSWNJWHY1RTRubFBiOVp6Y0xPbjZBWmxSd2VkWFNNVlJFRkJBUGV2NXhNaWJydlZVTnl1NHgyeEdoUG5XcXdvUFlMbEJ2WDczVTQwWkEteDRhRjNIOHJ1aHdta3lmaENLVS1BVWowaUl1cl91ZmRxV3FNOFFYV0RBdG15cTdSZWxRdUVrV3dxY0FObWFwRGFyMkp2WlQydzRkVTRvQU13eUo2SEl3UjRYNldWM0tnMGxXNFVyTXg1dkl4UjVDME0wT3ZLckc4OGR6Wk90MkE3?oc=5",
-      "description": "GST decriminalisation decisions mark shift to trust-based governance: CII &nbsp;&nbsp; Business Standard",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "72b79b7e0a082e8dba19",
-      "title": "GST collection October 2026: India records 22.9% growth as import-linked revenue surges, check state-wise performance - ET Now",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T10:01:40+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaTZKZkVYb1NEYWNTakNXclppYXJHdUNvTW9VaTJZWjkzbEN5SFhGNUYtTWFXdWhyVG41X0IzNUxOdVl6UnlRTVhWOHlmM1QwdTRaX2Nqa0NOeTZDOGdkbGZqUllYY1d1eTctNHN4QWRVYVRjVVFkMVFZRi1hMjd5cWFDZUF6TUpZSjhfTVpLUTBZb2ppMTgtT2FVc01uUWRPYnhVMERZWElXd3dzV05mQk9veUpqU2JUTExWelJSUkhmWEJ5eTlZenljSTlZQy0xNGFTNFV1YmJBNkl6ZG5Oc2txNmQxbWxJZU1uZUVGekthdnlPMzN1Y01R0gH_AUFVX3lxTE81ZnhzS2Z2akh0RXVhTVNJekpPSmk2Zm5sZVAzMTJHb1BwbnNkY3VMSWdFVzJEaUswc1JzZFFjS3c0d2NrUHFyX3dUTUFqUUpvbmJKUGdkbWxtVkswTzZQbVZyOWc2a2cyY3lHQkZJbVJ5TE93Y1ZtQTJHSWR2amJBcHZybEw0dlVVY2ZPZDFGamV6YWp3MnRNUmd0dXRuX3lsOEloU3Z3OE1EaDFDaEtWYXB2cW12TGdQalhpWFNmSnVtYk1KZHFuMWxRSTV2bHZPdnF3SHliWGs2ZTJUbkFjQ042aV8tb0FpT0xPaks4eG5iREEyLWtJbjJRdmRkOA?oc=5",
-      "description": "GST collection October 2026: India records 22.9% growth as import-linked revenue surges, check state-wise performance &nbsp;&nbsp; ET Now",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "e29d4cb95dd8a92eacb0",
-      "title": "GST collections jump nearly 23 pc to Rs 2.31 lakh crore in October - bfsi.economictimes.indiatimes.com",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T10:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN2VHZGhkV0F1WTl5VXJrU3hKUTlvNkZxNklhR0JVeXVrTU9MOVZKT3ZHbGtyZmN2bVFyOWZycGIwV2FUeEZTQUN3aEhaLXlPVENMY3hYLUlJOVZKRXZlZHhXeFhKa3kxV3JQWlFkdjd1Q1k2b3UxLXVHY2x2SlBzdWVIemdEM1lrVzlDcnFxS2JrN2tOSVE3dG1pU1lwLXo3clZsX2xidDJlMGtmNXFZZnJaZmN6Z3lPeXg3Wlp5a1FBUVRIMGc2Uk1oT193ZTVBRE9OUW1zZjBEZ9IB3wFBVV95cUxQcnhISWZUZDZwam1mZDhSb0hWVXRLWFNYS05wYmp5cFVubnNxY21oUWlhYTNJR1dyVGxXOXdnN0lMbGdjbWtxTzg3bzdVREdkOVg4LVpSZGZ3eXFlMHJlYTlhYUpvMEFla29uWHUwNEM2RFhLYVBWaUdZQk1LcWhvQUJxcFBEWDhzTUhoTW5RbnNsTEJQektJUXMtOGhfSDItb0ZyUER6R0hyX0NNLUs2WmJ3WU5ubHFHSTNmU0pGU0F0SVgwSkdmNm1DdmQ4V3h0cGZqZTZIYUlQYjRWTXRJ?oc=5",
-      "description": "GST collections jump nearly 23 pc to Rs 2.31 lakh crore in October &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "be66867c22007149a0db",
-      "title": "GST collections jump 23% to Rs 2.31 lakh crore in October, second-highest monthly mop-up - Firstpost",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T09:56:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN20zWmtvc1ZsR1c1Qm5nY2M2NEhQOHJjZWlJajdDT3FmbzVxWk4ybnFFQk0zdEpWaGhaZGVFRGJ2cDBnMFFnelF0NWJOR0w0d181bjZiSUhJNDhqWW5lSHZWemxRRnp5VW40V3NiUGZWWWQ0Znl2dVhoUHd1RXBZd2Q4dVFDTlMyMkpBbzJqWGYyQXRONDhMb0hQaThvVWdNWVFyY242RTRXaUpTYzRSWkdSeHV3RXRkc0VjanRpWVJpRTJLdEpjS3JpN1luRElp0gHWAUFVX3lxTE50QjRTeUpOVVRqV1JLcHNDeElobU9tMmtJajBrY2tMb25ldmNVY1VudFlVdnVCdGtzQWdkUHJtdE93bWpXVEl3cU5DX1ZoT0dESjlwY0pfbXRESVdQbUo4ZnpSQkdVWGVxaTN4eGRsM3pReTFjQzc1RGNvYVZmbVNHQXZrR2dqN1FEeFBjaUlSbzNGcElYVHdVTE53NXZNTWZ4M0s1YWZnd3pKdUlsTUY3cUlEM2JJUEd0LVRjMGhrNE5DQU51YTZ1LVphSGI5Vmc4SnI5eWc?oc=5",
-      "description": "GST collections jump 23% to Rs 2.31 lakh crore in October, second-highest monthly mop-up &nbsp;&nbsp; Firstpost",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "a2c665496ef2f93e679d",
-      "title": "India records ₹2.31 lakh cr GST collections in Oct, 2nd highest since 2017 rollout | Business News - Hindustan Times",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T09:26:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU3htbVNOclljTDRCcUJJd1Jicm1xRmt0UDJuc2FsaFBaWjNKckNPMmY3RENLS29fWlluVzRVWTE2VHdQMzlPRW9wc3dPclAzLVBzUy1yTm5rWFVEbmlhRXpnSW1NZnNKekdITmU1eGZtV19ENnMxWE9pRktkaExnSTRlQV96UTl3NEEzS0VWd2VIaUdjaUhfbGpnWVVjSEZCVUhvZGZSU0w2aWttSU5lYnJYLWk3QWE3X3dRQXhfbkR1Y2ZZUkxZU2hjNVlHdmF2bV9ENXFrel_SAd4BQVVfeXFMTndiajNoRk43ZGQzSUxJeGVtVVo0aU1jeEJDZDU3bDBrcmtHWi1XMFc0eEZwZmlQNXJVNHJxSzR3aXRsRmh4RnZOTWpNQnhOSUx0d0hHdElwTllhWW4tblVjWWhRaDZPMzg5STJObHh5TzdLWGc4anZ2Zzk5Zm54WGlPakhyV0hzUVNmNFN2MWFoeUtyRVY2eVZ1a1Z2WTBuSXVhRXNlZWxNVkREZjJpLUxpZDRFVjNubUlvdmp3Y2VSSGhjd0VFTG81MjJLdXB5Xy1mVjlnWnExNmNGc3N3?oc=5",
-      "description": "India records ₹2.31 lakh cr GST collections in Oct, 2nd highest since 2017 rollout | Business News &nbsp;&nbsp; Hindustan Times",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "e0340b425bcaa52dee3c",
-      "title": "GST collections rise 22.9% to Rs 2.31 lakh crore in October - The Times of India",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T08:47:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQODNiZU51MjhpS1FISUp0V3MwaWFnOW42UkJSeHdwM1pEamxPQU1XUm05ZWRSWUZaakVGX1liaVFlMnh2OHN3eThKOUkxWEFCaG4ySl9GUXFsY2NCdGhaVUU1TkhOcDFsdEx1WGptVlRBMExHZXpHekFtSlFsQm14VUtEYkhIeG1YcDhHMTg3NFNSSjJOY2tmQ29zRjdYS1BSRDVpTDkxYm1NbG5SRWRfMUJxSTRDNjNuN3pJajlmbk5TU3o4emZBZWJBdEp3M2RuVEdVSG0zOVZKOTlU0gHiAUFVX3lxTE1NbjYwY09heVd2ejdYaG1GdEpnaFpxZV92Rk1ZakpyLTF6WDhZWDRUZzFWaWhQMTVkcDE5bHlWdTRxeVhDZng0TlpFU0RhdXRHNmVpMmtqQjFROEE4RzBNYk1XTnpISVluendoUXk3c01meDdid3VwX0NoM2FNaDJETmZHQXg4TVRDRWVpbDNnNkZEU1BJQzAtcllxdlZZclFXS1JMcEwwOHFTcnpXdFcxTDZvRDdLUUdlak4ya2Z4U1kyaWhBWDJyZ20xbDYyeGNfZlVXRmY1b1BUZzVuSEJnZ0E?oc=5",
-      "description": "GST collections rise 22.9% to Rs 2.31 lakh crore in October &nbsp;&nbsp; The Times of India",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "dedc7a87a2dfd87876e1",
-      "title": "India GST Collections Rise 22.9% to Rs 2.31 Lakh Crore in October; Check Details? - APAC Media",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T08:25:57+00:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPOFFRRW4wWUd0YWl4TzU0Z01JRzUtRmNla1JOOHRUWVZ2OG9mSUlOOFFkZXh3dkdXTXJDSkhmWnNpRXRkZ0FSVVFFTjdLOWZ3S0VSbG9ES3lzZXhYZDVYVEFoUXktV3lBekVOSGJxVXp1M1FxMFVITFFQRQ?oc=5",
-      "description": "India GST Collections Rise 22.9% to Rs 2.31 Lakh Crore in October; Check Details? &nbsp;&nbsp; APAC Media",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "a67cde1b8399d5a0f931",
-      "title": "GST collections rise 23% to ₹2.31 lakh crore in October, imports drive growth - Fortune India",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T08:12:09+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXpMa2N5eXl6S0ppbkRlaVRqanFBOHUyTkZPUXRVaFJkd0RoYWtBbG84M1otTHY0SUJKUnZ2UW9KUV9qWURVMnE0eG1OdXVtdGR5WTFsRTRFQUpzWWtZQkFfVzY0cXhvZzRheDNUMl9hNmR2dEJtNGI0eHVjUDFFbzd2eUJwMUhyaXB6Vnh5NmhzOEVCVzdrQlNGX0RNai1fTHB2MTMzTHE4NVRTUlhYS3oyQVU0WkN00gHGAUFVX3lxTFA0eEJlYURFbnYtbjhqcU9vMGlwTXlfbEVBclJaTVVjZTdrUFBFR1RXWXFrb1JZRDRGMGtHY0NYQ3JwZUsxMUd4YWptQm9sNnY2eHhjTHhBN2JBWjNGNHY4NzJ6dFpUaER6SmtYcFFnS1J3ZGJCY2MxSHJKQXRnRTN0UVk1NGdQRnl1bkMtVFU3MlZWeHlnbXR1VFlfOTJHUFc5elJUY3o2c1BNOU9wTUVHNEFET2lLOWt1aTBJeXBiZV95WFpaZw?oc=5",
-      "description": "GST collections rise 23% to ₹2.31 lakh crore in October, imports drive growth &nbsp;&nbsp; Fortune India",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "77fa990560f010b2375e",
-      "title": "Imports, low base power fastest GST growth in four years in October - Livemint",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T08:08:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0U3bm9KUkNKanFJWmJ2a3liR3h6SHZtc3J4VUtMUXgwVFo5ZUxtcjc5cjdDcUF6ZWZRbmc3MlpfNGxpdERfREdlQjZoTko4QmVoQktBNER0SkxQcFhYcnIxZ1lDeTR1ODY2OXB0REFXNlBTUkttZXU1ZGxNRExpSjVlOEVfNllJUm9zWUpwdkNMTFIydmxzdklvLURpZnB0V2xHZ1lKMzl4UUdvMFHSAbMBQVVfeXFMTVkzcVFjdTE5RUFfZVRsb1NjNExRZ2t1X2ZveDZhbEtLMGM4cUlPVF9fVkllNU8xS2FQZEF5OEJNcFk5Z0J1c0kxeko1RGhiLUF6eWFYNkFTdHBRZG1MSVhKN0RLc1Y1RmdBZC1CS1VHc3l2bW1UbTVkbTNIT0hGSlRhZGF4OUlWZ2pVcXdsT3IxVlh0TVBaSVM1a2VRaS1JdXYyaWhhSU1LM2d1dXY2VFVkdTA?oc=5",
-      "description": "Imports, low base power fastest GST growth in four years in October &nbsp;&nbsp; Livemint",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "3dee3343a6dc8d369c38",
-      "title": "GST collections jump nearly 23 pc to Rs 2.31 lakh crore in October - The Hawk",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T08:03:42+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbjZ0cmNDc1pJU3RNMVJQSlkxZFYzb1hlM0pFNURpRzhDRE9WeFJ4bXM2ck41YUpzaWVxVUo3VE90TmxjdkxKWXRyUlgyUy1MUS1IUmhEaUJSdW9HMzl5a2NabWJYUDNjc1E0TEFvelFjVkFaZ1MtcEZKXzZWdTZsTTVqYnhYc3RfVDVWS1cwRjVUVnNMcm55S3FmUDlWWVNMUFdOQkNUakYxcEdnYUU0XzF2SWs?oc=5",
-      "description": "GST collections jump nearly 23 pc to Rs 2.31 lakh crore in October &nbsp;&nbsp; The Hawk",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "a9b386f8efc980c4de40",
-      "title": "Festive demand boosts GST collections to Rs 2.31 lakh crore in October - Rediff",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T07:52:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNN1ZpOWpwRTVxSG1TbjFXeWVzNzUzT3RIekFIRGV6MTZhN2lZUWdzQ29KRktsb3NkTGZYaHVjVF81MC10WHBOcjNJbVRkLVNtTDBMM0dscGtMU0haSGlhdUJhMmFHS0lHdFhocXZTdEd2M2RSY2dXSDR1aTI2c05IT2lLUGZWczQ1ZU9uU0lFN0ZXN2h0X3h0OFV2SkpEYWhONWtYMTZMdU5vX1UwN3ZnMjk1SGtQMGxpWS1aS0JIcmhtVHhvREotWUdZSVNqbTl5UlU1MHo5VUpWUVktdjU0d0Z30gHkAUFVX3lxTE1NOFVLU0FXd3FTc2k4ZnZyenQwVlN4YzJPQ2FGdkIza2U4dkU2R3lSRmNWZ1VXWS1LVlFUVzNVc3M0Z0dZSjVPdXM1RDB3LXhFUUx2T05pMHpKMWR4SG9ldXZMSk13djFnTDZHNzZnS1ZiTlBSMmdHbklpcDNvVF9lWjBDQ0c1V2p5Tnh6V29PelczRDBXQ3ExLUdsdEJXUExBbllHSU1rNV9mZkFOSGU0U2lOM0szSC1RLUNEQ2h3WmhvQUJ2NmN3Qy1QbVR2UTE2R2JUcXZNUXJOYWRWdHltbjJIYg?oc=5",
-      "description": "Festive demand boosts GST collections to Rs 2.31 lakh crore in October &nbsp;&nbsp; Rediff",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "03441270db808e0be8bf",
-      "title": "October GST collections grow 23% to record Rs 2.31 lakh cr; domestic revenue rises 16% - The Financial Express",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T07:46:42+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYXZvZ0JvbzFxZmdadkw1ZzNsc2lGNElBTjA5ajFRX082YkQwajZOZ1ZJOTJnRjFMRElHZnlDZEltMDZVc2hnZG5ab0w1QzVxT0tua2VUUkxoaWJzVWY4bVFyZU1SWWEzN1gtZnh4M05RUUxxMEg2QVhMZDg4MHQySTZHMGk5TWpZaU44V19KSFh6eXJKME1GempWTGxfZW1EMDQ2eVZkNWhKOHJwdkp1RW1qMEZ1Vm5HVjRCUUhkRGwxRXNNZFJPbFJwZnltbWdLV3U5d2RoRdIB3gFBVV95cUxQSkFsSGFUbUVQd1o2dHFkN3lKaTgxeTd3RVVWOHZYTGxHNmVWd1BFSzZwbkZQTEttSElfand3NmtXaDFXUnI2UUpBZEc4R2lYTFdPT3lpbUdjRVAxcldMNExTT0Y0MFhZSHpHME82TWgyd0hONDFKenB4NVJqQjQxZmtIOHlweFNxTVdWQm5KbXBOVU8yWS1lLTlPb3dOZVhON0txeEtqWXpYODdsWUJuNFF0MkxCckJBYkZWdmpMSUt0VzhfdzlRSDRHczluXy1Rci1LLWgtT0F2NWdramc?oc=5",
-      "description": "October GST collections grow 23% to record Rs 2.31 lakh cr; domestic revenue rises 16% &nbsp;&nbsp; The Financial Express",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "91b2056d8bb5fa563761",
-      "title": "Delhi High Court Upholds GST Audit Despite Retrospective Registration Cancellation, Rules Section 65 Permits Scrutiny of Earlier Records Including The Disputed Post Cancellation Period - Raw Law",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T07:36:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOZ0UxS3Q4MzY3RXotY082akNQTE9BM0ZPZXcwaFRQZXNsMTNnWjBBVFFOQk5qX3RmZkpoM09xSWktTHM1TmQ2NG5rNU14TTVFTGc4ek9URmMzOEk1bGZydTVNM1FyV1YyUlU4bV8wdU1VQjc1SkdLSWFkZGZ4V0diSlEwd1RtOEVNQkRkQUw0M2FWdk0wb1F3Yl81WkRpb3lubVUtQ3o2UEFObnlOYkt0SnVZM2I2V3dYTWdja1ZYYXRGMWdudW9pcFE5cGpZVkJ4Y2hpcS0xaGJtTXd2RlZlR1ZNeVBBaVVMWW5XRmIyN19sSDNfaUJCY0JQbHU0SEJGQ29XaXIzTDBCRmdkSmltQUQ5UDlqOWZSNmpiejMzdGZrNnFsNGJySDZn?oc=5",
-      "description": "Delhi High Court Upholds GST Audit Despite Retrospective Registration Cancellation, Rules Section 65 Permits Scrutiny of Earlier Records Including The Disputed Post Cancellation Period &nbsp;&nbsp; Raw Law",
-      "categories": [
-        "GST",
-        "High Courts"
-      ],
-      "importance_score": 42,
-      "priority": "General"
-    },
-    {
-      "id": "5a6af2dc2c9607be16c9",
-      "title": "Gross GST Collections Rise 22.9% To Rs 2.31 Lakh Crore in October - ETV Bharat",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T07:32:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzh2T0Rrb2pDRGZjaThoc0VXbTZueFZpOHVhaTBnUC1Xb2pjQ1U5dnBIUWVEakNrUW43ZjZqc3lqYXBOcGU0VXdDUlhmSUE4OFJpYmNSNkhHRGdGZWNJdTVaN3lJUjJoaFQ1VEt3cF9wV1JkRXhHQUdUOWVPWWJnUDIwRnF0RzAzeFE2M0kzTTEycWY5VldRXzJWWjdPYUNsSVF6Y3ZyRVBaZF85bE16cGozR00wUW1fM1llLVVfbnlrUnF4bnFqdzFrc25hYzZVOGw00gHYAUFVX3lxTFByYlNPdzF1d0hsVjQ5ckF4NXlBT1IzYVQ3Wm9EX2lLNkt1TURSWkhMeGU3SndENHhJSWpGRjY3ZXVmYnVrdzF0QW54bnhvbm1FdmFscTBvdGxKT1BJVWp6MFRiNXBCTmFfTzBpMHEzT3hXclp4SzFGYkxETkFkREJEaTRPZlllbWdlN0FfZm5NUGR1aE43S0ZSR1VTQnBmRVFmeVdFOWJoVGdiSlZIQWJKb3UxbXFjWXNkTUV2Mkw1TmxtaWh3ZElzUzEzRXJGcXpCMENhelE1Uw?oc=5",
-      "description": "Gross GST Collections Rise 22.9% To Rs 2.31 Lakh Crore in October &nbsp;&nbsp; ETV Bharat",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "804aa6aaaa3eefa12ea8",
-      "title": "GST Collection October 2026: Gross revenue rises 23% to Rs 2.31 lakh crore, Net collection up 26% - Zee Business",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T07:32:37+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZnVHVVlJQTlfSmd3TjQ2SXRadnBfTTJsOTB5Wng5Wk11UDhkc0QtRndndno2Z3Q5Tnc0LWhqc3lZZENlQjUwQ3g4a2hHN3F5dEZtanpURGc1Z0VGQXd4VFpBakQ3S2NCYVV0dmx3N1I5N3dydTZOSkcyUG1kVDI4b2dyTzJrMTFRYmFocG8wZUIyV3lybC0zdG1KSjNlV2ZtaXZCN3lqbWNGWkZfaFMyMWt6S2lXQzBXTFQ2ZVNxbVgtTHVRNTh1WjBjQ0llRWFCM1dFR1NFLXYzUQ?oc=5",
-      "description": "GST Collection October 2026: Gross revenue rises 23% to Rs 2.31 lakh crore, Net collection up 26% &nbsp;&nbsp; Zee Business",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "93cfd8113ad4d17f0331",
-      "title": "Gross GST Collections Increase 23% To Rs 2.31 Lakh Crore In October - NDTV",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T07:32:13+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaURoM1duRGJJdXRjMUowb2VuODFNNndJNGh5VzZCbTNhQkowZTRXZHM2YXJvcFdINUJhNHMxVUJ3SExiUjRocWVRb1ZSUE1MbEk1RE90SURRV2F4SGZlMGdfUU11Q282ci1weFd0bnltT3BwUF9qTEVMYkNRUHlKY19QS2NnempCdEMwcHR4Y0t5LXd4aXUxR0tDMkJyNkpoTXFmRF9sZkxjN0V3TUZn0gG3AUFVX3lxTE1MRjVxVTgzb2pLOGN0V0tGZ1dXNG1JTHpfRWQ0MzNGOWJ2STByMG9QQVNwOGJyeEo1bm5JblJZMTdYcDdwUTdkbW1VS0tmcUR1TTJPTXpVMzBOQVFfbkRVMzNGdW1pbTVHaWY5RlpfcVZKUHNkeE9kRFgwWWtDLUFQUmZlcWRKYnQ4SVlJRWNiNEVDZzNNaVB0RHJVQUZJeVliTkVZZzhWZEUzOUg1UThJQm9LSVhfZw?oc=5",
-      "description": "Gross GST Collections Increase 23% To Rs 2.31 Lakh Crore In October &nbsp;&nbsp; NDTV",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "8202866ac82fc809d7cf",
-      "title": "GST Collections Jump 22.9% To Rs 2.31 Lakh Crore In October; Imports Drive Growth - News18",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T07:24:40+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2xJc0NHQXdEeGJhSFVwazdEdTFudlpOOVZqbGxEMVdkcHo1QV9yZW9DM2ZwSm1fNW9GZ0c3aFRqMldobjRhUWU5UzFIcnZDTG5SVFR6VVVMZzNjdHR4eFd4OFhXUEtjblVidUdjR194SUVwTUJ5d1RDRGlaaG4wX0dDQ2dWSEZqWGx3Y2ZfNm9jMWJTblg1NmVvV3dTVjJnUlNXSk9sRE5WUnpTaEVZdXpJNWk1UkJhQ0psTk9uTERGTk9tQkF1V3JiTUpHaVVT0gHWAUFVX3lxTFB6NnVxZG44N2tGTE5na3oyNHJ4VUt0bHhyNDNZc1FhVzFPYzZsSU5YZFExcFZvRlZlaFEyTk16ejduQzMwUzBEbGdnQm5PVW8xOGtfT3pEOW5rbFhvX0p5OG1BdTBLYTM3enlQVlpNNnBvTDhMZUVLN3hqUzc5UDVydUhqODhGTGhHUS1QeGF1cUJmT0ZiaW8yejlfdFcxRkppMC1xdXRJSWJ4clFYVUw0TGNZN0JxVjVTQVRwRGE5Vlppd0dwblRHOTAwYjJhWnZJeXIzLXc?oc=5",
-      "description": "GST Collections Jump 22.9% To Rs 2.31 Lakh Crore In October; Imports Drive Growth &nbsp;&nbsp; News18",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "24eb274e8fa4c037b077",
-      "title": "GST Mop-Up Surges 23% to ₹2.31 Lakh Cr in Oct on Festive Demand - Rediff MoneyWiz",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T07:19:26+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3g1Y3oyc3E1ckUzb0lQVEZDZzc1R0ctQnRIQ3lvZmc2Q01kZ1RtejJrclhnTkx1VWNBUzB1am5ZX2tvc3Npd0JhNEw2bDRfMV9DcUxZLXJaX0RncUZqbXRxaE55UENTbkJvNjZoWDZLbzcxOWRWTmxzREpudnNfUVZGTmtKN2wxZEUxMjBTM1RRUHROWkt6X0lGeVlIallvR09r0gGoAUFVX3lxTE42MjZZVnotNG1aRUsyZmk3Vm55LVk0ZFBCbkN3S0Q0VHNqNm5ULVJBVXg3YkptQjYtWFRTVTFsay1ZVHgzcU5WTU9CUVYtZVdUZDNOT2ZXN1hxSGdCVzgwVm94NzgtMEtYMHJBTy03dVlfemhBcDZUSktldlZQQld3akVkVW1NUk9wWEExc0E2X0RXcXUyc2FYWFFUWmRXVDJaUUxXT2tiWA?oc=5",
-      "description": "GST Mop-Up Surges 23% to ₹2.31 Lakh Cr in Oct on Festive Demand &nbsp;&nbsp; Rediff MoneyWiz",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "abbebfabf64135dd69ec",
-      "title": "India's gross GST collections rise 23% in October to ₹2.31 lakh cr; net revenue jumps 26% - CNBC TV18",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T07:18:57+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmNPSHVqZE55b0Z1aWM2dFZvZHE0dFdmN2J6aVMwaUhIYUYzY1VKOVNOejhZX2VPVnFzTDJRVVloSFRwaFNZQmRuVHB4cUhOenVLSGFJbHZsSGpmd0sxRW44TEVnbmpCLW5JN1ZsbGRfUGZQSHZQYk0zbWFURXdGTVFnTk82cElXb2RvdGJlSDVEX0dTNS0wWl80WGk5SmtSZHhEZjVvT2NPa1YwLU54Q3JsZGU0X3h5eFptWmdudzlDc21rbVBDWWZVd2JBd9IB0wFBVV95cUxNcUx5SndibkkwSmctOVFfWnJDTmhQYzBmSElPbGY0Z2tleS1jeHRfczZRanlKWVMwYlIxUHlLWU01NEZScGpJcVNmdml6X2VZZWdNVi1iLXNIRHFDdUEwdHlCM3h4SVBZS0UwajNRR2t1VE5rLUhJTzhNZXNreG1VQjNiT2U2STV0MkJld3oxLVFaM005RE1nMEZERjVmSUdTVXBxSnRORS13Uk1fMG9YaUNkeGNwZ0E0NThoTkIySXVZYUJ4MjFtMVZWYjZzRkJJck9N?oc=5",
-      "description": "India's gross GST collections rise 23% in October to ₹2.31 lakh cr; net revenue jumps 26% &nbsp;&nbsp; CNBC TV18",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "ec564c4ccf5fbf847c82",
-      "title": "GST mop-up surges 23% to second-highest level of ₹2.31 lakh crore in October on festive demand boost - The Hindu",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T07:16:57+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTDJzYlBzQ245Ri1xRjFUZTFIQU0zZDNCLWlzY2ozWFdlUzFLYlFmSWl6VmM5aXVkd2VMQjRlQnYtUjU1OURuMlFYaGdvVWtUWkxULVFkZ0RQRWgteGFIN0RDTnNsRkpNRFByMkJxZTBZLW5ZNmw0SklHNHhuM1ZodUp0SHhLbTluMGNOMUVXMzdwZ9IBmAFBVV95cUxOWWRGZ0IxY3NyX3Z0Rm9CS2hlRExGby1MZkN6QmFfamZtUEh1MlZNZktPaTVTOW53bWM2Vm1hdXdHbWhpWTJpaUc0U25EeXl5bWM3N3ZIMEtHeWdDTDJVdlp6T1h0UVAyNTVONlh0V3ZQUHZBRTRtdXhBUkUxT3NDODAyaVBXVVZsTjRpN1BXcXE1Tnk3a2VqeA?oc=5",
-      "description": "GST mop-up surges 23% to second-highest level of ₹2.31 lakh crore in October on festive demand boost &nbsp;&nbsp; The Hindu",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "8fa83475926062f73635",
-      "title": "Net GST Mop-Up Surges Past Rs 2.03 Lakh Crore In Oct. There's A 42% Import Tax Revenue Link - NDTV Profit",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T07:11:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTTUta3RJWE9QMlltRTd5XzhNX3lSQksyUko0RmM2eHY4Sm9RaE82NzhDQ1dPVDJHUHB2bUJmekcyUmR0OUFRdkgwejR5eGtPc3lrcUpEN2tYc2dVTE1SQldZUmVWalJILXh3RTZSSnRWQkd2TlJSaWJLME9oMnExaFFCMnF2XzYwd0JGNEx1MHlPWFV6UFhFT05jc0ZOOWFYeF9nSEJqMjNoZER3YjB3dF9lNk95bk9lZTEzT1VfQ0ROMkh2eUsyVDNiYW_SAdQBQVVfeXFMUGM1Yk5IR1UwOGdWbmJ4YWo4cWVZQjAzMXhMQjBoQ0ctNURKaHpDZnJhYlNnaFB5Rmkya3VYRVVyOWVrWEthMnlwXzB5Y1lqYlFoOHN5QUFzVGQ1VVc5Ukg3cUZRY1gwU2pLMnk1ODNZYXNaZ1haRU0yakNKN3NsYUZNRkJsbzJ5S2NOckFJcXJPdVgtcktVNWEtV25vbTgtQ3k5ZlVLTXhTejNmUjdPcDBmUTlzTUJsT1VWVS1najVtSG1Ha0VqSFM2WUFGZUxVUUpqcW4?oc=5",
-      "description": "Net GST Mop-Up Surges Past Rs 2.03 Lakh Crore In Oct. There's A 42% Import Tax Revenue Link &nbsp;&nbsp; NDTV Profit",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "84b80ef65a647163b5ee",
-      "title": "India GST Collections Surge 22.9 Percent To Reach 2.31 Lakh Crore Rs - Asianet Newsable",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T07:10:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMnlLQ014TnRtTlhJcGZHRERBanI5TmxKb1dPVHM2M3JzX2JGb1lLd2k5ejdCZWhlaF9qU1ZNRjNfbmN4ZGl6MnBwZ2FFc0xiTXoydTBzdEk1ekVvVEJwSlRzRllubkNEWVZQeHpFbC1wY1dxLTc5MUpHSTNQVE9KdkxRRHdja2xQOGI5V0FUNWxnZi1BM1p2bmNCaDA0NWFVdDZVZTFjLTZveTJPZW5PSDh2eGxXVTdveVg1Y2syTU1HYmhpd3VrdFd30gHPAUFVX3lxTE5PQlR3d0ZwSzRhWnZwM1dwYnEyNDNhdXFqLUp5TEJINEpaR2VBZU5PYUZMQXB5YksxREpoOC1CMXV3R1FNQTJIZzJycmtFWWFYcFdMQW54WGV0SlpMakZrdlRvNWRINzZ5WnF0SG05di1OdjdsS1kzWmFOSGxkMTJXdERNbGl5UTVuMldtYmsyazViWjdLSHVWX1JzYUdsX3JscFlFT1VjbDdxT19QLUlDNFNCUXRpR2U5VlhvZi1KSWZieDlmSWx3aS1MeUlDVQ?oc=5",
-      "description": "India GST Collections Surge 22.9 Percent To Reach 2.31 Lakh Crore Rs &nbsp;&nbsp; Asianet Newsable",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "13189e6241ae36678291",
-      "title": "Gross GST collections rise 22.9% to Rs 2.31 Lakh Crore in October, net revenue up 25.6% - ANI News",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T07:08:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOXFZVjFqdEhTLUlFX3BJbFVaLW5vT1pIbDdjVGdzOFhqemk3VEdWUmRWbzM5SGdZNFd1VE1uQkVNTW13WUlCR2V4ai1TaDlDdUNmd1RhSDRUU04xcWo2cFpUVE1vYUlUdjBkX2RDSHdVV3AybkFVNmktalEyei14VURBR18wa2xWQzlkSnJVemFiWExfSWVRRUJTeVdtQzRIbzJKdmxZeHBrclhkQmFWcEE4Sm1jb19JYlRKTnFpXzdINUN6MHdSZkc0aG8?oc=5",
-      "description": "Gross GST collections rise 22.9% to Rs 2.31 Lakh Crore in October, net revenue up 25.6% &nbsp;&nbsp; ANI News",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "ffb7aa1e1def4b7e9dc4",
-      "title": "GST collections rise 23% to Rs 2.3 lakh crore in October, fastest growth in over four years - Moneycontrol.com",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T07:00:51+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMnhtRXJ5SmJKWWFSNEctb2dpR0NaaUg1X3JVSTFYMHN3b3hJZllPSUlFaEdoanBlM1FmdE45RzQzS3IxTElSQl9RVktRZW5BYXk1Zks1RzRScF9CQTZQN2tEa1hmU1pHdXpNQVJpU2Nucml1MnV3NS1lTGUxQm5qcEpnOHF2eDdMZldLNUM0V1BUNlgwcHVocTJ1bGc5a2dVNi0ySjJUUUhOaloxS1ZWNkxPOWlFYXNIUnBaTjhOS2E1dUZfMUpIZ3dqa1k3VVd5ZGR1aUc5djlicHFUaW1kOG03UWFDejA5N3c?oc=5",
-      "description": "GST collections rise 23% to Rs 2.3 lakh crore in October, fastest growth in over four years &nbsp;&nbsp; Moneycontrol.com",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "cd75a3f62b960e7ee663",
-      "title": "India's October Gross GST collections jump 22.9% to Rs 2.31 lakh crore - The Economic Times",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T06:52:53+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQakJrRzMtYjhHXzh4cTFQOXktNFVRNEFZTmk1dVNzR3pMal8zLXFTc2RmbWplcjNCWHg4TUFTOW9kY3QwbzFvMWlKT0x2bWZIc1djWkNHenU0cXJLNDduRnZCaXpjNkdQbHM0Sm5JY3JIb05tamNzVTFILW84MVV6WWtGQUktQ1RsNElwb3VpOVNiNHFFMURucjFna2otLTFHdV8tMjQ2Q3hFTVBRbklqQThPMWEzOEg4LUphTU5VcUZWQTdHNFluWlFCV3pRdHktZkhFMWFQSndldTjSAeABQVVfeXFMT3Q4WDNqZDBOaGhBZkpXLVV3UnZTckhnay1iZnNRYTZXVkxrSlBuLWZ1aTA2R19yWG9SZTNMQ2sxMVBWYlI2dXltczZrMWltTlZhV2VGUGFxTXJTUjFHcGlFMUtCaVhjVDVKOVZrMHo4OUFOZGhrRkt5U0pwaVlDbFg5QTJySUdjTHFqOTV3UWxLQlpwMkMyOWJHSFNSQjU0SlVWZ3VMNTNXTmFOX21EQ3hJS0ZFUWZpOERvNTBNZlAtRGhCbFlpeHZqWXIwaFR4SjhsUXJhSzlDUEp0Mm5wOXM?oc=5",
-      "description": "India's October Gross GST collections jump 22.9% to Rs 2.31 lakh crore &nbsp;&nbsp; The Economic Times",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "fb1a2cbe67c88717ee20",
-      "title": "GST Council’s decriminalisation step marks shift towards trust-based governance: CII - The Tribune",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-01T05:57:28+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNekRQdFcwTlltUHVwYnJPcGthUEltS0tHYWdGaDFOX0oweDFrZXZ2cGx2MXd1X1JQUU5LT3FHZFBiQ1YxeUxyX052b1EwdFhZM0QyaEp4RkNmc2RqNnhJNGtFLVJLNkZsMzhBVlhTRlQ2dm84TkZSNTJIdmZCcmVuLV84QkFOWXF3Y2tnd0dwYk1UcEhGanh4MkVNbElfZ1VhZnUxMDA0b0ljeGxlTGJzUVlLWHZSZ2xnOFNEdFhzVjUyTXAx0gHIAUFVX3lxTE9ucW5oeGJJbUZMZDBVVzFTdzZ3RUtzNDJqUGYxd2phdTdkLXo4emR4cFFvNGxtNVV3eUpjbTVRbThMU1pNcE1jZ3BORWhwNkNWdmdyN2o5UGRGZ0ZzdG8xMGNDdEluWnpjeFFSSWk2b2x1N0N5NklMbDJnNTZhQUIwaE5SV0hueWdTUjJoWkdxdG5ZdUtjb3Z6Wk9TOFNwYUxqQllPbXFkZTNZT2RlbUdMRnBFOXlydFBRUTZ1Smd4WGltbEo3NWtI?oc=5",
-      "description": "GST Council’s decriminalisation step marks shift towards trust-based governance: CII &nbsp;&nbsp; The Tribune",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "b388dad77ec9f837798d",
-      "title": "GST Council’s decriminalisation step marks shift towards trust-based governance: CII - ANI News",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T05:51:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYlZPM3JlN2xzbXpuSmU3anNCQ295Zy13UW9scDk5b3dDMVVWUmlKdncyVXlZbnA3YjZsdXVTVTBKWXhkV2JOWDFPY0w3QVdTeWwyT195MFhXaWljNi1ZOEItQ2ZpVUdtdV8xQjBtUFpfenVadlNwT0kyYlRBbng3d2VneUVLbFJ5N2JXZFk5UFJKZW9qaXNVdGV6Z3JyeGI5ZnR1OUZ4TWQzemIwSGpsUUlzRkRGdUY4SUduX1A2amJPa2NSR2FHb2N1QWJJSzVFWUJB?oc=5",
-      "description": "GST Council’s decriminalisation step marks shift towards trust-based governance: CII &nbsp;&nbsp; ANI News",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "a9a438213e2b09c2704d",
-      "title": "Telangana HC: GST Arrests Must Comply with Section 69 of CGST Act - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-01T05:40:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHBkSVEwUnc0cm9lTmhIYUNKeTJIa2hDLUctWC1XdXlrM2xreWZHUlpFOWFZSTFMLV9VbEtQRUdmM1Q1SHVYc0l2ejBpdk9VME5yVHRMbkotRU43MjhHZXFER0RxNUpfZzJhQldZajBITzhmamVaUXRMNXdRRjU1d1ZzcFczU1p4NDdDMklQcG02T1NrUHRSaDN6WTFKMkliOXVLdUhsQXZlMkJxakQ3U3JMS09LX1FOOVF6dUJkSkNZZGFFOC1HRGJjU3ZiX2NT?oc=5",
-      "description": "Telangana HC: GST Arrests Must Comply with Section 69 of CGST Act &nbsp;&nbsp; Taxscan",
       "categories": [
         "GST"
       ],
