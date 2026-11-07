@@ -1,9 +1,101 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-06T15:58:38.412530+00:00",
+  "last_updated": "2026-11-06T21:34:08.399892+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "9522e6ded80923a9dea7",
+      "title": "GSTR-9 Due Date For FY 2025-26: Latest Update - CAclubindia",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T19:37:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlMwV3BETFg1d0NXLXQ2b2FqNjRkczVGZk81TFhiemNZb1F5N1pDV1R1azIxNlRnQ1hVREdiazFsdTFnbHFBdUZ6NGtTSVg5U3hQZUpsR3R2U2NCc2wwV3VUWWpzUXVGLWdvMVdmcWh0QWp2ZW10M2s5b3ZWM1dmZUREemhMV1F2WkJCOWpELVA3M0k?oc=5",
+      "description": "GSTR-9 Due Date For FY 2025-26: Latest Update &nbsp;&nbsp; CAclubindia",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "4d5e72738a4afb55769d",
+      "title": "LiveLaw High Courts Daily Highlights: November 06, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-06T18:20:14+00:00",
+      "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-06-2026-557689",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "7c7856fb40c51c292c36",
+      "title": "Supreme Court Orders SIT Probe Into Illegal Gravel Mining In Rajasthan's Luni, Jojari And Bandi Rivers, Bars New Industries Near River Ecosystem",
+      "source": "LiveLaw",
+      "published": "2026-11-06T17:01:54+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-orders-sit-probe-into-illegal-gravel-mining-in-rajasthans-luni-jojari-and-bandi-rivers-bars-new-industries-near-river-ecosystem-557692",
+      "description": "",
+      "categories": [
+        "Environmental & Mining",
+        "Supreme Court"
+      ],
+      "importance_score": 55,
+      "priority": "Relevant"
+    },
+    {
+      "id": "6a1435f432ecbf8894f8",
+      "title": "Criminal Defamation Complaint Filed Against Dhirendra Shastri In Agra Court Over Remarks On Lord Krishna",
+      "source": "LiveLaw",
+      "published": "2026-11-06T16:30:40+00:00",
+      "url": "https://www.livelaw.in/news-updates/dhirendra-shastri-criminal-defamation-complaint-lord-krishna-remarks-557695",
+      "description": "",
+      "categories": [
+        "Criminal Law"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "339619eee84d26749104",
+      "title": "2026 LiveLaw (SC) 1145 | In Re: 2 Million Lives At Risk, Contamination In Jojari River, Rajasthan",
+      "source": "LiveLaw",
+      "published": "2026-11-06T16:26:51+00:00",
+      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1145-in-re-2-million-lives-at-risk-contamination-in-jojari-river-rajasthan-557693",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "c7b67ea339db4a4d2dde",
+      "title": "Kerala High Court Expresses Anguish Over Death Of Woman In Kochi Bus Accident,Flags Lack of Pedestrian Pathways",
+      "source": "LiveLaw",
+      "published": "2026-11-06T16:24:50+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-anguish-over-death-of-28-year-old-woman-557691",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "989f867488afa4b923c5",
+      "title": "Supreme Court Dismisses Plea Challenging Allahabad HC's Senior Designations Conferred In 2019",
+      "source": "LiveLaw",
+      "published": "2026-11-06T16:15:42+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-dismisses-plea-challenging-allahabad-hcs-senior-designations-conferred-in-2019-557690",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
     {
       "id": "9107b0e298a133718bb6",
       "title": "GST Registration Restored by Karnataka High Court Subject to Rs. 35,000 Cost and Return Filing Compliance - TaxCorp AI",
@@ -109,6 +201,32 @@
         "General Legal News"
       ],
       "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "4821181c4472077f4e31",
+      "title": "Torrent Power receives ₹6.47 crore GST demand on ocean freight - scanx.trade",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T14:04:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSlUtdEpWbmNLRVRMQUliYkdhLXZQajdiSkJkNG1uMUdKelc2ZkMzN1NqNmR5WG1XejFGaTEtS1lUc29VcUpCZ3UwUC0wamhCbFlNa21ZQUtSd2dWR3hXWU5JbGt2bFBVTGFlMXlyTmFtdTc1NVlKQll6UnR5cHJLS2xBZDBRV29iN25ZQVRHTUR0ZjNnbGkzbjUtdmM4aDZULTZ2cEJnYmdNTEtrSUxpdy1uT3djUQ?oc=5",
+      "description": "Torrent Power receives ₹6.47 crore GST demand on ocean freight &nbsp;&nbsp; scanx.trade",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "d7be7d5a13a567268076",
+      "title": "Apcotex Industries gets ₹16.37 lakh penalty for GST ITC violations - scanx.trade",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T13:59:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWGlJSjZFZ2xqaHY2OHVEZkE1NFFxdDlTMTFVdm5fU1lWZnJmNE8tR1NKOV9KLVloSDMyVTRjRDNNa1BLNnNnMC1HSjBzS2J0ZGZmMmNvem1mQW1EdFE0MlJBTmVDYWpqdUcyRHNBWG1OcW90RGs0Z3lNY0dnSzdOdkFlM2MzUHlMQUk3X3JXZmRtRHRzSFNtYzM3OU1HZnAxMWE1cks5U2pReVZBSWdtYlNWb2lTVWYyYXc?oc=5",
+      "description": "Apcotex Industries gets ₹16.37 lakh penalty for GST ITC violations &nbsp;&nbsp; scanx.trade",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -419,6 +537,19 @@
       "priority": "General"
     },
     {
+      "id": "b6b0aebf6848c5761524",
+      "title": "Axel Polymers receives ₹86.63 crore GST demand, plans appeal - scanx.trade",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-06T10:44:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamgyS1VzSm5RUmR6cW44MWZ3d3ZsOVJQLXA1Nl9qckJQbUFSNktsbm5LY3RqekozdzZUTlgwenhqdWFCTXBKRUdUcEtINVVLN0dHSWtWeUxFRHdtcEpJS2RXLTduc1dYMFNhWFRVNzE0cGw1dHRhcERveWhMeTFLSmhOemhFd1hvel91Y1pxY095RzZ6ZVViNzVCUWgtSFFCRHVCM1NiaENRQS1aYXF2SDdJTTQ3UQ?oc=5",
+      "description": "Axel Polymers receives ₹86.63 crore GST demand, plans appeal &nbsp;&nbsp; scanx.trade",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "76e98e11d45dc10fe6a4",
       "title": "Voluntary Discharge From Service Entails Forfeiture Of Past Service, Pension Benefit Cannot Be Invoked: Meghalaya High Court",
       "source": "LiveLaw",
@@ -430,19 +561,6 @@
         "High Courts"
       ],
       "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "b6b0aebf6848c5761524",
-      "title": "Axel Polymers receives ₹86.63 crore GST demand, plans appeal - scanx.trade",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-06T10:29:34+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamgyS1VzSm5RUmR6cW44MWZ3d3ZsOVJQLXA1Nl9qckJQbUFSNktsbm5LY3RqekozdzZUTlgwenhqdWFCTXBKRUdUcEtINVVLN0dHSWtWeUxFRHdtcEpJS2RXLTduc1dYMFNhWFRVNzE0cGw1dHRhcERveWhMeTFLSmhOemhFd1hvel91Y1pxY095RzZ6ZVViNzVCUWgtSFFCRHVCM1NiaENRQS1aYXF2SDdJTTQ3UQ?oc=5",
-      "description": "Axel Polymers receives ₹86.63 crore GST demand, plans appeal &nbsp;&nbsp; scanx.trade",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -2973,6 +3091,19 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "8db511c029c5be9366c3",
+      "title": "SAMHI Q2 Income Rises 15.6% Despite GST Margin Reduction - Multibagg AI",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-04T22:21:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVV83MUJTQUJGUGRuSUEybkRHTFVqTnZ4Y3dYdHB4LWhIN0Q5UC1tMG1LV180eURtaFFndnZwVW44VXE2RnNsSFR2V294aUZqS1cwR3FxcWFsTEhiM2RtT2pBTTdqSy12OUpSUkV2U0RjNy1pLUhJM3RlUHdfQWIyTXVMTFRIRGpWSlhnX3ZVM0kza1BBcGQ0UEZJMnNrbFRjUHE3emFR?oc=5",
+      "description": "SAMHI Q2 Income Rises 15.6% Despite GST Margin Reduction &nbsp;&nbsp; Multibagg AI",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -6533,139 +6664,6 @@
         "General Legal News"
       ],
       "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "64a6d328b19ead397fba",
-      "title": "2026 LiveLaw (SC) 1119 | Piyush v. State of Maharashtra & Others",
-      "source": "LiveLaw",
-      "published": "2026-11-03T05:06:23+00:00",
-      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1119-piyush-v-state-of-maharashtra-others-557000",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "a59d9a0f4bb05302fbdb",
-      "title": "Maharashtra State Tax Department Overhauls GST Audit Case Selection for FY 2023-24; Moves from Risk-Based to Risk-Assessment-Based Selection - A2Z Taxcorp LLP",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T05:01:42+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUkRvRFBRVnZZQkJiT3ZTbUs2c3VhR1lKYVdBMEZaMjZ4SUZLLUlRSFd3TmdFYzdURnoydHRRU2pmNy1xZVdOTEFSWnJRMHdBU3otdldoR1lvTUpIdjMwU0ZEcUp3eXdiRFAxY0lYNEVnOGthOHNuaTlJMjQ2bE9zaURWSGFtNm8yd3FlV045ZWpNOWppLXlRX1ZfN0h5X1hDRHpfX1ZUZl9penpRVTk2akNZMVVGNHVlZnNWS09Iam51Z2xacDExMklWYUNvZ1hGbnhZdVRvVWdVX21lOGY3aFpUcm03cmJQTWEtMHpBYkxfSkpkdVE?oc=5",
-      "description": "Maharashtra State Tax Department Overhauls GST Audit Case Selection for FY 2023-24; Moves from Risk-Based to Risk-Assessment-Based Selection &nbsp;&nbsp; A2Z Taxcorp LLP",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "191c76f90f7752452a56",
-      "title": "Gujarat HC on GST Waiver and DRC-03A Adjustment - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T05:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV1JyQ0tuVWY4Nkx4cWFocEhQRDN3TDg2UnpCdl95SElKR2YxWVA0ZGwtendURzRCMGtHN3VzMUMxN2Jud2lsNUZKNzBlbHUwV1Y4cmRNRWc3X1JHNUtwVjROTjlydnNkN2stTDNqd2J2VzNTd0lSUGVjRlotTlBsZnVEby1EbUhFUUtfaW9RVWJVdjFuYi1xTDduMDFmM2xaY2J1Ry1aaWJGQlZmbk9aaWYtVDFQTm5PQms5ZVlDZmhjenZ0ckk0RGZINDlLUFdqVWpybHdfeHdjamo4WGo4VExnQQ?oc=5",
-      "description": "Gujarat HC on GST Waiver and DRC-03A Adjustment &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "4a8b9f05e444ca388772",
-      "title": "Mint Explainer | What is driving the surge in GST collections from imported goods? - Livemint",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-03T04:57:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVR2XzVBX0pSZWJtMlFXYWJydzdnQWdLYS1mTFQyNk1Xb1B2Y0lOSF9yQmZMb1l2NkcyNWhVbDBjOUpXdk1TLUxmMVJscnR5LUhXTWZEdzg0MGNSemJaVU5UaURzNEhOQi1UQjcyMjQ2TVhCLUNiaXBwRGhuSVBPMVdZZXNWRXFDWUFqcDdIN1Zmc2Nicm5uUUdaUWxwQWY3X3hUV3RfSmVtU1BiTFc5OVdLZ1c5RjVuQnfSAb8BQVVfeXFMTThLbGhtWVFSWWhmVmRpTDlxUzZ4SnluS09DRlhYZnA4a1d2cW5rR0RlVXdFRHdvSktOU0RQd2swVkQzT2pJOHd1YVRENlRfUkpETm55OXhHZHhZVHRGXzN1VG42Rkg4YzdlMzQwMVJnLWpmUGVTTkFiZUFmQ2J6VzZUMlBPc1hxaGJfWHZFWEQ0YjZGeUdTSjRRY05LdkMtR1dQTDhtTFRKX05teUM2ZDMtdFRWdkFqSWlMbWFReXc?oc=5",
-      "description": "Mint Explainer | What is driving the surge in GST collections from imported goods? &nbsp;&nbsp; Livemint",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "6d77f0671388affc8f54",
-      "title": "GST Refund Filed on Feb 29 within Limitation After COVID-19 Exclusion: GSTAT [Read Order] - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T04:49:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWY1UGhZSklxMGh6aExLWkpCSDU2d2JQVzU3VzhfamdXQjR3TF9CYnVXQWJEeE9hZnFmcVJ2Nzh2V2dYcnVNRlM4UDJtTFYzSm1BOW9BNnhIVldYLXl4SklzaHR1NEF2S3pQY2RqUW9nTFJvbFgySEhRa1dwYkZVd0VMLTBNSVFuMXNTQmdjNy1GMnFsOVE1c0k0bF96SWg4Ql9nbW9PTzdrLVRzdTAzMktwTQ?oc=5",
-      "description": "GST Refund Filed on Feb 29 within Limitation After COVID-19 Exclusion: GSTAT [Read Order] &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "58b2e972608ef8743d1a",
-      "title": "GSTAT: No E-Way Bill Required for Rubber Latex from Agriculturist - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T04:49:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNenRBNndQdVRCQU9uRHMzS1hNOU1nYmtGRmtBMmhIbmhkVXBEMUtPYWNWdTJHVnBCSUJIVWxFbWNGUjdUalB0ckZyU2dNRW5YbUZkVmJaQ29TVlhjWm9Uc1VpTms2QUQ2d2F5ZURmeElSYnVhQ3E5b1BicWwzcjM0bnFLUHBzVVk4aTNDcFA0Z0VqN181bENtaFNQZk5ReG9BOVA2MmNtM3dUV1E3X1lORnMwM0ZiaE1MazY5cVNZYnlicllkT21aOWhzaVJyNFZtWUctZ01TY3VnbFk?oc=5",
-      "description": "GSTAT: No E-Way Bill Required for Rubber Latex from Agriculturist &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "3e52c612394a2bc3255f",
-      "title": "GST Portal Glitch Can’t Defeat Transitional Credit: GSTAT - Juris Hour",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T04:47:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTW5BLUVPLUJEU0tySm9RY01FTWZoWDM2aHAxQnp3UzFTN2RXN1JGbldoZXZFUFc4Ri1SV2dLYXRmaDd6NXI3Vm9vaVRabHdvVW1OekowSE9ueVBMYWpaRDFGNmJiWDNqWll1eTkzT2dXQVFXRzcxYzAtcGQ3MzQ?oc=5",
-      "description": "GST Portal Glitch Can’t Defeat Transitional Credit: GSTAT &nbsp;&nbsp; Juris Hour",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "ba0e7c715d756d684e01",
-      "title": "GST 2.0 Spurs Private Investment as Sitharaman Reaffirms Demand Outlook - Siliconindia",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T04:32:30+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYldGdy1OSjh3bTE2U1hVcTJzLWNLSFc5WVdSdDcxX1pNY1J0LVp0TnBqNklnSGhlOE15SklxSk9BazZoMWYxRWhJRXdNMTdSN0tyd1g5Y0dfbVBHUWFHOUpxdFFZQWlZYTMwbFNKd3lJUmFvWFh5YmEzNHFGMlBVdEZubDdVR2FDakwzVXcwTFJMcmkzbG1fQk1ISm9lU1A5YVdSR1Zaajl4YjBBbjh0WUZMOG8tc3NvTlFEWUxXRnlJeFFWVWprQklhSGF3NVk?oc=5",
-      "description": "GST 2.0 Spurs Private Investment as Sitharaman Reaffirms Demand Outlook &nbsp;&nbsp; Siliconindia",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "81448464d7a1356b4f9d",
-      "title": "GST Collection in October 2026 Rises 22.9% to Rs 2.31 Lakh Crore - CAclubindia",
-      "source": "GST News (Google News RSS)",
-      "published": "2026-11-03T03:32:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGwyZ2ZuVExKUWl0bGxIQWNVaktmblI2Rm9VRGdhUEYwYjhQdTEtYTY1TnhjbERDSVd1NlZXUWtFS2daNWJNbFRnSVJqTUtWSzJsa0lJdFVvUkFJRmQwSnEyMmFuNzF4aHVWOWJnamM5bWlJVy1HM2FET0R2bFJJaFFqT0Vhc3B1X3B2amFOSGZWbUxjTGFiaXZOUWE2NnJ3dXpHaXVvenF0aklULWFMOTBndHY?oc=5",
-      "description": "GST Collection in October 2026 Rises 22.9% to Rs 2.31 Lakh Crore &nbsp;&nbsp; CAclubindia",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "8b960c3eceeff78cba03",
-      "title": "GST Registration Cancellation Process Revised: New REG-16 Approval Rules Explained - CAclubindia",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T03:32:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDd2blVtYkhzV2c2YTQwc01fRHRLN0ZvMERxbkJHRHlGc0pQbXpSMk40clduVWc2b0lnOHdlaVZxb0lZbnJnZlUxS0xtMTMtY1pXVE14Zmdtenp1Tm5SRld1bW9rQnV6STRQTnctMlRyTjRvSEstYURsRUI1UG5LdGx1WDlhaEpSZnZudFNlcE05SlB2MEhYeFNyLS11MjhUbUM3U1hlYTlpM05xdFVHUmxoRFVHWHJPMENzeWt0MjVJZw?oc=5",
-      "description": "GST Registration Cancellation Process Revised: New REG-16 Approval Rules Explained &nbsp;&nbsp; CAclubindia",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
       "priority": "General"
     }
   ]
