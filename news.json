@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-06T21:34:08.399892+00:00",
+  "last_updated": "2026-11-07T01:58:59.883242+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
@@ -8,7 +8,7 @@
       "id": "9522e6ded80923a9dea7",
       "title": "GSTR-9 Due Date For FY 2025-26: Latest Update - CAclubindia",
       "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-06T19:37:43+00:00",
+      "published": "2026-11-07T01:41:47+00:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlMwV3BETFg1d0NXLXQ2b2FqNjRkczVGZk81TFhiemNZb1F5N1pDV1R1azIxNlRnQ1hVREdiazFsdTFnbHFBdUZ6NGtTSVg5U3hQZUpsR3R2U2NCc2wwV3VUWWpzUXVGLWdvMVdmcWh0QWp2ZW10M2s5b3ZWM1dmZUREemhMV1F2WkJCOWpELVA3M0k?oc=5",
       "description": "GSTR-9 Due Date For FY 2025-26: Latest Update &nbsp;&nbsp; CAclubindia",
       "categories": [
@@ -2091,6 +2091,19 @@
       "published": "2026-11-05T10:36:05+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2Y2a0tqdWxCRElRNmxUajFpc3gyR0J2Smh6RUc4MjhjSWdHcmVBQnQzTndPQWF1c0NyUE9ybFREaEFEU0k4TWp6S1NXSmlYc29xWk5rODMtakl2R0N6UWxRMTNqWFJ6c21UeTlnanR6SjZESlp3WjU2UVFSRHUtSWdraDAxMl9ra3FWVDdTcHUxMzZTRkM4czVjSVU5Q1FfUExhWW9vM2bSAa4BQVVfeXFMUEtHeWFORUl6NEpOVG1LRWQ5d0dnV2xKRmRYSEtFUlY4MGNyeE5HdlhZVE1paE50WFdMX2RYM3pyWmdJc0F1X2RGMGN6cC1fYVg1WEktR0xDYUlaMi1MZlRETkV2ek5Zd2o3ODZyZ183UE5GZGFBWjNpd1lnZmdwLVBSNHdLY3hweXhxMER5eVU2b2NrSVB3eEotYk9ZejhEUGJHQlJHTXVSRjhOR0NB?oc=5",
       "description": "9 years of GST: How India’s biggest tax reform has evolved &nbsp;&nbsp; Mathrubhumi English",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "8277aca032b6dfa20e27",
+      "title": "Kerala’s GST growth hits 27%, doubling national average in October - WION",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-05T10:29:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODNrN0Y0MnYwdEI0dXE2OHhjRkRWR1hKMzVrc0Y4V0tLaUZfdmgzRDJuMzNiOTBDWkFRcFVibzBIa1EzeWZNV3p4MFpKUjhzZHB5dkZWZXhHaWRDZEdLWHRvcUNsSUFMeXZZbUFnMm1XckVkTDNTdWZLTGUyOGZGNFptR1NtaDZFb1ZPQV9pblZMdUU4Qk0wUnRyeWU2UWJhX09TMEtYb3FHd3RUcTNIWmkxONIBuAFBVV95cUxPV29BdmctNkxsUWwxYVYxTGdXSDJ4bGVYOEI1eGdMd3lrUDJ6Qm43T0VrT0gwQ3Bvd1N4dTNjQUZhcGJxLTJGNVdhaHV1ZzYyUGh0RWRSRWstWE1jZHdDWE0zeG1XTlBlcDJNN05zYmp6QURTT2E1Ni1UV2ZYU1d4YmtqN3RyMWM3QkZxNXFnWlRKNXFhbW8wRHk1WHh3OXpHMkxUT2otTVpadGFhLTVtX0dHcE1QSEVW?oc=5",
+      "description": "Kerala’s GST growth hits 27%, doubling national average in October &nbsp;&nbsp; WION",
       "categories": [
         "GST"
       ],
@@ -6646,19 +6659,6 @@
       "source": "LiveLaw",
       "published": "2026-11-03T05:07:21+00:00",
       "url": "https://www.livelaw.in/job-updates/additional-public-prosecutor-vacancy-at-gir-somnath-district-557002",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "cdb6f388e8b36efd2bfa",
-      "title": "Project Associate - II Vacancy At Indian Institute Of Technology, Gandhinagar",
-      "source": "LiveLaw",
-      "published": "2026-11-03T05:06:37+00:00",
-      "url": "https://www.livelaw.in/job-updates/project-associate-ii-vacancy-at-indian-institute-of-technology-gandhinagar-557001",
       "description": "",
       "categories": [
         "General Legal News"
