@@ -1,9 +1,88 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-07T15:43:27.013272+00:00",
+  "last_updated": "2026-11-07T20:16:45.283929+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "a6d7dc2601500cb3d94b",
+      "title": "'Political Satire Can't Attack Dignity': Delhi High Court Orders Takedown Of AAP's Deepfake Videos Targeting CM Rekha Gupta",
+      "source": "LiveLaw",
+      "published": "2026-11-07T18:12:52+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/political-satire-cant-attack-dignity-delhi-high-court-orders-takedown-of-aaps-deepfake-videos-targeting-cm-rekha-gupta-557688",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "11d2dd2f154cfcc0fa2a",
+      "title": "72-Year-Old Landowner's 15-Year Legal Battle: J&K High Court Quashes Orders Setting Aside His Land Mutation Without Examining Limitation",
+      "source": "LiveLaw",
+      "published": "2026-11-07T17:02:51+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/72-year-old-landowners-15-year-legal-battle-jk-high-court-quashes-orders-setting-aside-his-land-mutation-without-examining-limitation-557811",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "c7b67ea339db4a4d2dde",
+      "title": "Kerala High Court Expresses Anguish Over Death Of Woman In Kochi Bus Accident,Flags Lack of Pedestrian Pathways",
+      "source": "LiveLaw",
+      "published": "2026-11-07T16:43:21+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-anguish-over-death-of-28-year-old-woman-557691",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "37a429c27e72d9b18a95",
+      "title": "GSTAT Andhra Pradesh Suspends Judicial Proceedings at Vijayawada and Visakhapatnam Benches on November 9, 2026, Due to Non-Availability of Technical Member - A2Z Taxcorp LLP",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-07T16:18:27+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUnhKWWhRMVdocGwtM205cWdrOXAwQnp1T2ptTGpBU1hpdXlBQVFIc3dGTGp3ZS1yaGlEcDJyOXFnR3Y0U0JUNUY1UlRKWUpPN25sbkxZdkM1V2E1SWxSS0lxay01WllRd2NaVDk0TG10ZEJ5UUR1QlRyMUpfUXFQWW9QWi1rNkMycDVhNk91bFlrd1dkNE05a0ljNG5jSHRhOUNrWmdrZ19vWnRLS1BoQjJ5SzZUYWVEZTJkOXZMZm5Nb1NReGZOb29WdExqSDRCbW41VDU2d2NRN3dOamhqdWdUbHZtU2lSeWgtaDlhTDl4ajV1TFlFM0RrelBKVmV2blpLNGJRZDQ?oc=5",
+      "description": "GSTAT Andhra Pradesh Suspends Judicial Proceedings at Vijayawada and Visakhapatnam Benches on November 9, 2026, Due to Non-Availability of Technical Member &nbsp;&nbsp; A2Z Taxcorp LLP",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "55899c105540b5705b46",
+      "title": "Kerala High Court Allows Digital News Platform NoCap's Editor To Operate Facebook Page After Deleting Comments Flagged By Police",
+      "source": "LiveLaw",
+      "published": "2026-11-07T16:01:14+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-reinstate-facebook-page-digital-news-platform-nocap-557805",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "6d010fca36f8034ddf3e",
+      "title": "Woman Attacks Lady Judge, Prosecutor & Inspector With Iron Rod In Odisha's Court Premises",
+      "source": "LiveLaw",
+      "published": "2026-11-07T15:51:25+00:00",
+      "url": "https://www.livelaw.in/news-updates/woman-attacks-lady-judge-prosecutor-inspector-iron-rod-odisha-court-premises-557803",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
     {
       "id": "73465e7738c9bea39187",
       "title": "Isolated Sales Invoices Cannot Establish Territorial Jurisdiction In Patent Infringement Suit: HP High Court",
@@ -160,20 +239,6 @@
       "published": "2026-11-07T11:02:07+00:00",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnRUSEVqWEpuQkJtcmxRcWRmdU5UMkYya3hDZUgzQm1YZ1NDa2daMTZYakxMZ1RSTThqZXcxZVZDYW5hb254OHBTWS1NX1JWcnFEMDZkb2hqM0tqVUdOV2V4WTYzcVlRNnNxSEJyb0t1aEs3b0dsNjU4UDYzYnVpRDh0YmhocHdZSF9pVldxN3RNam8zWmI2UVI0UThqcnFEdWgzRjY5ZW5VcjdQdFZCRHNyYTgwaTh0Wmd1ckdMME82Z1NCYlFZcTEyVdIB0AFBVV95cUxNbFJXMUFFb1dlVGRNbVA4YlU4TndIOUVFdU12QzlkRkNkbjVBUXFYTUpVcGJUR3duTWNPWUJuT1gtOWhFNWc5TFN4d1Z5SnUtbi1DN1RpMndJRmVsaDRlbFQ1amZqTXNNLXE3cXViM2R1MWVaQmVNTEtOODJLNG5SXzBHSGRIc3laTlVjVVhCXzdDZkF5Rkt0aHRiWkJlLVNPQmJzOEVvc1hPZkRJcUs2QU1ZX2xHZi16MHRvR1l0WE1DV1FJU1hQZXd4LUFONlIw?oc=5",
       "description": "Chuna Used With Paan, Supari, Tobacco Classifiable As Slaked Lime, Attracts 5% GST: GSTAT Rajkot &nbsp;&nbsp; LiveLawBiz",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "37a429c27e72d9b18a95",
-      "title": "GSTAT Andhra Pradesh Suspends Judicial Proceedings at Vijayawada and Visakhapatnam Benches on November 9, 2026, Due to Non-Availability of Technical Member - A2Z Taxcorp LLP",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-07T10:18:26+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUnhKWWhRMVdocGwtM205cWdrOXAwQnp1T2ptTGpBU1hpdXlBQVFIc3dGTGp3ZS1yaGlEcDJyOXFnR3Y0U0JUNUY1UlRKWUpPN25sbkxZdkM1V2E1SWxSS0lxay01WllRd2NaVDk0TG10ZEJ5UUR1QlRyMUpfUXFQWW9QWi1rNkMycDVhNk91bFlrd1dkNE05a0ljNG5jSHRhOUNrWmdrZ19vWnRLS1BoQjJ5SzZUYWVEZTJkOXZMZm5Nb1NReGZOb29WdExqSDRCbW41VDU2d2NRN3dOamhqdWdUbHZtU2lSeWgtaDlhTDl4ajV1TFlFM0RrelBKVmV2blpLNGJRZDQ?oc=5",
-      "description": "GSTAT Andhra Pradesh Suspends Judicial Proceedings at Vijayawada and Visakhapatnam Benches on November 9, 2026, Due to Non-Availability of Technical Member &nbsp;&nbsp; A2Z Taxcorp LLP",
       "categories": [
         "GST",
         "Tribunals"
@@ -455,19 +520,6 @@
         "General Legal News"
       ],
       "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "c7b67ea339db4a4d2dde",
-      "title": "Kerala High Court Expresses Anguish Over Death Of Woman In Kochi Bus Accident,Flags Lack of Pedestrian Pathways",
-      "source": "LiveLaw",
-      "published": "2026-11-07T06:05:09+00:00",
-      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-anguish-over-death-of-28-year-old-woman-557691",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
       "priority": "General"
     },
     {
@@ -806,19 +858,6 @@
         "High Courts"
       ],
       "importance_score": 42,
-      "priority": "General"
-    },
-    {
-      "id": "a6d7dc2601500cb3d94b",
-      "title": "'Political Satire Can't Attack Dignity': Delhi High Court Orders Takedown Of AAP's Deepfake Videos Targeting CM Rekha Gupta",
-      "source": "LiveLaw",
-      "published": "2026-11-06T15:30:37+00:00",
-      "url": "https://www.livelaw.in/high-court/delhi-high-court/political-satire-cant-attack-dignity-delhi-high-court-orders-takedown-of-aaps-deepfake-videos-targeting-cm-rekha-gupta-557688",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
       "priority": "General"
     },
     {
@@ -6635,46 +6674,6 @@
       ],
       "importance_score": 45,
       "priority": "Relevant"
-    },
-    {
-      "id": "4080b8b047f134543c67",
-      "title": "High Court Allows GST Audit Despite Retrospective Cancellation of Registration - StudyCafe",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T09:04:46+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenZBUjFHb2xBMDlnbmdVVy1mVjFPZnlYOGhuanpOajNseE4zbU9XejhMMUIwbWpGUHN5Nmg1RUNZckJ3YzFwOVZDWktJV1JGVTZZS2FUY1JEX1FkM2lSSXFzYTFVdE8tUG12UmU0WFlONml0cVlDZ2hvb29jZzQwUmptUzd0eFJGdy1CTHVUTmRoRjZQT3pzNU5Oc0hOa0p0R0o4SE9oRmxlYXdTWVJhZg?oc=5",
-      "description": "High Court Allows GST Audit Despite Retrospective Cancellation of Registration &nbsp;&nbsp; StudyCafe",
-      "categories": [
-        "GST",
-        "High Courts"
-      ],
-      "importance_score": 42,
-      "priority": "General"
-    },
-    {
-      "id": "beb36bc4e53fa97f43ad",
-      "title": "J&K Consumer Commission Holds Bajaj Allianz Liable For Unjustified Deduction From Flood Insurance Claim",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:00:49+00:00",
-      "url": "https://www.livelaw.in/consumer-cases/jk-consumer-commission-holds-bajaj-allianz-liable-for-unjustified-deduction-from-flood-insurance-claim-557067",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "d072963b6d33af775c2b",
-      "title": "'India Is A Secular Country': Bombay High Court Slams BJP Leaders' Remarks On Dia Mirza's Firecracker Video, Orders BMC To Restore It",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:00:27+00:00",
-      "url": "https://www.livelaw.in/high-court/bombay-high-court/dia-mirza-firecracker-video-bjp-leaders-criticism-557050",
-      "description": "\"How can you object to someone's participation just because they're from some other religion?\"",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
     }
   ]
 }
