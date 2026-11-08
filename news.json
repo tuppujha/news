@@ -1,9 +1,249 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-07T23:42:48.921097+00:00",
+  "last_updated": "2026-11-08T06:12:37.497460+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "6a1f39728a0e4eb87d86",
+      "title": "NLIU Bhopal's Cell For Studies In Intellectual Property Rights Invites Entries For 1st IP Blog Writing Competition, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-08T06:08:08+00:00",
+      "url": "https://www.livelaw.in/lawschool/competitions/nliu-bhopals-cell-for-studies-intellectual-property-rights-invites-entries-1st-ip-blog-writing-competition-557820",
+      "description": "",
+      "categories": [
+        "Intellectual Property"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "3c7a37d8f4ddfd11b1a9",
+      "title": "Supreme Court to Settle the Three-Month Countdown for Section 73 Order - A2Z Taxcorp LLP",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-08T05:45:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkdrclJ3Mngza19hTkdkVV9EQ0thb19KdWtJdEVtdDBmSFZZS3BvenBMSFFRY0w5R2RrbDAyX3lUMlc3b3ExUzdjYXV0SmdabGhXbUNlaS1MTTNkYURMTGRtZ2twaWMyTV83TElod1RDWHR4VDRYbzRPM05OMHpsSzdmYjlMZTQ2eTdBSEVrZm15eFBmUmhqcnVR?oc=5",
+      "description": "Supreme Court to Settle the Three-Month Countdown for Section 73 Order &nbsp;&nbsp; A2Z Taxcorp LLP",
+      "categories": [
+        "GST",
+        "Supreme Court"
+      ],
+      "importance_score": 55,
+      "priority": "Relevant"
+    },
+    {
+      "id": "5b2f979fafe905ce299a",
+      "title": "Arms Licence Scam: J&K&L High Court Declines Plea By IAS Officers Seeking DoPT To Consider Their Representations Before Deciding Sanction",
+      "source": "LiveLaw",
+      "published": "2026-11-08T05:35:50+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/arms-licence-scam-jk-high-court-declines-plea-by-two-ias-officers-seeking-direction-to-dopt-to-consider-their-representations-before-deciding-prosecution-sanction-557769",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "235381f208b4e194ae5a",
+      "title": "“Bench And Bar Share Responsibility”: Telangana High Court Sets Aside Trial Court's Adverse Remarks Against Lawyer",
+      "source": "LiveLaw",
+      "published": "2026-11-08T05:31:20+00:00",
+      "url": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-sets-aside-trial-court-adverse-remarks-counsel-seeking-adjournments-557807",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 47,
+      "priority": "Relevant"
+    },
+    {
+      "id": "8be2a48a1288735f76f9",
+      "title": "Telangana High Court Laments 'Rubber Stamp' Cognizance Orders Passed By Magistrates, Directs Judicial Training",
+      "source": "LiveLaw",
+      "published": "2026-11-08T04:59:41+00:00",
+      "url": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-flags-rubber-stamp-cognizance-directs-judicial-academy-training-557819",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "be5b7a47aae63bef7ae6",
+      "title": "Woman Can't Continue IVF After Crossing ART Act Age Limit Even If Embryos Were Frozen Earlier: Punjab & Haryana High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-08T04:55:02+00:00",
+      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-woman-cant-continue-ivf-after-crossing-art-act-age-limit-even-if-embryos-were-frozen-earlier-557817",
+      "description": "The Court also held that couple cannot be treated as a unit, and the ART services are barred if either of the spouse has crossed the age barrier.",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "76ab5d4492ce6f93c549",
+      "title": "LiveLaw Gujarat High Court Monthly Digest: October 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-08T04:30:43+00:00",
+      "url": "https://www.livelaw.in/high-court/gujarat-high-court/livelaw-gujarat-high-court-monthly-digest-557610",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "6d010fca36f8034ddf3e",
+      "title": "Woman Attacks Lady Judge, Prosecutor & Inspector With Iron Rod In Odisha's Court Premises",
+      "source": "LiveLaw",
+      "published": "2026-11-08T03:47:03+00:00",
+      "url": "https://www.livelaw.in/news-updates/woman-attacks-lady-judge-prosecutor-inspector-iron-rod-odisha-court-premises-557803",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "ace4730c3b17e5d1c265",
+      "title": "'Assisting Courts An Essential Duty': Delhi High Court Allows Advocates, Court Staff To Ply Vehicles Amid Pollution Curbs",
+      "source": "LiveLaw",
+      "published": "2026-11-08T03:25:13+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/assisting-courts-an-essential-duty-delhi-high-court-allows-advocates-court-staff-to-ply-vehicles-amid-pollution-curbs-557815",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "37bc2e09e9d3b2ac1913",
+      "title": "ED Not A Super Cop, Can't File Private Complaint If Local Police Refuses Investigation On Scheduled Offence : Karnataka High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-08T03:24:39+00:00",
+      "url": "https://www.livelaw.in/top-stories/ed-not-a-super-cop-cant-file-private-complaint-if-local-police-refuses-investigation-on-scheduled-offence-karnataka-high-court-557816",
+      "description": "The Court also held that the ED cannot continue money laundering proceedings after the predicate offence has been closed.",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "d01bfbc09d0a3c054860",
+      "title": "Dept. Can’t Challenge Fine Alone While Leaving Related Penalty Findings Uncontested: GSTAT - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-08T03:09:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yQVpvbE9BbVY0dllXZHhuOGI3VGN4VUZidzBfOGVzMVVENG8ydm5RYkdXMFk5MGdVRklodFJxLXlrSGhoX0FwR2p5ZGRBRjNMM2pYcGk0U2RQbEZoWXRNaEhCU1ZDTGVZUl9YeFI0Um00U3p6UXFTdmVzTjh3QQ?oc=5",
+      "description": "Dept. Can’t Challenge Fine Alone While Leaving Related Penalty Findings Uncontested: GSTAT &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "c989e107acabde112ed7",
+      "title": "GST On Mining Royalty: Gujarat High Court Bars Final Orders Without Its Permission, Allows Adjudication To Continue - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-08T02:58:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZG14MnRwc252LUlITXhyRF9aSzBqZ24yMzRITTE5OFdKc1BwSDZsc3ItbXdIT0xWTFp5YUM2akxadUJ4SjlXTGd2WW92TDE4VGx1VlJuY2ZBWjMwb1FNczBTVXM5UmlveWlmN2JGcjB6ZVJyU2ZZRnZPWWpBdmxheTNwZDRPV3pFRHBURQ?oc=5",
+      "description": "GST On Mining Royalty: Gujarat High Court Bars Final Orders Without Its Permission, Allows Adjudication To Continue &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "Environmental & Mining",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "11d2dd2f154cfcc0fa2a",
+      "title": "72-Year-Old Landowner's 15-Year Legal Battle: J&K High Court Quashes Orders Setting Aside His Land Mutation Without Examining Limitation",
+      "source": "LiveLaw",
+      "published": "2026-11-08T02:53:25+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/72-year-old-landowners-15-year-legal-battle-jk-high-court-quashes-orders-setting-aside-his-land-mutation-without-examining-limitation-557811",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "551730c95c4db7fe35d3",
+      "title": "J&K&L High Court Denies Bail To Juvenile Tried As Adult In Terror Case; Says Alleged Links With JeM Handler Raise Concerns Of Danger",
+      "source": "LiveLaw",
+      "published": "2026-11-08T02:53:10+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/jkl-high-court-denies-bail-to-juvenile-tried-as-adult-in-terror-case-says-alleged-links-with-jem-handler-raise-concerns-of-moral-psychological-danger-557755",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "0e6b33e8b95a5c4995e5",
+      "title": "J&K&L High Court Orders Compensation For Owners Whose Land Was Wrongly Declared As Evacuee Property After 45 Years",
+      "source": "LiveLaw",
+      "published": "2026-11-08T02:52:53+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/after-45-years-jk-hc-orders-market-rate-compensation-for-rajouri-owners-whose-land-was-wrongly-declared-evacuee-property-and-allotted-to-a-displaced-person-557753",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "c9d70bed5b94b483b204",
+      "title": "Advocates' Strike Not An Exceptional Ground To Extend 120-Day Deadline For Filing Written Statement: J&K&L High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-08T02:52:33+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/advocates-suspension-of-work-not-an-exceptional-ground-to-extend-120-day-deadline-for-filing-written-statement-jk-high-court-557768",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "ca3c8105c458c3c7a0e0",
+      "title": "Relatives' Antecedents Cannot Disqualify: J&K&L High Court On Non-Appointment Of Lambardar Candidate After CID Report Linked Family To Militancy",
+      "source": "LiveLaw",
+      "published": "2026-11-08T02:52:17+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/jk-high-court-quashes-appointment-of-lambardar-after-cid-report-links-applicants-family-to-militancy-says-relatives-antecedents-cannot-disqualify-candidate-557751",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "a7bed3cebb1b62c6009b",
+      "title": "J&K&L High Court Denies Default Bail To UAPA Accused; Holds Charge-Sheet Filed Within 180 Days Extinguishes Right To Statutory Bail",
+      "source": "LiveLaw",
+      "published": "2026-11-08T02:51:59+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/jk-high-court-denies-default-bail-to-uapa-accused-holds-charge-sheet-filed-within-180-days-extinguished-right-to-statutory-bail-557704",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
     {
       "id": "37a429c27e72d9b18a95",
       "title": "GSTAT Andhra Pradesh Suspends Judicial Proceedings at Vijayawada and Visakhapatnam Benches on November 9, 2026, Due to Non-Availability of Technical Member - A2Z Taxcorp LLP",
@@ -24,19 +264,6 @@
       "source": "LiveLaw",
       "published": "2026-11-07T18:12:52+00:00",
       "url": "https://www.livelaw.in/high-court/delhi-high-court/political-satire-cant-attack-dignity-delhi-high-court-orders-takedown-of-aaps-deepfake-videos-targeting-cm-rekha-gupta-557688",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "11d2dd2f154cfcc0fa2a",
-      "title": "72-Year-Old Landowner's 15-Year Legal Battle: J&K High Court Quashes Orders Setting Aside His Land Mutation Without Examining Limitation",
-      "source": "LiveLaw",
-      "published": "2026-11-07T17:02:51+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/72-year-old-landowners-15-year-legal-battle-jk-high-court-quashes-orders-setting-aside-his-land-mutation-without-examining-limitation-557811",
       "description": "",
       "categories": [
         "High Courts"
@@ -68,19 +295,6 @@
         "High Courts"
       ],
       "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "6d010fca36f8034ddf3e",
-      "title": "Woman Attacks Lady Judge, Prosecutor & Inspector With Iron Rod In Odisha's Court Premises",
-      "source": "LiveLaw",
-      "published": "2026-11-07T15:51:25+00:00",
-      "url": "https://www.livelaw.in/news-updates/woman-attacks-lady-judge-prosecutor-inspector-iron-rod-odisha-court-premises-557803",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
       "priority": "General"
     },
     {
@@ -178,20 +392,6 @@
       "priority": "General"
     },
     {
-      "id": "551730c95c4db7fe35d3",
-      "title": "J&K&L High Court Denies Bail To Juvenile Tried As Adult In Terror Case; Says Alleged Links With JeM Handler Raise Concerns Of Danger",
-      "source": "LiveLaw",
-      "published": "2026-11-07T12:06:08+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/jkl-high-court-denies-bail-to-juvenile-tried-as-adult-in-terror-case-says-alleged-links-with-jem-handler-raise-concerns-of-moral-psychological-danger-557755",
-      "description": "",
-      "categories": [
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
       "id": "4e0fd791f4333024cfd9",
       "title": "Meghalaya High Court Quashes POCSO Case Against Man, Cites Survivor's No-Objection As They Live Together With Their 6-Year-Old Son",
       "source": "LiveLaw",
@@ -273,19 +473,6 @@
       "priority": "General"
     },
     {
-      "id": "0e6b33e8b95a5c4995e5",
-      "title": "J&K&L High Court Orders Compensation For Owners Whose Land Was Wrongly Declared As Evacuee Property After 45 Years",
-      "source": "LiveLaw",
-      "published": "2026-11-07T08:50:46+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/after-45-years-jk-hc-orders-market-rate-compensation-for-rajouri-owners-whose-land-was-wrongly-declared-evacuee-property-and-allotted-to-a-displaced-person-557753",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
       "id": "66946d13ff1e71b870b3",
       "title": "27-Year-Old Status Quo Order Still Binding; Rajasthan High Court Holds Respondents Guilty Of Contempt",
       "source": "LiveLaw",
@@ -351,19 +538,6 @@
       "priority": "General"
     },
     {
-      "id": "c9d70bed5b94b483b204",
-      "title": "Advocates' Strike Not An Exceptional Ground To Extend 120-Day Deadline For Filing Written Statement: J&K&L High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-07T08:00:44+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/advocates-suspension-of-work-not-an-exceptional-ground-to-extend-120-day-deadline-for-filing-written-statement-jk-high-court-557768",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
       "id": "90215a7bda7eef8709eb",
       "title": "Rajasthan High Court Says State Need Not Be Impleaded In Cases Investigated By CBI, NCB, Other Central Agencies",
       "source": "LiveLaw",
@@ -382,19 +556,6 @@
       "source": "LiveLaw",
       "published": "2026-11-07T07:58:09+00:00",
       "url": "https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-directs-formation-verification-committee-action-erring-officials-557765",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "ca3c8105c458c3c7a0e0",
-      "title": "Relatives' Antecedents Cannot Disqualify: J&K&L High Court On Non-Appointment Of Lambardar Candidate After CID Report Linked Family To Militancy",
-      "source": "LiveLaw",
-      "published": "2026-11-07T07:55:40+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/jk-high-court-quashes-appointment-of-lambardar-after-cid-report-links-applicants-family-to-militancy-says-relatives-antecedents-cannot-disqualify-candidate-557751",
       "description": "",
       "categories": [
         "High Courts"
@@ -684,20 +845,6 @@
       ],
       "importance_score": 55,
       "priority": "Relevant"
-    },
-    {
-      "id": "a7bed3cebb1b62c6009b",
-      "title": "J&K&L High Court Denies Default Bail To UAPA Accused; Holds Charge-Sheet Filed Within 180 Days Extinguishes Right To Statutory Bail",
-      "source": "LiveLaw",
-      "published": "2026-11-07T04:50:18+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/jk-high-court-denies-default-bail-to-uapa-accused-holds-charge-sheet-filed-within-180-days-extinguished-right-to-statutory-bail-557704",
-      "description": "",
-      "categories": [
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
     },
     {
       "id": "f86a3a398dd134e5a31f",
@@ -6529,151 +6676,6 @@
       ],
       "importance_score": 30,
       "priority": "General"
-    },
-    {
-      "id": "5e47b74112471d31d348",
-      "title": "Illusion Of Neutrality: Architecture Of Arbitral Independence",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:30:52+00:00",
-      "url": "https://www.livelaw.in/articles/architecture-arbitral-independence-556908",
-      "description": "",
-      "categories": [
-        "Arbitration"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "e8eeb8ab64cff8bf5343",
-      "title": "As IB Says Jagtar Singh Hawara's Transfer To Punjab Jail May Impact Polls, Supreme Court Defers Plea",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:29:30+00:00",
-      "url": "https://www.livelaw.in/top-stories/as-ib-says-jagtar-singh-hawaras-transfer-to-punjab-jail-may-impact-polls-supreme-court-defers-plea-557089",
-      "description": "The Court observed that the IB report was \"very damning\".",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "edf3d19dc0513ad9c4f6",
-      "title": "Supreme Court Asks Calcutta High Court To Consider Abhishek Banerjee's Plea Against Media Reports On Investigations Against Him",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:24:43+00:00",
-      "url": "https://www.livelaw.in/top-stories/supreme-court-asks-calcutta-high-court-to-consider-abhishek-banerjees-plea-against-media-reports-on-investigations-against-him-557088",
-      "description": "",
-      "categories": [
-        "Supreme Court",
-        "High Courts"
-      ],
-      "importance_score": 57,
-      "priority": "Relevant"
-    },
-    {
-      "id": "340f6fd9d00249fcc131",
-      "title": "Mere Discrepancy In Date Of Sanction Order Without Material Showing Substantive Illegality Cannot Quash Charge-Sheet: J&K&L High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:20:51+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/mere-discrepancy-in-date-of-sanction-order-without-material-showing-substantive-illegality-cannot-quash-charge-sheet-jk-high-court-557016",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "a0dbb4e279f04b24141a",
-      "title": "GSTAT: Clerical Error in GSTR-1 and GSTR-3B Cannot Justify Additional - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T09:20:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHpSR09ZMDE0dGRjSE82a1BHelhuMlVRZDFxSkFibmttU0liWTJjNTBQNWZXMkROMUFNRk9QYlhnZU9mTGtIZ0JuMS1CUWlacWo1Y29sVG9sVmFseUl2a0gyUXNnRkxya2JsbjVtN1oyX1JLMHFkX0I4UF9CWjViZDdqaTVxVF9lMThsNkR3WVRRWERiXzlZbGJhSjlkRU5pSkZNNGFXX09lN1Zsd3ZialVqYXJEcUQyNDhoZHl5XzNlYU5sZWNJQVU4bw?oc=5",
-      "description": "GSTAT: Clerical Error in GSTR-1 and GSTR-3B Cannot Justify Additional &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "6fc1dbd5cd9721828166",
-      "title": "2026 LiveLaw (SC) 1123 | JODHPUR DISCOMS VERSUS LALIT SONI & ANR. ETC.",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:17:13+00:00",
-      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1123-jodhpur-discoms-versus-lalit-soni-anr-etc-557087",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "aa0587f516c941718260",
-      "title": "S. 197 CrPC | Employees Of Govt. Companies Not Automatically Entitled To Sanction Protection : Supreme Court",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:16:15+00:00",
-      "url": "https://www.livelaw.in/supreme-court/s-197-crpc-employees-of-govt-companies-not-automatically-entitled-to-sanction-protection-supreme-court-557086",
-      "description": "",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "0eaa64c827956f47088b",
-      "title": "2026 LiveLaw (SC) 1122 | Hanuman Prasad @ Hanuta Ram VERSUS State of Rajasthan & Ors.",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:13:55+00:00",
-      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1122-hanuman-prasad-hanuta-ram-versus-state-of-rajasthan-ors-557083",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "9d2d9bde470130a7a2b8",
-      "title": "'Absolutely Unbecoming Of An Advocate': Karnataka High Court Initiates Contempt Case Over Courtroom Ruckus, Orders Identification From CCTV",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:12:48+00:00",
-      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-ruckus-courtroom-contempt-557060",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "0099421003b7a9f39fea",
-      "title": "Sentence In Heinous Offences Can't Be Suspended Merely Because Appeal Is Unlikely To Be Heard Soon : Supreme Court",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:12:35+00:00",
-      "url": "https://www.livelaw.in/supreme-court/sentence-in-heinous-offences-cant-be-suspended-merely-because-appeal-is-unlikely-to-be-heard-soon-supreme-court-557082",
-      "description": "Courts must weigh evidence and actual incarceration before suspending sentence in heinous cases, the Court said.",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "b6991fb000972e045412",
-      "title": "Supreme Court Gives Last Opportunity To States To Provide Information Sought By Centre In Prison Discrimination Case",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:05:45+00:00",
-      "url": "https://www.livelaw.in/top-stories/supreme-court-gives-last-opportunity-states-provide-information-centre-prison-discrimination-case-557081",
-      "description": "",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
     }
   ]
 }
