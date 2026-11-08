@@ -1,9 +1,168 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-08T06:12:37.497460+00:00",
+  "last_updated": "2026-11-08T13:35:31.160511+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "d18e324b0b6a85b9d027",
+      "title": "Sikkim High Court Condones National Insurance Company's 223-Day Delay In Filing Revision, Imposes ₹50K Cost For Incorrectly Blaming Counsel",
+      "source": "LiveLaw",
+      "published": "2026-11-08T13:35:20+00:00",
+      "url": "https://www.livelaw.in/high-court/sikkim-high-court/sikkim-high-court-condones-national-insurance-company-delay-filing-revision-557767",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "c223be42a0fcd02ade1d",
+      "title": "Meghalaya High Court Quashes POCSO Case After Informed-Consent Review Of Survivor Living With Accused And Their 2 Children",
+      "source": "LiveLaw",
+      "published": "2026-11-08T13:15:48+00:00",
+      "url": "https://www.livelaw.in/high-court/meghalaya-high-court/meghalaya-high-court-quashes-pocso-case-informed-consent-review-survivor-living-with-accused-557772",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "5e250ee56b809c479557",
+      "title": "NCR Pollution | 'Lungs Of Even Children In Delhi Not Pink', Amicus Tells Supreme Court",
+      "source": "LiveLaw",
+      "published": "2026-11-08T12:34:19+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-air-pollution-delhi-ncr-vehicular-pollution-stubble-burning-children-lungs-not-pink-grap-expert-view-valid-diwali-awareness-programmes-557825",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "fa8b0572200618c298eb",
+      "title": "'Case Of The Victim Cannot Be Totally Neglected': Bombay High Court Upholds Categorization Of Woman Convict In Stricter Category For Remission",
+      "source": "LiveLaw",
+      "published": "2026-11-08T11:51:09+00:00",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/categorization-woman-convict-stricter-category-remission-557770",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "06e7dbefa22619789d30",
+      "title": "LiveLaw Madhya Pradesh High Court Monthly Digest: October 2026 [Citations 399 - 438]",
+      "source": "LiveLaw",
+      "published": "2026-11-08T10:31:00+00:00",
+      "url": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-monthly-digest-october-2026-557611",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "6b6eb57ba4fb88e310f4",
+      "title": "Insurance Company Cannot Repudiate Health Claim Without Medical Evidence Justifying Denial: Kurukshetra Consumer Commission",
+      "source": "LiveLaw",
+      "published": "2026-11-08T09:56:44+00:00",
+      "url": "https://www.livelaw.in/consumer-cases/insurance-company-cannot-repudiate-health-claim-without-medical-evidence-justifying-denial-kurukshetra-consumer-commission-557824",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "d50c9feb2980e175a884",
+      "title": "Meghalaya High Court Gives State 4 Months To Process Terminal Benefits For Widow Of Employee Who Died Without Receiving Dues",
+      "source": "LiveLaw",
+      "published": "2026-11-08T08:46:11+00:00",
+      "url": "https://www.livelaw.in/high-court/meghalaya-high-court/meghalaya-high-court-process-terminal-benefits-widow-employee-died-557762",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "1766fc8ab53c1e83ebdf",
+      "title": "Non-Production Of Malkhana Register Alone Cannot Vitiate NDPS Conviction: Tripura High Court Upholds 10-Year Jail Term In 987 Kg Ganja Case",
+      "source": "LiveLaw",
+      "published": "2026-11-08T08:45:41+00:00",
+      "url": "https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-nonproduction-malkhana-register-vitiate-ndps-conviction-557764",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "abfc7b6d546b5f101681",
+      "title": "'Seven Years, Three Witnesses & Incomplete Testimony': J&K&L High Court Reopens Acquittal Case For Retrial",
+      "source": "LiveLaw",
+      "published": "2026-11-08T07:45:34+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/seven-years-three-witnesses-an-incomplete-testimony-jk-high-court-reopens-acquittal-case-for-retrial-557752",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "76e266e675d4b2b1acc5",
+      "title": "Jindal Global Law School Team Secures 5th Place In Oral Finals At FDI Moot 2026, Wins 3rd Best Claimant Memorial",
+      "source": "LiveLaw",
+      "published": "2026-11-08T07:06:55+00:00",
+      "url": "https://www.livelaw.in/lawschool/news/jindal-global-law-school-team-secures-5th-place-in-oral-finals-at-fdi-moot-2026-wins-3rd-best-claimant-memorial-557823",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "fe6099713ab2e13f68dd",
+      "title": "Bengaluru ADR Week To Host Discussions On AI, Arbitral Independence, Enforcement And Future Of ADR",
+      "source": "LiveLaw",
+      "published": "2026-11-08T07:00:20+00:00",
+      "url": "https://www.livelaw.in/events/bengaluru-adr-week-to-host-discussions-on-ai-arbitral-independence-enforcement-and-future-of-adr-557822",
+      "description": "",
+      "categories": [
+        "Arbitration"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "bcb309d4b10b6f3811fb",
+      "title": "Madhya Pradesh SLSA Hosts 'Bal Srijan' Exhibition-cum-Sale Of Handicrafts Made By Children",
+      "source": "LiveLaw",
+      "published": "2026-11-08T06:26:43+00:00",
+      "url": "https://www.livelaw.in/news-updates/madhya-pradesh-slsa-hosts-bal-srijan-exhibition-cum-sale-handicrafts-made-children-557821",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
     {
       "id": "6a1f39728a0e4eb87d86",
       "title": "NLIU Bhopal's Cell For Studies In Intellectual Property Rights Invites Entries For 1st IP Blog Writing Competition, 2026",
@@ -6518,164 +6677,6 @@
       ],
       "importance_score": 45,
       "priority": "Relevant"
-    },
-    {
-      "id": "bfe19f7a2e0f32012630",
-      "title": "GSTN Implements New Online Verification Process for GST Registration Amendments on GST Portal - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T11:18:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDhXMDAyZjhBZXp6UUFWX1M4XzZXZmc0SGR0RXpFUGYxU0RJeUxTdmZSQzFiVDdMLVpzaEhWSHdqWXowSGNCaVN4bzVDVi1MWkZlNVlZeThGRlNxcVotNHBFRkxEZnl4OEtzelgwY0o5b0MxNVVTTlFtTGIwd25JbXcwTmg4N05pVkp1cS1SekxNZXpiU25BLWZyVDQ5Wm1KQnJiR0xYSGx6TUJRc3I2WjJ5aXE5Q3BHLTNrVw?oc=5",
-      "description": "GSTN Implements New Online Verification Process for GST Registration Amendments on GST Portal &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "21a08ead95ee08aef68d",
-      "title": "Legislation Ultra Vires At Enactment Cannot Be Validated By Subsequent Adoption By Parliament: J&K&L High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-03T11:05:37+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/legislation-ultra-vires-at-enactment-is-stillborn-and-cannot-be-validated-by-subsequent-adoption-by-parliament-jk-high-court-557018",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "8d826d556e39c3c1da14",
-      "title": "Why did the court say that? | 'OCIs are not citizens'| Bombay HC on Imran Khan's Plea",
-      "source": "LiveLaw",
-      "published": "2026-11-03T10:57:18+00:00",
-      "url": "https://www.livelaw.in/videos/imran-khan-leave-india-notice-legal-news-india-gyanesh-kumar-protests-557111",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "40dec94d3d21f91e9d02",
-      "title": "GST TDS Compliance Expanded: Four New Categories of Goods Added Under 51 Alongside Metal Scrap - StudyCafe",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T10:54:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbzBOcE9MbW83YXZId01GVmFDS0FUN0N1R2J2MmExM3RyRDFIbWR2ZTJyRFp0dUJ6ZWMwTE5LTUhld0l4U3NTejgycGh5SlQ3dkVaZkx3d0VuemRkc3hCNUFZZnJaUExURkpyMFNBa3BCOWlkLWVmbkNVY0JOUG5obk04dl8xUDhPX1o4UHp0aEJwQ0FFRGk1Znl1RTlHOW1jNVVEdG9Qay1ZN2oweUpRamZBLWdnQ3NiRU1QNXU2NDRQMVZO?oc=5",
-      "description": "GST TDS Compliance Expanded: Four New Categories of Goods Added Under 51 Alongside Metal Scrap &nbsp;&nbsp; StudyCafe",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "9ef522abf7fafd90432b",
-      "title": "GSTN Advisory on TDS Registration for Additional Scrap Categories Under GST - CAclubindia",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T10:26:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObWc2cHdsUExEbjU2cW1zWHNmaHkyOFNSR0h4QWJSUkRXQXVxdEdiOXlwU1oyYUFoUnNoZ3dzclVubnlzRnUxdGtQVDJlcUUtalBMUXdEaU4yYW1hbjRGUlVuMGVoYTlFNEtMeTdiSHZhWjRKWnQ5a1Fka3BLVXNFRXFtNTZEdlg3OUpCWDRpWklGdUJnajBpOGZhV1o3T25jQmFqU2tCbGpWek5FeHN3QWZHRDNxUXJ6N0QzLUtuOEM1Rkg4Y242S0J3?oc=5",
-      "description": "GSTN Advisory on TDS Registration for Additional Scrap Categories Under GST &nbsp;&nbsp; CAclubindia",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "a8b54d2b36ad53fd39a5",
-      "title": "MP High Court Quashes FIR Against Journalist For Allegedly Promoting Communal Enmity Through Report On Ganesh Visarjan Violence",
-      "source": "LiveLaw",
-      "published": "2026-11-03T10:11:55+00:00",
-      "url": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-quashes-fir-journalist-accused-of-promoting-enmity-report-on-violence-during-ganesh-visarjan-procession-557094",
-      "description": "Mere reporting of an incident involving violence does not by itself constitute the offence, Court said.",
-      "categories": [
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "0ad63547cf067d0318b1",
-      "title": "Gujarat Municipality Retracts Meat-Shop Shutdown Order During Jain Leader's Stay, Admits 'No Legal Provision' To Order Closure",
-      "source": "LiveLaw",
-      "published": "2026-11-03T10:09:36+00:00",
-      "url": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-slaughter-houses-closure-premises-557090",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "eccc5612c84c15cfb3a4",
-      "title": "Post-settlement GST revenue up 15% in TN: Minister D Logesh Tamilselvan - DT Next",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T10:09:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnZHMW52NFExXzRuN0dzenQwN3pZYjBQVjF2QkhWeWh4cWl3VU1xU2Y5SzdBc2pvY2lEX093YmhkRkVvd1R4S3d6RW1aTHJxdGthZGZCZjBJQmdLQmtSaWpmZGxnbFhlcjdkeTFSeTY5M2drYWJYWXFVQWg5Z01XSUpnVGxfS05OMlZXQkd1OFZkbWNtcHBRQ3hzdlBLOHZHbmFfekxOazVLT1M2UXZWV3R30gG_AUFVX3lxTFBQNUJRV0trX0RqRFU1aTQ3emRkUkc0ZWQ0WTlWVXI1R3dVSk93NFlFMDZGRUxqMXNjdkdxd2lSaTRDVlptX3lEZ1BFTHBtSnJrVDdmMXBBblJiRGxlLS03dXU0cTZ1RkxOcnFCVnRWWWczcFMwQXRscjBUZE1xaUl1aXY5bGFaTC1HUTlidFNpT0JQdS1BWEpQd0htV0hQTGNUWlVvell2RVRsSnJ1c1Z5WFV0TGtaVVdySmFFZXpR?oc=5",
-      "description": "Post-settlement GST revenue up 15% in TN: Minister D Logesh Tamilselvan &nbsp;&nbsp; DT Next",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "338c51556cda3a46ec2f",
-      "title": "State Human Rights Commission Can Recommend Additional Compensation: Allahabad High Court Upholds ₹10 Lakh Relief For Electrocution Victim",
-      "source": "LiveLaw",
-      "published": "2026-11-03T09:58:31+00:00",
-      "url": "https://www.livelaw.in/high-court/allahabad-high-court/state-human-rights-commission-additional-compensation-allahabad-high-court-557093",
-      "description": "Rejecting the limitation objection, the HC said that non-payment of compensation can constitute a continuing human rights violation.",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "753ca36aeacf5fe4847a",
-      "title": "CBIC Notifies GST Amendment Rules, 2026, to Simplify Registration, Refunds and Compliance - Nasscom",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T09:43:03+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGZ1ckpkNTJvTVJWT3BHMkZ1MmN2Y0V4TU5kakxKblVjUjJHeFFSZTF6cURoMmtNYWY4NFAtRVk1c2hCaHJlZGh1Ri1CWElZMlNMMWxzSXQzTjFnaW04aFNBRDd4cXNjY3VaNFU3UFhEalVjRzFUd0t1YnhZSGpJU3hXdTlDc2d5X0dHQU1IN3lrVUxKUllXYzZNWDI3Q2JpeFV4dUZwYnBET3FhMzJZWExlTFg2ckU0a3FRZmJ4WS00NlJLOHc?oc=5",
-      "description": "CBIC Notifies GST Amendment Rules, 2026, to Simplify Registration, Refunds and Compliance &nbsp;&nbsp; Nasscom",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "6745682f8db02635b31b",
-      "title": "CBIC Issues Eight Circulars to Simplify GST Compliance and Provide Greater Tax Certainty - Nasscom",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T09:37:58+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnRsY3JmY2l4R003cEkzdS01TlJDOW5fWlFfenBsbkZrVXN5bjVpUjhVd29QSTRmZ0JVbHVyQTBnU0J5UkljYnFEeENiNnVUQ09aLWN1Z0s3TjNsZXlaaDMtMnZ1NGNIbkg1X2Y0ZlJQZndwZnhDcnRvZVhzdWFJUnk1cmhrVHRab2xzOVR4Y25QOGQ0NmxBUGJmbXZyZ0d1Ri1maFB6TWxyOFFCdEtvNUJYWndSa0JlQjN0UkF5VHpFOFpl?oc=5",
-      "description": "CBIC Issues Eight Circulars to Simplify GST Compliance and Provide Greater Tax Certainty &nbsp;&nbsp; Nasscom",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "d2d4323ece41e88cad07",
-      "title": "Non-Filing of Single ER-1 Return due to Portal Glitch Cannot Be Ground to Deny GST Transitional Credit: GSTAT - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-03T09:35:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZWJDNHY2VERjUHdvd0M5Rkw4VW80RDFTcWNJWnh2UVNiMHVvcXhpbWlSMHlfMkIzYUp3R0o5QV9JMzUwNWVEQmdNOVJ5QkdDOERMeEk5VzlUNGZQZ1ZZUEREaDRmbklvRGU3c0JrSnpCekl3aTVsSFpmR0tNNVE1YnRZeklzZVY0T2F4ZXNEZVdLZ1ZFWHd2NWJvd3o1ZEV2MU5DMVp6d1JHcnZsTVlPZm43a2haRmdsRmlTTXRTNDVJQ0FhOFJVdXVuTDJVREd3?oc=5",
-      "description": "Non-Filing of Single ER-1 Return due to Portal Glitch Cannot Be Ground to Deny GST Transitional Credit: GSTAT &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
     }
   ]
 }
