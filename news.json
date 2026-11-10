@@ -1,9 +1,129 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-09T22:27:28.788498+00:00",
+  "last_updated": "2026-11-10T04:39:45.177442+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "3e376e0a299c58716db0",
+      "title": "Government Funding Alone Doesn't Ensure GST Concession - Taxscan",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-10T04:35:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVXdxMEltcW5DbGVKMmttNHhMa2tfN2l0UEFUT0ZBUHRyZ2tnenRRWktlWGs2TktZQVc0ZE1mZ1FDdGlUVUp6S1R1M2RpdDg1dmZSUGFVMk9fZUtuUjVfWjI0Y2F1MFRVbm9FUUlIV3VvN0w2OVlnTWV2UjNfckkzU1R3LXBsSmt4N3ZkWHZoVUE2VlU1b3d4cktZdzlTODVGYW5Ta0dITWF0a09qaEJrN1lxbVlwLVluZ0lFSE0yZERpYW9iZHBucDZKX0M?oc=5",
+      "description": "Government Funding Alone Doesn't Ensure GST Concession &nbsp;&nbsp; Taxscan",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "96bbfa2c3fc43bf088e0",
+      "title": "LiveLaw Delhi High Court Monthly Digest: October 2026 [Citations 939 - 1054]",
+      "source": "LiveLaw",
+      "published": "2026-11-10T04:30:15+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/livelaw-delhi-high-court-monthly-digest-october-2026-citations-939-1054-557615",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "182d42b9c71b8a6a4af6",
+      "title": "Shivamogga Consumer Commission Holds Railway Station Masters Liable For Deficiency Over Non-Availability Of Water In Train Washrooms",
+      "source": "LiveLaw",
+      "published": "2026-11-10T04:27:37+00:00",
+      "url": "https://www.livelaw.in/consumer-cases/shivamogga-consumer-commission-holds-railway-station-masters-liable-train-water-shortage-557955",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "200003d03a1f7b698ddf",
+      "title": "GST Revocation Requires Payment of Interest and Late Fees - Taxscan",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-10T04:03:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON0pzanF3YThmNmZpclVVbXpYbEtPTTBZZjZfMzQ4Z2FVb29wN0JlOUpkQ0xrR1BZT0VqX2lrRGhWRHJiQ3FtcW9SVmcwUlVLQUttVjVfSWVqVDJtUlluUDZNa2F0b0RacmpwbXE3aUFYTDQwaDNZaFhHZVVQcU44WXZZcEJnUzZKeV9FSUsySjNtTnRGZzZUNFcycGFhMWVQMzdyOVpxM3pERVdERFU2RUVpdzZmQXlXei1LSXNoU1BfM0NMVVpOR1FON3FRUzVBUktaN0hBU1JxZ0dwR1J1Q2hZTnJNRVk?oc=5",
+      "description": "GST Revocation Requires Payment of Interest and Late Fees &nbsp;&nbsp; Taxscan",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "0d6596753dc710f64e5e",
+      "title": "GSTAT: Excess ITC Without Utilisation Attracts No Interest - Taxscan",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-10T04:02:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbm1URlVaS29VNG5Tb3dYTEczcUdySXc3b2JpNGVkcmNFcTN3aENGTjFad0htTndEM1ZSMGxGSDRiTURJUnowb2lWd3IxZ0RrSnMxZUVVX0MtVUttT0RPNDF2S1hZamVGRk1nSmd6VGFwVlI4ODAzNVRkenl6NmtXREltLTZkRDdZSmlhYzRyVnRtZ052dXdxOVcySFdtUm9BeW9OYXA5QVVpZjNISzJrVFdoUGI5bTlvSnJleFZ1bmFxSU8zUGdKSlQ4SC1jQjcz?oc=5",
+      "description": "GSTAT: Excess ITC Without Utilisation Attracts No Interest &nbsp;&nbsp; Taxscan",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "cf6709afdb9cd05eaa1d",
+      "title": "Widow's Remarriage No Ground To Deny Compensation For Husband's Death In Motor Accident: Gujarat High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-10T04:01:12+00:00",
+      "url": "https://www.livelaw.in/high-court/gujarat-high-court/gujarat-high-court-widow-remarriage-compensation-claim-husband-death-in-motor-accident-557945",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "ed83d26e56b8d9783e22",
+      "title": "Country Club's 'No Refund' Clause For Holiday Membership Is One-Sided & Unfair, NCDRC Upholds ₹90,000 Refund",
+      "source": "LiveLaw",
+      "published": "2026-11-10T03:55:29+00:00",
+      "url": "https://www.livelaw.in/consumer-cases/country-clubs-no-refund-clause-for-holiday-membership-is-one-sided-unfair-ncdrc-upholds-90000-refund-557952",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "4ce456b23c04dda90965",
+      "title": "AP High Court Orders Redetermination Of Farmer's Land Acquisition Compensation On Par With Others Who Secured Enhancement Via Arbitration",
+      "source": "LiveLaw",
+      "published": "2026-11-10T03:31:09+00:00",
+      "url": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-directs-reassessment-compensation-landowner-parity-farmers-557943",
+      "description": "",
+      "categories": [
+        "Arbitration",
+        "Corporate Law",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "ee699a93072dcbe623d1",
+      "title": "Easier GST input tax credit norms increase cash flow by up to 2% - The Times of India",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-09T22:20:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRENhd050aW1Tc1pWTkh6RjZZMHhzc1dEOTNQOEtWMEZXMUxGdzdIaXJaVFlkN3pQRVhrb3Rqc1RfblZVVEtqZkxLZURRMk5rVWI5NEpsemRDNDFVd1ZtWXRnS1ZMNnNsY0l4OHpTM3ZzSk1QbU92YWFfdks5TVBHNVFTcmhORE5PeWVuU0Q1Yl9OcHJhVnZKUW5CT1o4MFlGZTBHWVFqclZscGNCaW9aOVB0NVQwQmZCZ0FFN0hqcnB3Z0RtZXBISktsRVR2R29xTTA5X01wVG1BUGlMX185U3ZmMNIB6AFBVV95cUxQZnI5VUtIclFZaVIxOFNRTllmdnVtNUVEMm9nSTVub2FQbXRnWTYxNGxvLVB5UDFVbC0tdXBnaXdHVFlOMzFRcnVGVzNaMlRqOUlnQ0VtczkzcXB2YnVoSUt4cGFDeEdWeFdYLVdDbEN3S1Z1MGZNdWNXcnZUZF8zQ3RBXzk0U3RISWRuLTRRNWdtT2JuYXNSRzdxQWg3UlVjOXJUeWVpYVZENkpSNU5yRnBVZXdZT0Y4bklYYjFweW1SQktZQnUxY1g3ck92MExzTDhMVHBQeVZ3aTJocV9vM05QWjl5c012?oc=5",
+      "description": "Easier GST input tax credit norms increase cash flow by up to 2% &nbsp;&nbsp; The Times of India",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
     {
       "id": "6cf7683fe628d47f7994",
       "title": "LiveLaw High Courts Daily Highlights: November 09, 2026",
@@ -28,6 +148,19 @@
         "General Legal News"
       ],
       "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "2f71fbf144d4c9a8eb4e",
+      "title": "Sula Vineyards faces Rs. 1,54,34,022 tax demand under GST Act - Business Upturn",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-09T17:37:27+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMF9sbnBCU25OczZKN3pob0JQbkMwcVFtVzN2Z3dxUnprenRuTlpoMEp6elh3SEFWTkt3N0RXSk56b3pnMEV5ajJ3ZnUtbEc2WlR3WFhNa2FzMFVwc0hURHhMQ1FtUjA4d3JYVkhZR25rb3hCbkJFT3dtUUs0Ym9YMnY0ajktZ29hSHVwSVZ6RkYyVEt4YTdsSnZHbm4wUQ?oc=5",
+      "description": "Sula Vineyards faces Rs. 1,54,34,022 tax demand under GST Act &nbsp;&nbsp; Business Upturn",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -6547,141 +6680,6 @@
       ],
       "importance_score": 45,
       "priority": "Relevant"
-    },
-    {
-      "id": "fc59aee61924f5a8a9e2",
-      "title": "Sales Tax Surcharge Reference Academic After GST, Rules Supreme Court Constitution Bench - LawChakra",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T06:51:47+00:00",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11X3lXMDVhWUxZb0xKb2ZRSUNsQnJOVFZIZzdIUEtXNlpDU3RHSnkyV1VlWm9ZSmdFYmxpRmlfWG5rZlpQU1VpTUVpbHd5SmFwN2UtbTc3ZXBTazUyVGtrZE9PVVRhbkVkYnl5WUhtbWc0UGs?oc=5",
-      "description": "Sales Tax Surcharge Reference Academic After GST, Rules Supreme Court Constitution Bench &nbsp;&nbsp; LawChakra",
-      "categories": [
-        "GST",
-        "Constitutional Law",
-        "Supreme Court"
-      ],
-      "importance_score": 70,
-      "priority": "Important"
-    },
-    {
-      "id": "be0896235edc4722edf7",
-      "title": "Supreme Court rules states may impose surcharges despite GST - NewsBytes",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T06:38:09+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejEyNEtwZllYdXI3Y05GMzQwNzF5Y3ZXUjdmb3c3ejZGcWgtNGxQeWQ1ejVlTWJBeGVrZjBRUEJuTzlfMlhHYUYtVFJiRUJORHoxZ3J4bC1nOUtsakthUVFDamhDTTB6UEFKNEl1RDRUTElYaWw1bU92QW9FU0Vtc3g2VTBtdk4tLUJVU1M1YUZLMTYxQndKLUZ2QV93LTE2Y1EzNWRxdnpmWFFH?oc=5",
-      "description": "Supreme Court rules states may impose surcharges despite GST &nbsp;&nbsp; NewsBytes",
-      "categories": [
-        "GST",
-        "Supreme Court"
-      ],
-      "importance_score": 55,
-      "priority": "Relevant"
-    },
-    {
-      "id": "0453fb451f086c0fd135",
-      "title": "District Judges Recruited Directly From Bar With Postgraduate Law Degrees Entitled To Three Advance Increments From July 1996: Kerala High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-04T06:30:33+00:00",
-      "url": "https://www.livelaw.in/high-court/kerala-high-court/district-judges-recruited-directly-postgraduate-law-degrees-three-advance-increments-july-1996-557241",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "df672a2510fc84288f74",
-      "title": "LiveLaw Breaking News Alerts: 04 November 2026",
-      "source": "LiveLaw",
-      "published": "2026-11-04T06:21:59+00:00",
-      "url": "https://www.livelaw.in/top-stories/livelaw-breaking-news-alerts-04-november-2026-557229",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "9cb72e1f405da583d805",
-      "title": "Rajasthan High Court Orders Complete Ban On Parties, Marriages, Restaurants At Monument In Reserved Forest Area",
-      "source": "LiveLaw",
-      "published": "2026-11-04T06:20:32+00:00",
-      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-bans-marriages-parties-commercial-activities-jaipur-vidhyadhar-ka-bagh-protect-wildlife-557238",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "1c16d8347f471c92b795",
-      "title": "Appeals Against Urban Land Ceiling Orders Abated After 1999 Repeal: Allahabad High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-04T06:19:16+00:00",
-      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-appeal-under-s33-survives-1999repeal-557225",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "2982921c79f1b8d1b0da",
-      "title": "Supreme Court 7-Judge Bench Holds Reference On States' Power For Additional Levy On Sales Tax Academic After GST",
-      "source": "LiveLaw",
-      "published": "2026-11-04T06:18:54+00:00",
-      "url": "https://www.livelaw.in/top-stories/supreme-court-7-judge-bench-holds-reference-on-states-power-for-additional-levy-on-sales-tax-academic-after-gst-557237",
-      "description": "The Court held that the reference has been rendered infructuous.",
-      "categories": [
-        "GST",
-        "Supreme Court"
-      ],
-      "importance_score": 55,
-      "priority": "Relevant"
-    },
-    {
-      "id": "626d90e211d41ad2e611",
-      "title": "BREAKING| Laws Penalising Having More Than 2 Children Have Lost Relevance Due To India's Falling Fertility Rate : Supreme Court",
-      "source": "LiveLaw",
-      "published": "2026-11-04T06:18:38+00:00",
-      "url": "https://www.livelaw.in/top-stories/laws-penalising-having-more-than-2-children-have-lost-relevance-due-to-indias-falling-fertility-rate-supreme-court-557233",
-      "description": "The Supreme Court has called for revisiting the earlier verdicts which upheld the laws imposing 2-child norm.",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "bf2879403d9913bfc0e3",
-      "title": "Delhi SIR : Petitioners Flag Before Supreme Court ECI's Statement Asking Deleted Voters To File Form 6",
-      "source": "LiveLaw",
-      "published": "2026-11-04T06:15:44+00:00",
-      "url": "https://www.livelaw.in/top-stories/delhi-sir-petitioners-flag-before-supreme-court-ecis-statement-asking-deleted-voters-to-file-form-6-557246",
-      "description": "The CJI said that people need not be apprehensive as the Court was hearing the matter.",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "ae4e8140f70503ec7daa",
-      "title": "Mere Presence Of Another Person In Matrimonial Home Can't Prove Adultery: Madras High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-04T06:13:27+00:00",
-      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-upholds-restitution-conjugal-rights-order-557231",
-      "description": "",
-      "categories": [
-        "Family Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
     }
   ]
 }
