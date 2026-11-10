@@ -1,9 +1,154 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-10T13:32:30.249464+00:00",
+  "last_updated": "2026-11-10T20:52:40.824670+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "32e9f8328d33dd15fbe3",
+      "title": "LiveLaw High Courts Daily Highlights: November 10, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-10T19:55:32+00:00",
+      "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-10-2026-558045",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "1bb9474a799f5e12af17",
+      "title": "GSTAT: Vague GST Cancellation Notice Inadequate for Cancellation - Taxscan",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-10T16:27:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM0U1d1FNOUEtU0FfaklHNllkNEg3R3I4T182MWRXSmotUnR0bWlqWTY5dWlHSk93a2p1anJFb2pZMDVTT0UwUVcxT1hPX01QVjlwZU5UMEo2alpMajEwQ1Jld3lXSXI1TEllMl9GRDZZb0YwSmJHYnNNdnQ3bXIyRHRKbUVYQTNsTjU3VXhxZW8wR0FwT2hHSW10cDBacHg2Z0VKRk40SDVlNFNHS1NLYmFUU3Y0RzVHLTBqMkk5cUJzbnVFMG1GNEdQTktIamtnQ3A5YU11V0lsN0Vs?oc=5",
+      "description": "GSTAT: Vague GST Cancellation Notice Inadequate for Cancellation &nbsp;&nbsp; Taxscan",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "182d42b9c71b8a6a4af6",
+      "title": "Shivamogga Consumer Commission Holds Railway Station Masters Liable For Deficiency Over Non-Availability Of Water In Train Washrooms",
+      "source": "LiveLaw",
+      "published": "2026-11-10T15:56:59+00:00",
+      "url": "https://www.livelaw.in/consumer-cases/shivamogga-consumer-commission-holds-railway-station-masters-liable-train-water-shortage-557955",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "7dde9d29674408b29563",
+      "title": "Police Can't Restrict Licensed Bar Hotels' Operating Hours Merely Apprehending Drug Use: Kerala High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-10T15:13:59+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-dj-party-police-notice-radisson-blu-hotel-557979",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "2eab55698e06fba1f85e",
+      "title": "2026 LiveLaw (SC) 1149 | Yusuf v Vigyapan Loke Delhi Advertising CGHS Ltd.",
+      "source": "LiveLaw",
+      "published": "2026-11-10T15:11:51+00:00",
+      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1149-yusuf-v-vigyapan-loke-delhi-advertising-cghs-ltd-558042",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "daf8c875f216b65a0185",
+      "title": "Balance Sheet Entries Can Count As Acknowledgment Of Debt Under S.18 Of Limitation Act: Supreme Court",
+      "source": "LiveLaw",
+      "published": "2026-11-10T15:10:57+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-restores-money-recovery-suit-558041",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "e4a2b4b88cd02168b27d",
+      "title": "PAN Card And Voter ID Alone Cannot Prove Indian Citizenship Without Supporting Records : Gauhati High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-10T15:03:22+00:00",
+      "url": "https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-pan-card-voter-id-cannot-prove-indian-citizenship-supporting-records-558039",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "c4afffc355213e7fca70",
+      "title": "Manipur High Court Keeps 2027 Census On Hold Till April 30, Directs Centre To Decide Seven Representations",
+      "source": "LiveLaw",
+      "published": "2026-11-10T15:02:24+00:00",
+      "url": "https://www.livelaw.in/high-court/manipur-high-court/manipur-high-court-directs-centre-decide-seven-representations-558038",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "e779aef16b4f4cef5300",
+      "title": "POCSO court hands life term till natural death to 65-year-old man for minor's rape in Dombivali - DT Next",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-10T13:58:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlg4LVV4VGR5QmhhTGYtX05ZQ1dkRnc2V2RzSWNkVmpOQTNETTZHWGp5N1Rfc2pxbE81TnlFck1ZdEFwbTRvUTRoS1JVbU52MkRpQm5adEUyUlR4WTM3Y1ZPWkJNbDNUdWh3VjNXM3ZmV2FhQ2dRV3lPcUpCUXI0eERiOE83RXRidGZQMkdiLV9WeElZazdZdDc5NDk3bGY4ZXJkV09yektGa3lZdnN6MzhURzM5Ry1raV84MmwzOUVDMGU4d3VNUTR30gHXAUFVX3lxTE1jbVJGdmVhYldGRzVRcHBjVG53ZlZfaVZ3MnljeWhTR0s3RW92WE9wa2lla21SMkJVYmpZSG9DM2szeFF4OVBLcW5ESG5FN041TzNlM2tKaFRLRi1ubFFOdE1BUFZPSEVkazJKS1R0Y0RRYXdwb2REeUJRMmlnaHNHWXBFRmM0NEFtWjBHWnJqOHFNUjVybjBfRmxKMVBSSUxIYmlsSFdiaEdoaDh4WlpTcjRUODNxbzFkcmRPLXVsdjN6NWFSTFlTX3oyYnRXUlFoVWQyQjhR?oc=5",
+      "description": "POCSO court hands life term till natural death to 65-year-old man for minor's rape in Dombivali &nbsp;&nbsp; DT Next",
+      "categories": [
+        "GST",
+        "Criminal Law"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "703fb5146c960fe2ab74",
+      "title": "J&K&L High Court Gives Two FCI Employees Last Chance To Save Jobs After Failing Mandatory Hindi Typing Test",
+      "source": "LiveLaw",
+      "published": "2026-11-10T13:55:18+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/food-corporation-employees-given-one-last-chance-to-save-jobs-after-being-denied-adequate-time-to-prepare-for-hindi-typing-test-jk-high-court-557919",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "c21c5bf644789f80ea97",
+      "title": "2423 Corruption Cases Pending Throughout TN: Madras High Court Asks State To Examine Setting Up Special Courts",
+      "source": "LiveLaw",
+      "published": "2026-11-10T13:35:46+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-corruption-cases-pending-state-setup-special-courts-558032",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
     {
       "id": "8173ea3426f1582a3191",
       "title": "Mental Health Centres To Be Renamed As 'Regional Institute For Happiness And Wellness': State Tells Kerala High Court",
@@ -358,19 +503,6 @@
       "priority": "General"
     },
     {
-      "id": "7dde9d29674408b29563",
-      "title": "Police Can't Restrict Licensed Bar Hotels' Operating Hours Merely Apprehending Drug Use: Kerala High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-10T07:31:32+00:00",
-      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-dj-party-police-notice-radisson-blu-hotel-557979",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
       "id": "fbe5b1b31098fbc1fd66",
       "title": "Supreme Court Directs WhatsApp And Other Intermediaries To Inform Measures To Prevent Digital Arrest Scam & Cybercrimes",
       "source": "LiveLaw",
@@ -714,19 +846,6 @@
         "High Courts"
       ],
       "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "182d42b9c71b8a6a4af6",
-      "title": "Shivamogga Consumer Commission Holds Railway Station Masters Liable For Deficiency Over Non-Availability Of Water In Train Washrooms",
-      "source": "LiveLaw",
-      "published": "2026-11-10T04:27:37+00:00",
-      "url": "https://www.livelaw.in/consumer-cases/shivamogga-consumer-commission-holds-railway-station-masters-liable-train-water-shortage-557955",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
       "priority": "General"
     },
     {
@@ -1318,6 +1437,19 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "63855766d68cc213b672",
+      "title": "09.11.2026: GST Refund Formula Changes May Expand Inverted Duty Refunds for Eligible MSME Manufacturers: FISME - Taxo Online",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-09T08:06:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRmlRUW5oel9wbzRNWXVweEFXLXN5LVNLLUxCcXJGaFYtZHZTRmVYYXBncFo2aWFnczQ2cmNELVZZcHJVUlBIcFU5MWUyZm1CUVN5eFJGeWFvRHA0TlZfVmtydWZXeGhER1ZZaFdzcGtuN1NWOTcxaG80QldGM2V1VHU4NVdBb2Iwd1IxdkoxeUZCXzFlc01tZUNidGhiME5YSHFPR3JyX0EtZHNOTi1ma29DZEgwNHNKMy0xVmstTlNmUFVTc2xITEpEX2hlUkFBazVWTVlhWnc?oc=5",
+      "description": "09.11.2026: GST Refund Formula Changes May Expand Inverted Duty Refunds for Eligible MSME Manufacturers: FISME &nbsp;&nbsp; Taxo Online",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -6552,139 +6684,6 @@
         "High Courts"
       ],
       "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "9fcb3d4891cb80848055",
-      "title": "CBIC Directs No Further GST Arrests, Bars Notices Below Rs. 10K And Restricts E-Way Bill Checks [READ INSTRUCTION] - Juris Hour",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T12:48:51+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVJ1OUJ0UG5teVI0Q2JkY0RJWnZtZGF2T1l4Z2ZMbDJWRG5hbUx6a2M2eWRRV0xMYUtPTVBnd2Z5U2lhMDNvMXdJTUdyMEQzQVlkbVhzNDRoWFF2a3J5ZkNMdlMwVFBSZFF4RkYxcF90WjNYVjFoZ1ZnZW9MNEhabFhNblZfN09n?oc=5",
-      "description": "CBIC Directs No Further GST Arrests, Bars Notices Below Rs. 10K And Restricts E-Way Bill Checks [READ INSTRUCTION] &nbsp;&nbsp; Juris Hour",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "4aec98c1e16193c88fd2",
-      "title": "Supreme Court Issues Notice On Manoj Jha's Plea Challenging Lifetime Immunity To CEC, Says No More Petition Be Filed",
-      "source": "LiveLaw",
-      "published": "2026-11-04T12:47:47+00:00",
-      "url": "https://www.livelaw.in/top-stories/supreme-court-issues-notice-on-manoj-jhas-plea-challenging-lifetime-immunity-to-cec-says-no-more-petition-be-filed-557344",
-      "description": "",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "c65894481b6082e5f43c",
-      "title": "Delhi High Court Protects Actress Kriti Sanon's Personality Rights Against AI Deepfakes, Impersonation",
-      "source": "LiveLaw",
-      "published": "2026-11-04T12:47:02+00:00",
-      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-protects-actress-kriti-sanons-personality-rights-against-ai-deepfakes-impersonation-557343",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "9e40afa6fa30266dd102",
-      "title": "'Disturbing' : Supreme Court Rebukes UP Govt For Detaining Man For 1.5 Months After Bail, Asks Why Compensation Be Not Ordered",
-      "source": "LiveLaw",
-      "published": "2026-11-04T12:42:59+00:00",
-      "url": "https://www.livelaw.in/top-stories/disturbing-supreme-court-rebukes-up-govt-for-detaining-man-for-15-months-after-bail-asks-why-compensation-be-not-ordered-557341",
-      "description": "",
-      "categories": [
-        "Criminal Law",
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "5fbea6a21890ce7bc38c",
-      "title": "GSTAT Quashes FY 2018-19 ITC Demand Under Section 16(2)(aa) - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T12:35:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd082dUZ3eHZmTjB4bjhmVjQtMzhaWkh2dWh2RThCcHAyc0lyZGtuZWRCUlF1N0Fvcl9DbnRJWVdZUVJBRV9sMHVUU2VKak5GNWxOby15RkplMHRNX28zX2kxbnEteEtualQ3d3NSQTFWbGZsdFdxYVJZcFJMU0cxajJGemRoRGllT2wwVEt2a0I2UjEtRGV3aEV2Z0NCb3hyR0VSaVJDMnAxLWx3LVl6NHNFd1I2dzZkYlhKaGh4OXd4dw?oc=5",
-      "description": "GSTAT Quashes FY 2018-19 ITC Demand Under Section 16(2)(aa) &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "8c2e7e5122edb62f5824",
-      "title": "'Encroachments Removed' : BMC Tells Supreme Court After Order Halting Mumbai Municipal Commissioner's Salary",
-      "source": "LiveLaw",
-      "published": "2026-11-04T12:33:38+00:00",
-      "url": "https://www.livelaw.in/top-stories/encroachments-removed-bmc-tells-supreme-court-after-order-halting-mumbai-municipal-commissioners-salary-557336",
-      "description": "",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "512aacdcb614cc538e46",
-      "title": "Allahabad High Court Takes Exception To Protesting Lawyers Blocking Courtroom Entry, Creating Noise Impeding Proceedings",
-      "source": "LiveLaw",
-      "published": "2026-11-04T12:20:01+00:00",
-      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-lawyers-blocking-courtroom-entry-bar-bench-tensions-557332",
-      "description": "HC said judicial proceedings cannot be allowed to remain 'paralyzed' on account of lawyers deliberately abstaining from their duties",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "a899bec03f252811bc5b",
-      "title": "Madras High Court Directs Passport Authorities To Process Application Of Rajiv Gandhi Assassination Convict",
-      "source": "LiveLaw",
-      "published": "2026-11-04T12:18:00+00:00",
-      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-passport-authorities-process-application-ag-perarivalan-557331",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "b65b582c398a9d8ac398",
-      "title": "Land Acquisition Does Not Confer Right To Public Employment: J&K&L High Court Strikes Down Land-Loser Appointment Policy As Unconstitutional",
-      "source": "LiveLaw",
-      "published": "2026-11-04T12:10:11+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/land-loser-policy-granting-employment-without-open-selection-violates-articles-14-and-16-acquisition-of-land-does-not-confer-indefeasible-right-to-public-employment-jk-high-court-557178",
-      "description": "",
-      "categories": [
-        "Corporate Law",
-        "High Courts"
-      ],
-      "importance_score": 57,
-      "priority": "Relevant"
-    },
-    {
-      "id": "cded0779b9c05f003d7f",
-      "title": "SC upholds 1974 ruling backing states’ power to levy additional sales tax - The New Indian Express",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T12:01:36+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYjFPWlQ1U2FJX1hqQ1BjN0JPN1FPakZ3OC0tQkVtVFBMMEhpWkd3X2tGRk9XYV9uQ0xYQVM1LXJCZlAxVDhsbWxwRVBxVWl0WnYtSzJfWU9DcDBDb0xMbkJjNmczS2YtaTlZYkJFei1yNlV4OWVXXzBSNE81VEtSSEYtczlSeDJtaF9pdkRXbGpVbFk2bVg3RGJ4anhtYmlMM05sOG1BZy03VXVyLXAxUUR0RmZpWEpCc2w4YlFFUWnSAc4BQVVfeXFMTVpNM0dPVlZQT2R4RlVJYzlrMlhRcnFUeWp4dnZWUzM5Y01ZUnRZQVRaUENacHhNX1NLRWFYTXBPTmJ1UUsyY3h4UmdxNVktZzNmY0pqcFl5bW1PcmpwTnluODJINGlsSGQ2MGUyenc5UU50SHN2RGN6TjEtQUs0MWQ1LS01RTdnbTZiRjBXQ0U2aDVHTUxLZlV2QllFTFJHN29zbXpFMXVaQXJnQjRtWnFPdnByV0JUYzVpeS1RNlh3VW1aVVhLeUYxSmptVUE?oc=5",
-      "description": "SC upholds 1974 ruling backing states’ power to levy additional sales tax &nbsp;&nbsp; The New Indian Express",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
       "priority": "General"
     }
   ]
