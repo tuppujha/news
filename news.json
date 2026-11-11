@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-10T20:52:40.824670+00:00",
+  "last_updated": "2026-11-11T01:17:32.593045+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
@@ -486,6 +486,19 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "9b567d019ac9b9fbb90f",
+      "title": "GST Enforcement Changes May Improve Predictability of Interstate Goods Movement, Supply Chain Reliability for MSMEs: FISME - KNN India",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-10T08:51:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEpRX19PX3M2UmhOajY4Wm53MGhsQWtVMHZYWnNpemJrSTNwbG5iM0NiN1BBa2NVZGN2U0VNa21uU2dVUmxJZG5CaUhrSG5hSnk1Z3hHYjBHUWFvS2NJV2NreGlYUjhKYWxtVGlINGVzMmZoU3l4MHk2N3FmNzY3M3ZoM3Rzblc5RjdJQ1QwSkVJb0piTExNcC1BblM1d3EzVFRmMVpFQUtqWUxPTjVTOE9EZzQ5N2ZiOHJqTkpQZGFQcHdRMmJYOHhNTkNGbEdoR0l5Z1dmdHFiOWR6TFUtN21TUUN0NFg3SkZFNk45TkJhVnRpemxpVw?oc=5",
+      "description": "GST Enforcement Changes May Improve Predictability of Interstate Goods Movement, Supply Chain Reliability for MSMEs: FISME &nbsp;&nbsp; KNN India",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -6668,19 +6681,6 @@
       "description": "",
       "categories": [
         "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "6f08cc0d51f7a03ed579",
-      "title": "State Consumer Commission's Pecuniary Jurisdiction Unlimited For Pre-2019 Cases: J&K&L High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-04T13:00:47+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/legislative-anomaly-cannot-render-claimants-remediless-state-commissions-pecuniary-jurisdiction-unlimited-for-pre-2019-consumer-cases-jk-high-court-557325",
-      "description": "",
-      "categories": [
         "High Courts"
       ],
       "importance_score": 32,
