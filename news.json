@@ -1,9 +1,720 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-11T01:17:32.593045+00:00",
+  "last_updated": "2026-11-11T09:30:47.084571+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "c2dd858b6cc164011151",
+      "title": "'Reasonable Accommodation Mandatory': Jharkhand High Court Directs Appointment Of PwD Candidate Who Missed Cut-Off By 3 Seconds",
+      "source": "LiveLaw",
+      "published": "2026-11-11T09:25:20+00:00",
+      "url": "https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-directs-appointment-pwd-candidate-missed-running-test-558009",
+      "description": "",
+      "categories": [
+        "High Courts",
+        "Jharkhand"
+      ],
+      "importance_score": 52,
+      "priority": "Relevant"
+    },
+    {
+      "id": "dc1f2f3681ef021e29a8",
+      "title": "Punjab & Haryana High Court Grants Bail To NDPS Accused After Police Wrongly Attributed 7 Criminal Cases To Him",
+      "source": "LiveLaw",
+      "published": "2026-11-11T09:15:49+00:00",
+      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-grants-bail-directs-to-circulate-instructions-to-police-bail-rejected-over-fals-558094",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "41b372d3229f51d3ee92",
+      "title": "Public Discussion On Darjeeling-Sikkim Unification Doesn't Amount To Promoting Enmity: Sikkim High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-11T08:45:15+00:00",
+      "url": "https://www.livelaw.in/high-court/sikkim-high-court/sikkim-high-court-quashes-fir-gorkha-seva-sena-members-darjeeling-sikkim-unification-consultation-558092",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "4491ca0034e3de3d539a",
+      "title": "Divorce Can't Be Granted On Grounds Of Adultery Or Desertion When Plea Is Based Only On Cruelty: Telangana High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-11T08:31:14+00:00",
+      "url": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-upholds-denial-divorce-husband-failed-prove-cruelty-allegations-558089",
+      "description": "",
+      "categories": [
+        "Family Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "454ed298a317f70012ea",
+      "title": "Tripura High Court Rejects ED's Plea To Lift Stay On Provisional Attachment Proceedings Against Suspended IAS Officer",
+      "source": "LiveLaw",
+      "published": "2026-11-11T08:15:12+00:00",
+      "url": "https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-refuses-vacate-stay-ed-provisional-attachment-proceedings-558091",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "24d7748f49f6e15814b6",
+      "title": "AI-Generated Marksheet Produced Before Court? Allahabad High Court Orders Police Probe, Says It Tarnishes Dignity Of Institution",
+      "source": "LiveLaw",
+      "published": "2026-11-11T08:01:54+00:00",
+      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-ai-generated-marksheet-produced-before-court-police-probe-558093",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "34b41894013aded89c9b",
+      "title": "'Replying To Show-Cause Notice That Does Not Mention Proposed Debarment Cannot Amount To Waiver Of Natural Justice': Jharkhand High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-11T08:01:10+00:00",
+      "url": "https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-replying-show-cause-notice-mention-proposed-debarment-558010",
+      "description": "",
+      "categories": [
+        "High Courts",
+        "Jharkhand"
+      ],
+      "importance_score": 52,
+      "priority": "Relevant"
+    },
+    {
+      "id": "0d83224f5c1e6474769f",
+      "title": "Bombay HC Orders Transfer of ₹7.65 Cr GST to IGST Head - Taxscan",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-11T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOGdFX2RKeWhwTFZBNExYQU5lTDlXLXp0d0NuTnFVZjd1V3BlOHQ0OFFCNEN3TzlYMTFDQWJac05VUW5BN2VyUnpBemRwUzlWbm9OX091aU03ZExhUU9ZYm9Pd2ZINnptSjU4V2NIVzZONlNkZ295V1NubmtXdFFXQUZwbUM4MmsxX2FGLThydm5UTjctYmFmOVJWZGhzYkJBSk51YXAzcXNkSHFkTmI3S21wX29GRllWdGxHaFVWeXpoZ1FmNWNjVjVUZlVpTGVIMjhvNThUZDFldw?oc=5",
+      "description": "Bombay HC Orders Transfer of ₹7.65 Cr GST to IGST Head &nbsp;&nbsp; Taxscan",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "62c21a8091ce3cf31787",
+      "title": "FISME Says Proposed GST Safeguard May Help MSMEs Resolve ITC Disputes, Ease Cash Flow Stress - KNN India",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-11T07:54:49+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0ZBQjNuTUJJb0RDcmN0V2RadWNpb19UUlZ6NkFSd1kydUxWTVRpN1J4azNQbFVkd2Q0TERiajJaWWpuOHVlbjI2bDZrSlBMUllnaFAyTUtXUWV1V0E0TUkzN1dXUkxFLW9oR05PTGRvdEtrOVJWVFdUN2pVSjVSTjNVTG4xQUl5ZGVwbFB6bVpWbUVjbVdwNURsbkxYRGtFZEhWLXllUkhVQmF2VWtuZUR5THdkUDZGLWNJUmJLS0lVME9RYXJ5aUpSTXZ2b29CUUE?oc=5",
+      "description": "FISME Says Proposed GST Safeguard May Help MSMEs Resolve ITC Disputes, Ease Cash Flow Stress &nbsp;&nbsp; KNN India",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "b929751e113f8e173508",
+      "title": "Jindal Steel Receives GST Order on Alleged Excess Input Tax Credit - PSU Connect",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-11T07:45:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjNfVWJLenJGdTFEWTBtbHF2a0MweG1CVzhvVFU3eVR0MWJtMjcyVXllS2NQNWdCTllHeXdCSVM1Nm9meGJpeUlfNkJ2dmhncnRJc1RhV05lRzd2ZHg2cnpWZXF4dE1rRDB1emh6UW5KbG1fSVVqQjVvdzBNRjBIcXBLUlBfamd5RDdJMFNOVkNydWRXQ2NLWDhlb1BUbVg3Z3BUWGlPTnltOW8?oc=5",
+      "description": "Jindal Steel Receives GST Order on Alleged Excess Input Tax Credit &nbsp;&nbsp; PSU Connect",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "0552325326be638e428a",
+      "title": "Veeramani's Daughter Moves Madras High Court Alleging Illegal Detention, Human Rights Violations By SIT",
+      "source": "LiveLaw",
+      "published": "2026-11-11T07:40:02+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-veeramani-pocso-case-sit-respond-daughter-plea-human-right-violation-558090",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "21eb8dcf67f7c3a294c7",
+      "title": "P&H High Court Frames 'Root Of Eligibility Test' To Protect Eligible Candidates From Rejection Over Application Errors",
+      "source": "LiveLaw",
+      "published": "2026-11-11T07:16:06+00:00",
+      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/ph-high-court-frames-root-of-eligibility-test-to-protect-eligible-candidates-from-rejection-over-application-errors-558078",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "99d141966aa579fea9c2",
+      "title": "LiveLaw Andhra Pradesh High Court Weekly Round-Up: November 2 - November 8, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-11T07:10:46+00:00",
+      "url": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-weekly-roundup-558087",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "5f11f67029cb462d0ba9",
+      "title": "Supreme Court Monthly Roundup: September 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-11T07:09:50+00:00",
+      "url": "https://www.livelaw.in/round-ups/monthly/supreme-court-monthly-roundup-september-2026-558085",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "293407ed3abcc14cf855",
+      "title": "Mere Request For Time To Produce Documents Not Admission Of Illegal Construction: Calcutta High Court Sets Aside Demolition Order",
+      "source": "LiveLaw",
+      "published": "2026-11-11T07:00:34+00:00",
+      "url": "https://www.livelaw.in/high-court/calcutta-high-court/mere-request-for-time-to-produce-documents-not-admission-of-illegal-construction-calcutta-high-court-sets-aside-demolition-order-558074",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 47,
+      "priority": "Relevant"
+    },
+    {
+      "id": "72029c385cba21acd450",
+      "title": "Spouse Can't Be Forced To Proceed With Mutual Divorce After Withdrawing Consent: Delhi High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-11T07:00:34+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/spouse-cant-be-forced-to-proceed-with-mutual-divorce-after-withdrawing-consent-delhi-high-court-558062",
+      "description": "",
+      "categories": [
+        "Family Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "088e45ec8994b0a6743f",
+      "title": "Petitioner Threatens Opposing Counsel To Withdraw Written Submissions; Allahabad High Court Dismisses Plea With ₹1 Lakh Costs",
+      "source": "LiveLaw",
+      "published": "2026-11-11T06:59:44+00:00",
+      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-petitioner-threatens-opposing-counsel-1-lakh-costs-558081",
+      "description": "A litigant cannot make contact with the counsel for rival party, HC said.",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "a41a605726dd02bc86be",
+      "title": "GSTAT Thiruvananthapuram: Penalty Can't Be Imposed Solely for Wrong GSTIN in Delivery Challan - SAG Infotech Official Tax Blog",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-11T06:57:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVJFR19vaTR6M04yUW40b3VsUzlHa1VVT0VUdTRvX3VVU2JJcE5FMVNUOFAxLXNPbzhDbEhfelNFMnZQTUxOZ1duUzEyb000dGZIN011OXFjT0o2UXQ3dVdzUnRhcUViZFlFYno3UjBodmtiSHBaUmQ5bWVRRHZ5N24xbS1iVEo5SjlqZTdoc0tWTWEwVEVnNGlVMElBWS03YUROeUl3?oc=5",
+      "description": "GSTAT Thiruvananthapuram: Penalty Can't Be Imposed Solely for Wrong GSTIN in Delivery Challan &nbsp;&nbsp; SAG Infotech Official Tax Blog",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "359c2e4afb264fa4385d",
+      "title": "'Adult Woman Free To Choose Life Partner Without Pressure': Bombay High Court On Inter-Faith Marriage",
+      "source": "LiveLaw",
+      "published": "2026-11-11T06:31:01+00:00",
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/adult-woman-free-to-choose-life-partner-without-pressure-bombay-high-court-on-inter-faith-marriage-558061",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "ec9c2e7a21018a23a88c",
+      "title": "Bribe Giver Is An Interested Witness, Not An Accomplice; Conviction Can Be Based On His Testimony: J&K&L High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-11T06:20:30+00:00",
+      "url": "https://www.livelaw.in/high-court/jammu-kashmir/bribe-giver-is-an-interested-witness-and-not-an-accomplice-or-partner-in-crime-conviction-can-be-based-on-his-testimony-if-found-reliable-jk-high-court-558014",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "c0d81a7050f989fb0123",
+      "title": "'Mere Status As Owner Doesn't Establish Criminal Culpability': MP High Court Grants Bail In Dewas Firecracker Blast Case",
+      "source": "LiveLaw",
+      "published": "2026-11-11T06:15:59+00:00",
+      "url": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-grants-bail-to-men-in-firecracker-unit-blast-case-558059",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "59c823d301c2a523fcaa",
+      "title": "Chennai Court Denies Bail To Former Minister Anbil Mahesh In Corruption Case, Says Materials Prima Facie Show His Involvement",
+      "source": "LiveLaw",
+      "published": "2026-11-11T06:14:24+00:00",
+      "url": "https://www.livelaw.in/news-updates/chennai-court-anbil-mahesh-bail-denied-prima-facie-involvement-558077",
+      "description": "",
+      "categories": [
+        "Criminal Law"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "18160c61c622ea904974",
+      "title": "Delhi High Court Directs MCD To Prevent Recurrence Of Footpath Encroachments, Closes 10-Year-Old Contempt Case",
+      "source": "LiveLaw",
+      "published": "2026-11-11T06:00:27+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-directs-mcd-to-prevent-recurrence-of-footpath-encroachments-closes-10-year-old-contempt-case-558053",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "c9f47e038940bbe96a18",
+      "title": "Tamil Nadu Govt Working On SOP For Police Action Over Social Media Posts, Political Speeches: Madras High Court Told",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:52:50+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-plea-uniform-police-safeguard-political-criticism-reply-sought-558076",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "5898191f4075b267ce0f",
+      "title": "Telangana High Court Refuses To Quash Water Pollution Case Against Meat Exporter Over Alleged Improper Disposal Of Animal Waste",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:45:56+00:00",
+      "url": "https://www.livelaw.in/high-court/telangana-high-court/telangana-high-court-refuses-quash-proceedings-improper-disposal-animal-waste-around-meat-processing-unit-558057",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "def112eb7f7d274bb93a",
+      "title": "Calcutta High Court Dismisses APDR Plea Seeking Probe Into Demolition Of Temporary Book Stall Erected Without Permission",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:40:53+00:00",
+      "url": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-dismisses-apdr-plea-seeking-probe-into-demolition-of-temporary-book-stall-erected-without-permission-558073",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "f97ca0d405593c31c942",
+      "title": "Calcutta High Court Disposes Of Wife's Plea Challenging Arrest, Detention Of YouTuber Dipak Bepari In Three Criminal Cases",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:33:24+00:00",
+      "url": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-disposes-of-wifes-plea-challenging-arrest-detention-of-youtuber-dipak-bepari-in-three-criminal-cases-558071",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "88e6a74e4979dd92b518",
+      "title": "Delhi High Court Seeks Timeline To Fill Vacancies In Child Rights Commission, Flags Overcrowding In Observation Homes",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:30:54+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-seeks-timeline-to-fill-vacancies-in-child-rights-commission-flags-overcrowding-in-observation-homes-558051",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "570ad97946d85bb99ce7",
+      "title": "Jharkhand HC directs payment of ₹27.44 lakh admitted GST dues for restoration of cancelled GST registration - SCC Online",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-11T05:30:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGU4a3ozUGY4M0Q0ZG9XTGxkeDF1NFFndWJaNHVqWlBPVnBUZHBuNFFwVTFhV1VjNFFyU0tfWHdIMjctQk8yTWxtSkgxWjNRbDByU3lIRGpVbHR3N3RkZVNOWDBnNGFNNlVIOFdqakdHS1k2QmI1bl9VdEExZnc5Si1veHQ4RWVhVkxPc1otTXBPaEFrbE1Rb2RKMU9KUQ?oc=5",
+      "description": "Jharkhand HC directs payment of ₹27.44 lakh admitted GST dues for restoration of cancelled GST registration &nbsp;&nbsp; SCC Online",
+      "categories": [
+        "GST",
+        "Jharkhand"
+      ],
+      "importance_score": 50,
+      "priority": "Relevant"
+    },
+    {
+      "id": "ac464c809f6a35cea3be",
+      "title": "'Internet Wolves Operating In Packs': Delhi High Court Denies Anticipatory Bail To Man Accused Of ₹1 Crore Cyber Fraud",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:15:52+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/internet-wolves-operating-in-packs-delhi-high-court-denies-anticipatory-bail-to-man-accused-of-1-crore-cyber-fraud-558049",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "a03d43c5e7a7259fbb42",
+      "title": "2026 LiveLaw (SC) 1150 | Sai Maghalakshmi Traders & Ors. v M/s Sri Lakshmi Srinivasa Agro Foods & Anr",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:12:24+00:00",
+      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1150-sai-maghalakshmi-traders-ors-v-ms-sri-lakshmi-srinivasa-agro-foods-anr-558070",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "e59594aef4e3b5ce0f67",
+      "title": "Calcutta High Court Declines Urgent Hearing On TMC's Plea Seeking De-Sealing Of Camac Street Office",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:11:36+00:00",
+      "url": "https://www.livelaw.in/high-court/calcutta-high-court/calcutta-high-court-declines-urgent-hearing-on-tmcs-plea-seeking-de-sealing-of-camac-street-office-matter-listed-on-november-23-558069",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "9590cbedfdc931e13fa1",
+      "title": "Perception That One High Court Is Better For A Particular Dispute Is Misguided : Supreme Court Transfers IP Suit From Delhi To Madras",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:11:25+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-transfers-commercial-suit-from-delhi-high-court-to-madras-high-court-558068",
+      "description": "\"The mere existence of territorial jurisdiction in various courts cannot on its own become justification for forum shopping and cannot result in the perpetuation of notions of a hierarchy among the High Courts of this country.\"",
+      "categories": [
+        "Supreme Court",
+        "High Courts"
+      ],
+      "importance_score": 57,
+      "priority": "Relevant"
+    },
+    {
+      "id": "29a1758846747c49af6a",
+      "title": "'Compounding Of Companies Act Offence Extinguishes Foundation Of Criminal Prosecution': Patna High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:07:57+00:00",
+      "url": "https://www.livelaw.in/high-court/patna-high-court/patna-high-court-compounding-companies-act-offence-extinguishes-foundation-criminal-prosecution-557921",
+      "description": "",
+      "categories": [
+        "Corporate Law",
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "9c1a006e615cd20d99fb",
+      "title": "Delhi High Court Flags Trend Of Disgruntled Litigants Casting Aspersions On Judges When Orders Go Against Them",
+      "source": "LiveLaw",
+      "published": "2026-11-11T05:00:21+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-flags-trend-of-disgruntled-litigants-casting-aspersions-on-judges-when-orders-go-against-them-558050",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "3fe600ceece014bf052f",
+      "title": "GSTAT Allows IGST Refund on Ocean Freight to Non-Litigants as Mohit Minerals Operates Retrospectively - A2Z Taxcorp LLP",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-11T04:50:23+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUUFBNXZ1c0xIV24wQUM1b2dSUzNRTzczcXBQLXlMaWdSNmdFcDF1N3FlZ0FHMGRfc0ZVOTItczZYQnF6a1FBSENLY1BkVU1tWkVhYlhjN1J3dXNLTVI4STRmMGMyS2RPZkMyUklMbmVlVkxraUl6UjB5NU44d0R0dVkxODRQZ3dnYmMzVnlCY3pkcm84aWUzdTBnN0hidVpYVEViSWg4YzI1Sm91UXMyei0wVlVsUnBFaTBlRmxxUkV0T00?oc=5",
+      "description": "GSTAT Allows IGST Refund on Ocean Freight to Non-Litigants as Mohit Minerals Operates Retrospectively &nbsp;&nbsp; A2Z Taxcorp LLP",
+      "categories": [
+        "GST",
+        "Environmental & Mining",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "5e42d62f852211339655",
+      "title": "Steno/ Typist Vacancy At District Legal Services Authority, Vikarabad",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:46:20+00:00",
+      "url": "https://www.livelaw.in/job-updates/steno-typist-vacancy-at-district-legal-services-authority-vikarabad-558066",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "836b91f7b489271b9ff5",
+      "title": "Child's Welfare Overrides Mother's Preferential Custody Right: P&H High Court Rejects Habeas Corpus Plea For 2-Year-Old Staying With Father",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:46:19+00:00",
+      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-declines-habeas-corpus-for-2-year-old-staying-with-father-558055",
+      "description": "",
+      "categories": [
+        "Family Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "3d5d2cad532f57db7432",
+      "title": "AI-Generated Books For Public Libraries? Madras High Court Directs DVAC To Register FIR, Directs Freezing Of Publishers' Bank Accounts",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:46:16+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-book-procurement-scam-dvac-directed-register-fir-freeze-bank-account-558026",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "f95cf480490d9944dbf3",
+      "title": "Research Associate (Criminal Law) Vacancy At National Law University, Delhi",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:45:07+00:00",
+      "url": "https://www.livelaw.in/job-updates/research-associate-criminal-law-vacancy-at-national-law-university-delhi-558065",
+      "description": "",
+      "categories": [
+        "Criminal Law"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "cdf2486883d03eec3f59",
+      "title": "Assistant Manager (Data Privacy) Vacancy At Deloitte Touche Tohmatsu India LLP",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:43:27+00:00",
+      "url": "https://www.livelaw.in/job-updates/assistant-manager-data-privacy-vacancy-at-deloitte-touche-tohmatsu-india-llp-558064",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "a80b158c483b91e5e8c4",
+      "title": "Associate Corporate Counsel Vacancy At Amazon Healthcare Services Private Limited",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:42:39+00:00",
+      "url": "https://www.livelaw.in/job-updates/associate-corporate-counsel-vacancy-at-amazon-healthcare-services-private-limited-558063",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "e6beccade18cdbc14de8",
+      "title": "Sabarimala Gold Theft: SIT Seeks Sanction To Prosecute Accused Officials, Kerala High Court Calls For Expeditious Action",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:34:39+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-sabarimala-gold-theft-final-report-prosecution-sanction-558052",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "328eb448d846e7625341",
+      "title": "Vehicle Washed Away In Floods: J&K State Commission Directs National Insurance To Pay ₹7.85 Lakh",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:33:23+00:00",
+      "url": "https://www.livelaw.in/consumer-cases/vehicle-washed-away-in-floods-jk-state-commission-directs-national-insurance-to-pay-785-lakh-558060",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "3e347df4c8355a234903",
+      "title": "LiveLaw Kerala High Court Monthly Digest: October, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:30:47+00:00",
+      "url": "https://www.livelaw.in/high-court/kerala-high-court/livelaw-kerala-high-court-monthly-digest-october-2026-557616",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "33ce62e34853cec32e60",
+      "title": "Written Down Or Left Out: Biodiversity Amendment And Northeast's Oral Knowledge",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:30:47+00:00",
+      "url": "https://www.livelaw.in/articles/written-down-left-out-biodiversity-amendment-northeast-oral-knowledge-558034",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "4d5f0e337e562f866137",
+      "title": "Aadhaar Card Not Conclusive Proof Of Age, Postmortem Report More Reliable: MP High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:16:15+00:00",
+      "url": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-age-reported-in-postmortem-report-more-valid-than-aadhaar-558056",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "5c623e732ea3109e788e",
+      "title": "MCD & Police Must Ensure Chandni Chowk Remains Free Of Encroachments, Accessible To Pedestrians: Delhi High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-11T04:00:13+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/mcd-police-ensure-chandni-chowk-encroachment-free-accessible-to-pedestrians-558047",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "e8a5af7a415f6dcf0b8e",
+      "title": "Himachal Pradesh High Court: Post-Omission SCNs under Rule 96(10) Are Non-Est Absent Saving Clause - CAclubindia",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-11T03:33:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbUkxZVdJMmloQmdGcG1OREJ3X3gtaUJRNUM1SzQ0UGdhRE5YdnB1Q2VyRl9sT3ZtU29hS3JlaGVMOWttbnk5MXRPSk9ZYlpuaWpIVTVnaU5xRHJYQzBlQ2hNNVhFMi1WQURnQTVDWnhuNGkyTHlHckFuNjZGVHhwYUZGeHltRElyTUJmUEZxdUhrM2xzQ1Z4OWxnVTdFaFVPQWpMWEs2NHpBb1o5MFdMQ19ULV9FTnA1VGlPRG04STVfenZOT28ybk83dTdxTVpUbm9jX245Yw?oc=5",
+      "description": "Himachal Pradesh High Court: Post-Omission SCNs under Rule 96(10) Are Non-Est Absent Saving Clause &nbsp;&nbsp; CAclubindia",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "494182faaab0ed090620",
+      "title": "Delhi High Court Dismisses Plea Seeking Rules To Address Misconduct By Airlines Staff",
+      "source": "LiveLaw",
+      "published": "2026-11-11T03:30:09+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-dismisses-plea-seeking-rules-to-address-misconduct-by-airlines-staff-558046",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "e4a2b4b88cd02168b27d",
+      "title": "PAN Card And Voter ID Alone Cannot Prove Indian Citizenship Without Supporting Records : Gauhati High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-11T03:16:52+00:00",
+      "url": "https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-pan-card-voter-id-cannot-prove-indian-citizenship-supporting-records-558039",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "6d160e20522aefdb0d7e",
+      "title": "Federal Footprints Lead To Which Magistrate? A Critical Analysis of Sabena Prakash v. State of Andhra Pradesh",
+      "source": "LiveLaw",
+      "published": "2026-11-11T03:11:40+00:00",
+      "url": "https://www.livelaw.in/articles/andhra-pradesh-high-court-sabena-prakash-interstate-arrest-transit-remand-nearest-magistrate-558054",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "c98c9df4c9b659694457",
+      "title": "Delhi High Court Restrains US Copyright Suit Against TV Today Network Over Weather Footage In News Reports",
+      "source": "LiveLaw",
+      "published": "2026-11-11T02:30:33+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-restrains-us-copyright-suit-against-tv-today-network-over-weather-footage-in-news-reports-558048",
+      "description": "The US Suit is prima facie vexatious and oppressive, Court said.",
+      "categories": [
+        "Intellectual Property",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
     {
       "id": "32e9f8328d33dd15fbe3",
       "title": "LiveLaw High Courts Daily Highlights: November 10, 2026",
@@ -82,19 +793,6 @@
       ],
       "importance_score": 45,
       "priority": "Relevant"
-    },
-    {
-      "id": "e4a2b4b88cd02168b27d",
-      "title": "PAN Card And Voter ID Alone Cannot Prove Indian Citizenship Without Supporting Records : Gauhati High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-10T15:03:22+00:00",
-      "url": "https://www.livelaw.in/high-court/gauhati-high-court/gauhati-high-court-pan-card-voter-id-cannot-prove-indian-citizenship-supporting-records-558039",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
     },
     {
       "id": "c4afffc355213e7fca70",
@@ -188,35 +886,6 @@
         "High Courts"
       ],
       "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "3d5d2cad532f57db7432",
-      "title": "AI-Generated Books For Public Libraries? Madras High Court Directs DVAC To Register FIR, Directs Freezing Of Publishers' Bank Accounts",
-      "source": "LiveLaw",
-      "published": "2026-11-10T13:01:19+00:00",
-      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-book-procurement-scam-dvac-directed-register-fir-freeze-bank-account-558026",
-      "description": "",
-      "categories": [
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "29a1758846747c49af6a",
-      "title": "'Compounding Of Companies Act Offence Extinguishes Foundation Of Criminal Prosecution': Patna High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-10T12:55:41+00:00",
-      "url": "https://www.livelaw.in/high-court/patna-high-court/patna-high-court-compounding-companies-act-offence-extinguishes-foundation-criminal-prosecution-557921",
-      "description": "",
-      "categories": [
-        "Corporate Law",
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 42,
       "priority": "General"
     },
     {
@@ -6012,675 +6681,6 @@
       "url": "https://www.livelaw.in/high-court/jammu-kashmir/non-implementation-of-firefighting-policy-puts-general-public-at-risk-jk-high-court-seeks-category-wise-data-on-fire-stations-557420",
       "description": "",
       "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "6e964e94cd9c325469c6",
-      "title": "Delhi Court Directs Police To Give 7 Days' Notice Before Arresting Congress MP Bimol Akoijam",
-      "source": "LiveLaw",
-      "published": "2026-11-05T06:10:35+00:00",
-      "url": "https://www.livelaw.in/news-updates/delhi-court-directs-police-7days-notice-arresting-congress-mp-bimol-akoijam-557417",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "17f663deac02b61515df",
-      "title": "Law Commission Of India Signs MoU With IIT Kharagpur Law School For Legal Reform Research",
-      "source": "LiveLaw",
-      "published": "2026-11-05T06:06:45+00:00",
-      "url": "https://www.livelaw.in/lawschool/news/law-commission-of-india-signs-mou-with-iit-kharagpur-law-school-for-legal-reform-research-557416",
-      "description": "Representatives of the Law Commission of India and RGSoIPL, IIT Kharagpur, at the signing of the MoU in New Delhi",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "2ccdd0863e211ee1b55b",
-      "title": "Riding Motorcycle Without Number Plate Is Not Cheating Under BNS: Karnataka High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-05T05:51:30+00:00",
-      "url": "https://www.livelaw.in/high-court/karnataka-high-court/riding-motorcycle-without-number-plate-not-cheating-557414",
-      "description": "",
-      "categories": [
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "a893e6dc72e5d4016632",
-      "title": "NLU Delhi's Centre For Corporate Law, Governance And Financial Laws Invites Submissions For CCLGFL Blog",
-      "source": "LiveLaw",
-      "published": "2026-11-05T05:50:43+00:00",
-      "url": "https://www.livelaw.in/lawschool/call-for-papers/nlu-delhis-centre-corporate-law-governance-financial-laws-invites-submissions-cclgfl-blog-557412",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "b829395ba5f4add8892e",
-      "title": "Madras High Court Orders Relocation Of EV Ramasamy's Statue From Temple Land To Some Other Suitable Place",
-      "source": "LiveLaw",
-      "published": "2026-11-05T05:43:02+00:00",
-      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-ev-ramasamy-statue-relocate-temple-land-to-other-place-557410",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "9d100eb744d4eaf47628",
-      "title": "NDPS Act | Being A Police Officer Doesn't Establish Authority To Conduct Search & Seizure: Rajasthan High Court Upholds Acquittal",
-      "source": "LiveLaw",
-      "published": "2026-11-05T05:30:27+00:00",
-      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-police-officer-membership-police-establishment-establish-authority-557386",
-      "description": "",
-      "categories": [
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "8241aad5b9fb505f4df9",
-      "title": "OPINION | When the system can see GST invoices, arrest powers must go - Moneycontrol.com",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-05T05:21:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSF9ZRlVKYnlLUnpKNFMzMEw3cV91VXpXRFM1emh4X0lEMGhZRnhDemd2dlZhWGhNRVVLTDFFS3VRcUVCV1NmdmZzOWg4N0hmeDdySG1ackN0SVpvazlWSk5MU0Qtb2hiZ0xDSWgtT1NzY1RsRVZRUVBuOHhPRTU0YmMxYWxlcE4wNkRqNjREMVY1X3JRMnoya0JaZlhPRTVNazgxMjFrSEpVRUx3Vl9UOHhocEhNYlNXeWfSAb8BQVVfeXFMTk1Xdi1mUVhkWVFld0RDVDZNM2dBbHBJdUpfTEMtdjJHUlNQS05uQ042TVpLaUxCV3BKeGFhZ2FNMU8zZEtUMEJNMXA1V29PTi14ajRYSVhnQ08yZEtIVXpVWnI2VkpYWXNtRmRuOGgxZ0dBeklmUms5b056X2R0LUJ4bWdzcXFPZkE1Z080aVBydUhMM0xHQXdhQTdnUENyMjNhbWdIbzZBbGR4cm5NVUR1VGNwckl0elR0OTcxVmM?oc=5",
-      "description": "OPINION | When the system can see GST invoices, arrest powers must go &nbsp;&nbsp; Moneycontrol.com",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "f305c5097a804b93a1db",
-      "title": "Property Bought Before Alleged Money Laundering Offence Not Immune From Provisional Attachment Under PMLA: Karnataka High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-05T05:11:25+00:00",
-      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-pmla-property-shielded-provisional-attachment-557407",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "6ecdea76edc89ad6c109",
-      "title": "GST Interest Recovery After Time-Barred Assessment Set Aside: MP High Court - Juris Hour",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-05T05:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iUDQ0d2F5ODBic1FuM0RUU2tTTU5lbDdoOTlQQXF5a0d4LU1ETWljWFZZQy1kVUFoeWZQZ19uUGctS3RTaVhIQkZzZFEtaDhrb245bm1obmQ1YnJFX3Boay1xUFBpMjFkZVI1N0h5Q29reGFiM1V5ZnJFajN5bU0?oc=5",
-      "description": "GST Interest Recovery After Time-Barred Assessment Set Aside: MP High Court &nbsp;&nbsp; Juris Hour",
-      "categories": [
-        "GST",
-        "High Courts"
-      ],
-      "importance_score": 42,
-      "priority": "General"
-    },
-    {
-      "id": "c4839c7fb54f866b66da",
-      "title": "2026 LiveLaw (SC) 1133 | SUSHILA TRIPATHI VERSUS STATE OF MADHYA PRADESH & ANR.",
-      "source": "LiveLaw",
-      "published": "2026-11-05T04:43:21+00:00",
-      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1133-sushila-tripathi-versus-state-of-madhya-pradesh-anr-557406",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "cf5187af75a657227a54",
-      "title": "In Freedom Fighters' Pension Claims, Authorities Must Take Practical Approach; Don't Insist On Strict Proof : Supreme Court",
-      "source": "LiveLaw",
-      "published": "2026-11-05T04:41:33+00:00",
-      "url": "https://www.livelaw.in/supreme-court/in-freedom-fighters-pension-claims-authorities-must-take-practical-approach-dont-insist-on-strict-proof-supreme-court-557404",
-      "description": "The claimants, who are old, cannot be expected to produce half-century old documents, the Court stated.",
-      "categories": [
-        "Service Law",
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "62def835bb3cb22f0c8c",
-      "title": "GST Hearing Notices Sent To Wrong Email? Disputed Service Must Be Examined In Statutory Appeal: Delhi High Court - Juris Hour",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-05T04:30:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MRXpaRXVuOWpiYWFBMDBnYzhVWnBlZ3IwQ2k2OFo2QzNBWlJSNEtiVE43d2U4Mi15S29TQmFmNmZ0QVRaWHE2dy1HMEZMS2hKOTZoeFdYdy12UzVkTXZMY3hNa2xMbmdQcldRTm9STjZlSDVIXzAwOA?oc=5",
-      "description": "GST Hearing Notices Sent To Wrong Email? Disputed Service Must Be Examined In Statutory Appeal: Delhi High Court &nbsp;&nbsp; Juris Hour",
-      "categories": [
-        "GST",
-        "High Courts"
-      ],
-      "importance_score": 42,
-      "priority": "General"
-    },
-    {
-      "id": "ee942200b8e58b6c859e",
-      "title": "GSTAT: ITC Eligibility Must Be Verified from Original Record - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-05T04:02:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaW1KZ1hnMWJROXU3Z0tYeVhJMDQxeWxMQl83VEx3MUdVdERtTzFaTHdia3Bob2hKaElWbTIxRzBRS0M4QmJzSGdPQ3pWU0RhTTFjbUROaTNhXzRTVGt1OTMxcko2Mk9FX0NBT2FwbUxzSS11aW9NTDZfSUVsZnBqVFBUcnBDZ0RFaFFvWTg4c2w3cFhFY1FLa0tfaGl2cTVYQlZHUjBRZ01qdWZEZ3RBS3BJWEZMaWkzXzVBSGNtREVYMWZMbEYyWXdqUmFKNmYtOEJuZGtkdzNBYWxW?oc=5",
-      "description": "GSTAT: ITC Eligibility Must Be Verified from Original Record &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "9afd0a5419da6ded462d",
-      "title": "Non-Furnishing of E-Way Bill Part-B for Local Movement Within 50 KM Cannot Attract GST Penalty: GSTAT - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-05T04:02:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWTJsZHphYVJVT21sRThsQUdTZzZQVnJZajhQbG1pUUJ2YWxhUG5PeWdRdU5zajc4al81cVEwSFBIQ2x2N1QzVzRtUE5UeDh0SmVFWWlUTGNpOU53Rm4zeEFKZjVDTTNtV21jTGgtNmlUa1JuZDQwVVFPdUR1aFFmbVowNi1PSXprT3c1aVVzdWV2N2ZrM2hvOS1pQThrSkJyamZsenhmd240VnM1aHlSU2FnTXJjOG11QzJwYW5NX2h6eTVQTVE?oc=5",
-      "description": "Non-Furnishing of E-Way Bill Part-B for Local Movement Within 50 KM Cannot Attract GST Penalty: GSTAT &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "1ada4484e8cb4ea6f094",
-      "title": "Common GST SCN Not Defective Merely Because It Covers Multiple Noticees: Delhi High Court - Juris Hour",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-05T04:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnROcnBHOWdSa0hDSDZoTW14Tm1WSnJJVWNUUm00ODJpWXlFSlcyNmRScnRhWVA0TkNPU2liUE1zdUIzUF9CeFpfVzh1WEtTYlI2R1UyWmJvRXVoOUsyNXRlSFVMdXcweFBac1hZVjFXempjUEpfRWpfaUVPX2JqRGlB?oc=5",
-      "description": "Common GST SCN Not Defective Merely Because It Covers Multiple Noticees: Delhi High Court &nbsp;&nbsp; Juris Hour",
-      "categories": [
-        "GST",
-        "High Courts"
-      ],
-      "importance_score": 42,
-      "priority": "General"
-    },
-    {
-      "id": "62462d1c3ee78ed9c892",
-      "title": "Caution: Last Month to avail GST ITC of FY 2025-2026 - CAclubindia",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-05T03:47:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWhRUVlTYV9TckxlLXE1OVRqYm5TeVFjWl9EMm15TVRpSk4wQk1OM0xVZ0d4enlDb1gydWhhM1lIaTd4ZFJHdGpVSnpsQTB0NWUwcjNSRURwWndiSy1BVDVyOVh6c2tJUE43aXBsY0VlSjVpS1dnaGRobWF3cTRqcVRSYW5nS2RCR3ZDZXlrMmJHS0kzdld5YVItWE5lakE?oc=5",
-      "description": "Caution: Last Month to avail GST ITC of FY 2025-2026 &nbsp;&nbsp; CAclubindia",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "7ad01b28aeb428cf0e28",
-      "title": "Filing Supreme Court Petition Alone Can’t Override Rs. 20 Lakh GST Appeal Limit: GSTAT - Juris Hour",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-05T02:42:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObGdRWGg2OTVOVF9ha3oyWVIyUHpPRkFNUF9BdmRvTGhYVDB3TTlmQzRRUWFhOXFtamZBYjZ1ZUdTdURJOHkzT1Y4aS1jSjA1NDZMalM4czljWjBGYVR1NVZ5ZXNGbndYc01vUFRVQkFHc0FsZkl4TXRMYmRsaWVFS01B?oc=5",
-      "description": "Filing Supreme Court Petition Alone Can’t Override Rs. 20 Lakh GST Appeal Limit: GSTAT &nbsp;&nbsp; Juris Hour",
-      "categories": [
-        "GST",
-        "Supreme Court",
-        "Tribunals"
-      ],
-      "importance_score": 55,
-      "priority": "Relevant"
-    },
-    {
-      "id": "041d30573d1bfff71728",
-      "title": "GST on Meter Rent, Reconnection and Other Electricity Charges: GSTAT Admits Revenue’s Appeal Against Exemption - Juris Hour",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-05T02:33:47+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeTFNTG9Ra2hIenVlUmdBLTZQLTNtS0NqN3VYYkIxS1dNTnZOaG1xc180NUJ3bnhpSmF5YnRNRmxKazRzWUlXS0JUckxkeTdZVUpKUm5GQTZZWmQwNF9KVkh0OTdZdUVOekxqSXN6di1ocTBqNHBSblFoS0dMUDFCS0ttWQ?oc=5",
-      "description": "GST on Meter Rent, Reconnection and Other Electricity Charges: GSTAT Admits Revenue’s Appeal Against Exemption &nbsp;&nbsp; Juris Hour",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "96dd291a2c8047967f60",
-      "title": "Program Associate-II Vacancy At Media & Communication Office, IIT Gandhinagar",
-      "source": "LiveLaw",
-      "published": "2026-11-05T02:31:25+00:00",
-      "url": "https://www.livelaw.in/job-updates/program-associate-ii-vacancy-at-media-communication-office-iit-gandhinagar-557394",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "6e44d09d404866b7a584",
-      "title": "Research Associates Vacancy At National Law University, Delhi",
-      "source": "LiveLaw",
-      "published": "2026-11-05T02:30:38+00:00",
-      "url": "https://www.livelaw.in/job-updates/research-associates-vacancy-at-national-law-university-delhi-557393",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "9348bc84fa9bc6061ddc",
-      "title": "Clerical Error Led To Withdrawal Of Cheque Bounce Cases: Rajasthan High Court Says Writ Not Maintainable, Remedy Lies Under BNSS",
-      "source": "LiveLaw",
-      "published": "2026-11-05T02:30:04+00:00",
-      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-clerical-error-led-withdrawal-cheque-bounce-cases-557379",
-      "description": "",
-      "categories": [
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "8db511c029c5be9366c3",
-      "title": "SAMHI Q2 Income Rises 15.6% Despite GST Margin Reduction - Multibagg AI",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T22:21:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVV83MUJTQUJGUGRuSUEybkRHTFVqTnZ4Y3dYdHB4LWhIN0Q5UC1tMG1LV180eURtaFFndnZwVW44VXE2RnNsSFR2V294aUZqS1cwR3FxcWFsTEhiM2RtT2pBTTdqSy12OUpSUkV2U0RjNy1pLUhJM3RlUHdfQWIyTXVMTFRIRGpWSlhnX3ZVM0kza1BBcGQ0UEZJMnNrbFRjUHE3emFR?oc=5",
-      "description": "SAMHI Q2 Income Rises 15.6% Despite GST Margin Reduction &nbsp;&nbsp; Multibagg AI",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "bcab8dd2fa43e1210d64",
-      "title": "SC upholds states’ power to levy additional sales tax, surcharge under pre-GST regime - The Economic Times",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T19:30:38+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaExaOFRPd1VGRlkwejR4QmpST3k5X0RQY1B1YnFnNFV6Nk14YnNQdWpJRFdCWm5HbVJLeHNCMzFjNi1kN2hZNXZINDRzQUl3UnlheDJka1RGSmdoVUtRU0k3UFVwekNoM2NuY1Z3VFRGT29jN2hJMjROakktWmhhR2taV0JaVEZfVllaTzN0VmNYblJONWZwalVPVmtielRnZjNFYm9NYTlfVDdFRFNVSDNsMnRlZUFCZFBaY2N5dHlLNDJKZFhGU2R2M1EwY3p2M1NVOW92Z3dkWFUyM2ZxT3BB0gHnAUFVX3lxTE91cm12VFc1NXpYWlNMWi00bWNlajJtYmE1V1VOQkoyckR0Nk92LTVPY2xVcGV2dFYtR29ZVnk1U0lnWUNqVnRnOFVMNG1IejJ3OF9lUGE0RDZ6T2h1eXloOVJwQWtfMWs5MWtobUNCb2h2ZzdqTm9pdWlmUi02b1hNZFRwc2hmMnhPSzdOaFhwYUFfYlc3TGt0LWRfYWdMWE8xdmYtd3lOQTNFRjBTb2pmTjJIckktXzVpWTlNb2J6aUxSVjJPLVpZcWVUdVZkUUFpQkxNRk5mOWZ0dDlFVzhVQnZDN2VFQQ?oc=5",
-      "description": "SC upholds states’ power to levy additional sales tax, surcharge under pre-GST regime &nbsp;&nbsp; The Economic Times",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "30cfd791482075770a38",
-      "title": "SAMHI Q2 EBITDA margin fell 300 bps on GST credit impact - Multibagg AI",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T19:23:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWlPREZUOTBQend5Z0xZM0JOcFFNckh2V0pwSktKckxuYnQzcDByYVV0N0xMYWNzZzMtZHpQdkszS3Z3Z0h4MUxmRUlxOVdXazBwX3liT2pTQzFoS0JOTnhFdWxBMGJTWC00azdIdXpIWWNYZURaZmJhY0ZpWGlIRi1UbW51cHBfLXRHaHJjeDdqTGhqT2dIMkdBTVctU2FRUGtRN0lKZkozbkE?oc=5",
-      "description": "SAMHI Q2 EBITDA margin fell 300 bps on GST credit impact &nbsp;&nbsp; Multibagg AI",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "bb68e4dfcd39f1e5700e",
-      "title": "Supreme Court Daily Round-Up : November 4, 2026",
-      "source": "LiveLaw",
-      "published": "2026-11-04T18:25:52+00:00",
-      "url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-november-4-2026-557375",
-      "description": "",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "fdd83cbfad833626b593",
-      "title": "Chennai Court Acquits Former Minister K Ponmudi In Hate Speech Case For Comments On Saivism, Vaishnavism & Women",
-      "source": "LiveLaw",
-      "published": "2026-11-04T17:53:41+00:00",
-      "url": "https://www.livelaw.in/news-updates/chennai-court-ponmudi-acquitted-hate-speech-case-saivism-vaishnavism-women-557388",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "57b7d0d6e9d246ca9077",
-      "title": "LiveLaw High Courts Daily Highlights: November 04, 2026",
-      "source": "LiveLaw",
-      "published": "2026-11-04T17:01:07+00:00",
-      "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-04-2026-557377",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "d06bca5b3375aae3ecd3",
-      "title": "Students Must Not Be Uprooted: Bombay High Court Allows 14 Schools Operating Without Sanction To Run Till March 2027",
-      "source": "LiveLaw",
-      "published": "2026-11-04T16:50:36+00:00",
-      "url": "https://www.livelaw.in/high-court/bombay-high-court/students-must-not-be-uprooted-bombay-high-court-allows-14-schools-operating-without-sanction-to-run-till-march-2027-557381",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "f3ffc75cc7eeca4df4b8",
-      "title": "Supreme Court upholds states' power to levy additional sales tax - Business Standard",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T16:46:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbklGY0tOZml6cE53eGNTQmJkOFpyeF9TZlBZd1l6T1BuOEJLMzNHQkh2YmZOeWZXLU5sb04wNlRmNGw2NjhtM0RkZS12bWtaNjZHdm52S2JBTGZsekVXT1UwNGNmaGhtc3NQb2plV2hVLUZaWlhjaElrNzFhMTY5RzVudm41MmdkMkNnVkVwandRaEcxVjdDWGdPOGNiaDViRDI0YVVvRUg5SmtINnBic0Jkazg4amx6S2xOanF4Y0dscTFhbncxWlhXT1ktel9QLWfSAdcBQVVfeXFMUEhoTnlaZUtKUHZieG5UZ0xBNVhaZVFXNEdtNGNqMVd2dVk3QmhYYzJiRWZfUk9hLUlUWExBUkgxUW9qclhmSzhtUU8yWGFuUUMzN1hXRHA5WHJvZFVvTmx2WGx2cnV5MmNTbVZFczJtTGw2MzlGeXF0aklYSmNaMFRnYldfb09SNkhKUTNyUmFhczNsU1NsOWN5UC1JU2lfeVVvRmZyLURIWGc2ZHdNbXQwb1Z5YzItQXRLdy1oblpFbUhFRGVhbjJtLXNMb0pWa0pDbmxnQWM?oc=5",
-      "description": "Supreme Court upholds states' power to levy additional sales tax &nbsp;&nbsp; Business Standard",
-      "categories": [
-        "GST",
-        "Supreme Court"
-      ],
-      "importance_score": 55,
-      "priority": "Relevant"
-    },
-    {
-      "id": "5e3bf559e22bfe75f928",
-      "title": "Judiciary Is Citizens' Last Resort, Judges Must Hear Advocates Patiently: Justice K Natarajan Bids Farewell To Kerala High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-04T16:40:00+00:00",
-      "url": "https://www.livelaw.in/high-court/kerala-high-court/justice-k-natarajan-farewell-to-kerala-high-court-557380",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "b27b0fb113b84cb29273",
-      "title": "One Factor I Consider For Elevation Is How Judge Would Be A Team Player In Supreme Court : CJI Surya Kant",
-      "source": "LiveLaw",
-      "published": "2026-11-04T16:34:09+00:00",
-      "url": "https://www.livelaw.in/top-stories/one-factor-i-consider-for-elevation-is-how-judge-would-be-a-team-player-in-supreme-court-cji-surya-kant-557378",
-      "description": "With so much filings, Supreme Court is virtually playing a T20 match, CJI said, at the SCBA felicitation for the newly elevated judges.",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "a1c6535396710232ec20",
-      "title": "2026 LiveLaw (SC) 1132 | Arjun Flour Mills v State of Odisha",
-      "source": "LiveLaw",
-      "published": "2026-11-04T16:07:32+00:00",
-      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1132-arjun-flour-mills-v-state-of-odisha-557376",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "74828d2707543bdc10ab",
-      "title": "Bombay High Court Seeks Details Of Maharashtra Government's Scheme For Drought-Affected People",
-      "source": "LiveLaw",
-      "published": "2026-11-04T15:55:45+00:00",
-      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-seeks-details-of-maharashtra-governments-scheme-for-drought-affected-people-557374",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "0c93de3adcadd52c6c5f",
-      "title": "LiveLaw Daily | 2-Child Rule, Deleted Voters, SC/ST Quota, Khan Sir & Child Labour",
-      "source": "LiveLaw",
-      "published": "2026-11-04T15:17:14+00:00",
-      "url": "https://www.livelaw.in/podcast/cbse-acp-vashishtha-khan-sir-anjana-om-kashyap-news-india-clat-india-judiciary-lawyers-legal-557371",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "27f128a101f52bcad539",
-      "title": "TN CM Joseph Vijay Writes To PM Narendra Modi Seeking Supreme Court's Regional Bench In Chennai",
-      "source": "LiveLaw",
-      "published": "2026-11-04T15:17:09+00:00",
-      "url": "https://www.livelaw.in/news-updates/cm-joseph-vijay-letter-narendra-modi-sc-regional-bench-at-chennai-557370",
-      "description": "",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "7ce1192bedc0c75fa14f",
-      "title": "GSTAT Allows ₹77,188 GST Refund in Deemed Export Case - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T14:59:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbjhVdVdSSWxxLXhfTHlHY1pfdTNJOFRmczNMbTN6eDhIajhBUGc0R3NWY0ZWVE96V1pPck15MG1lak9HSEpUZnZKakdJREFuTFZ6Unk0Yy1lWDhtTGFoSUp5aFRzTmNrTjJVdEJYdFF1Vm5rXzZGQXFKV3BGVUdKeW40Ym11ZVVwcEdWbWRVSFBLTWt3U2hhdEIwOHJFdV9mcFFEU1FFcmpIdF9PekFvMVhHR1EtYVFkbzVSZFVxT19wN0Q4QWhjYjZvZnpBUlFoS2V5bVdISQ?oc=5",
-      "description": "GSTAT Allows ₹77,188 GST Refund in Deemed Export Case &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "f77561fa1ffab23b6925",
-      "title": "Personality Rights Not A Single Cause Of Action, Mere Use Of Identity Not Unlawful: Delhi High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-04T14:49:03+00:00",
-      "url": "https://www.livelaw.in/high-court/delhi-high-court/personality-rights-not-a-single-cause-of-action-mere-use-of-identity-not-unlawful-delhi-high-court-557364",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "9152037a6f9f1b9c61e9",
-      "title": "Before Assent: Two Constitutional Fault Lines In Keralam's Senior Citizens Bill",
-      "source": "LiveLaw",
-      "published": "2026-11-04T14:31:00+00:00",
-      "url": "https://www.livelaw.in/articles/before-assent-two-constitutional-fault-lines-keralam-senior-citizens-bill-557107",
-      "description": "",
-      "categories": [
-        "Constitutional Law"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "806e8144093b029cd8bb",
-      "title": "GST E-invoice 5 Crore Rule: Major Changes from January 2027 - CAclubindia",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T14:30:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd202cWE2U3oyZnY2dS1UTzF0b1AxZVhHVWt4QmpRXzI2dlNEbVNFWHVjZlhYb2o0UHVWLU1QdlctR3ZDZU5yZVZDcEVkMUxGRmRZVS15MDNtNHROZ1hCSUVJZHpLY3pyRXktTG1Oc3J2SlZSYndGdFd1Q05kczNPc3ZaTy1QbDA3WXdDZ2cyMENCNlRYUW9UWmExMUczaG9pQWJzU3BJZw?oc=5",
-      "description": "GST E-invoice 5 Crore Rule: Major Changes from January 2027 &nbsp;&nbsp; CAclubindia",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "d04131b4e7ccdf1505b6",
-      "title": "2026 LiveLaw (SC) 1131 | STATE OF UTTARAKHAND THR. CHIEF SECRETARY AND OTHERS VERSUS M.C. BHANDARI AND ANOTHER",
-      "source": "LiveLaw",
-      "published": "2026-11-04T14:27:29+00:00",
-      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1131-state-of-uttarakhand-thr-chief-secretary-and-others-versus-mc-bhandari-and-another-557362",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "de2ff2ae0fe540ca79b7",
-      "title": "Supreme Court Upholds Rule On Pension Deduction From Salary Of Retired Govt Servants Appointed To Uttarakhand PSC",
-      "source": "LiveLaw",
-      "published": "2026-11-04T14:26:28+00:00",
-      "url": "https://www.livelaw.in/supreme-court/supreme-court-upholds-rule-on-pension-deduction-from-salary-of-retired-govt-servants-appointed-to-uttarakhand-psc-557361",
-      "description": "The Court held that the principle of 'equal pay for equal work' did not apply in the instant case.",
-      "categories": [
-        "Service Law",
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "93018bc4c688f79404d3",
-      "title": "LATEST CASE LAWS UNDER GST – 04.11.2026 – A2Z TAXCORP LLP - A2Z Taxcorp LLP",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T14:20:58+00:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTlNLZERieURsZllxSENoVE5yTlB4QUFtekZkTUpTeG5OMGNvbjg0R2pHVEpJNy15dXBnSEstU0xQdVhfLVVmdG5mTEpTcGtnaVFPc3AxSy10VkhWSnFkUmN2c0dOTldmLXVKeXA1T2JBc1VLa3drNDdSQlVIQlFweGNrVQ?oc=5",
-      "description": "LATEST CASE LAWS UNDER GST – 04.11.2026 – A2Z TAXCORP LLP &nbsp;&nbsp; A2Z Taxcorp LLP",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "5927c4b6af1c7314a3f1",
-      "title": "Andhra Pradesh leads South with 24% GST surge - A2Z Taxcorp LLP",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T14:01:18+00:00",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEWEtUdWhEdlRMSGFpdUdYclk0cDZiYzFkRXEzRzJhOThtWUJwM0RraWs5N1RIcTIwbFVlUVYtQUsxRGZWTmZ1WGdndWlhN093TU5LelJXWWY0aGg4dVhLcnkzNU12NjVlYk9WcDMtRTd1cGNmTXdr?oc=5",
-      "description": "Andhra Pradesh leads South with 24% GST surge &nbsp;&nbsp; A2Z Taxcorp LLP",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "6d7fcb93ea44f31f0530",
-      "title": "Ludhiana: Industry body seeks seven-day GST refunds - A2Z Taxcorp LLP",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T14:01:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNal9QaFpaUFU4Q3I4cXZaWkNnb3o1NVBINlNSNUxfLXBlSVJ5RUx1a0ZDYXI4eVZ4ZG11TkQ3ZE1STUVmWHNQRmhFNElJUlVhYUF4b3hZVUhOaWRVOTFnX0FFVGdCdEpUTlFTNVM0UDFQODdRTG84bVVQNVlPUzg?oc=5",
-      "description": "Ludhiana: Industry body seeks seven-day GST refunds &nbsp;&nbsp; A2Z Taxcorp LLP",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "1945b5bb9d318ede0f8f",
-      "title": "DGGI raids fake ITC syndicate: Crores in GST evasion uncovered, ₹4.58 crore cash seized in Delhi - A2Z Taxcorp LLP",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T14:01:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV054Z3ZSX2tSanpjNzhYMUhNX1BBZTJIcEUxTkZ3ejUwTnZmZGM5LS1OM0FBdmZMU0ZNUEhuWE9Ra3dHNzJRMEVoUDVMMW1feUlpY2N1MGozRVZkNjVLUVFxUE1Qb2FPNDJVdWExU3B3c251ZHhSTEhaYmFtUFQyRGlzbDhsN1owalJsR2s5TDBONHdaeVpoWEVGcmRPa05PRXphR25kWTk5Zm9CMzU2UmpESjBzSlNCdHhfX0piN2t6eWdJ?oc=5",
-      "description": "DGGI raids fake ITC syndicate: Crores in GST evasion uncovered, ₹4.58 crore cash seized in Delhi &nbsp;&nbsp; A2Z Taxcorp LLP",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "162d55323623bc5bd247",
-      "title": "Accused Claiming Grave Illness Cannot Absent Himself From Scheduled Procedure; Medical Bail Not Open-Ended Liberty: J&K&L High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-04T13:55:23+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/accused-claiming-grave-illness-cannot-absent-himself-from-scheduled-medical-procedure-medical-bail-is-not-open-ended-liberty-jk-high-court-557282",
-      "description": "",
-      "categories": [
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "03db0ec30e8fad87efdb",
-      "title": "GSTAT: Vague SCN Can't Justify Registration Cancellation - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T13:40:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkJ4R010TkZZUzE1QUJ2N1NVVGVqZEF5UE5nOUNXeVNOZWRsN1BZYXJQSHB0b1pDRHZubzBZbmxZVDZHRVlwQ2o3bndQcFlOYU1yNVAteFpHN2tOWjBEeGd1bzNuUUlwUTVTTDR5RVdYX0Z2Y2pySXpPZXFzZ1dqanBxUU9qVlpPZlNyY2lKaWhSVkxfeTJ0UTY2RFZRRk9FUFZRb2htblVNUE15Um1sWA?oc=5",
-      "description": "GSTAT: Vague SCN Can't Justify Registration Cancellation &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "a60ed2ddcb412b426b9f",
-      "title": "Supreme Court Rejects Plea To Rotate SC/ST Reservations Of Assembly & Parliament Seats, Affirms Validity Of S.9(1)(c) Delimitation Act",
-      "source": "LiveLaw",
-      "published": "2026-11-04T13:37:09+00:00",
-      "url": "https://www.livelaw.in/supreme-court/supreme-court-rejects-plea-to-rotate-scst-reservations-of-assembly-parliament-seats-affirms-validity-of-s91c-delimitation-act-557265",
-      "description": "The Court declined interference, observing that it was a matter of legislative policy.",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "3912255481fb09941e54",
-      "title": "GSTAT: Excess Stock Alone Cannot Justify Confiscation - Taxscan",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-04T13:20:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSW5qOHJKeHJEZXp4bktVSlJwSkpKVVNuS3JneFpsVE9MRkt1elhZRXlHaTZfWVk1SENUeHFtbDRvU3VET3Q5dzJaM2FRdEFSekpBeXZxRHRMazgzZWhVMWVJNEdhaEtkRHBvbWF4RExuZjdtSEdkTXNJRXZ2TWVXOVB3el9hMFdQTERobzVDdDNMWFdCWWVsVDZocnpacU41S01pd2hkVEhXLWFRRkNPQ1dnbk1IS285WTJjY1Y2TQ?oc=5",
-      "description": "GSTAT: Excess Stock Alone Cannot Justify Confiscation &nbsp;&nbsp; Taxscan",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "0d1427259a10acc21236",
-      "title": "MP High Court Denies Bail To Giribala Singh In Twisha Sharma Dowry Death Case",
-      "source": "LiveLaw",
-      "published": "2026-11-04T13:05:25+00:00",
-      "url": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/madhya-pradesh-high-court-denies-bail-to-giribala-singh-in-twisha-sharma-dowry-death-case-557342",
-      "description": "",
-      "categories": [
-        "Criminal Law",
         "High Courts"
       ],
       "importance_score": 32,
