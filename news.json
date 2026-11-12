@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-11T17:55:36.182705+00:00",
+  "last_updated": "2026-11-12T00:48:40.128149+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "60ef0060d87936c1f539",
+      "title": "LiveLaw High Courts Daily Highlights: November 11, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-11T19:41:50+00:00",
+      "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-11-2026-558163",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
     {
       "id": "8068a13c71ffc6caddea",
       "title": "Fake Allahabad High Court Order Cited In Centre's Takedown Directive For 95 Websites; UP Police Register FIR",
@@ -308,6 +321,19 @@
         "High Courts"
       ],
       "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "da0570b90e770770fc89",
+      "title": "Guwahati: GST Intelligence Uncovers Major Tax Evasion in Multi-Day Raids - A2Z Taxcorp LLP",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-11T12:31:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzY2dUVyY005QURKOWw1QjVBazJGMFdRVWE5Ynd2bHBMdXBmNVN1QlEyYzVhUVBZV2tNQjFBRWRLczlUcWZCSFBQMmNJQVJvN2JxMWJhTUJETkhjRnJsYUdQd2d0Y05DWGgxc1NEMGR5U2htTDh0eDUzaFc3MkYxc0R3RWNLc3hYRXFzY3JnSDF2VTR1WmktRVhIbw?oc=5",
+      "description": "Guwahati: GST Intelligence Uncovers Major Tax Evasion in Multi-Day Raids &nbsp;&nbsp; A2Z Taxcorp LLP",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -6648,33 +6674,6 @@
       "source": "LiveLaw",
       "published": "2026-11-05T09:00:54+00:00",
       "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-supersession-milma-regional-union-managing-committee-orders-immediate-reinstatement-557464",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "916480f05fd6b774cf20",
-      "title": "P&H High Court Allows Common Bail Bond For Woman Facing 120 Cheque Bounce Cases",
-      "source": "LiveLaw",
-      "published": "2026-11-05T08:53:36+00:00",
-      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-allows-common-surety-bond-for-woman-employee-facing-120-cheque-bounce-cases-557466",
-      "description": "",
-      "categories": [
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "f39f04aa22b793636221",
-      "title": "Plea In Madras High Court Seeks Uniform Police Safeguards In Cases Over Social Media Posts, Political Criticism",
-      "source": "LiveLaw",
-      "published": "2026-11-05T08:50:22+00:00",
-      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-plea-police-circular-dealing-complaints-social-media-post-online-speech-557463",
       "description": "",
       "categories": [
         "High Courts"
