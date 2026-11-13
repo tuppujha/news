@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-12T17:38:07.380881+00:00",
+  "last_updated": "2026-11-12T23:41:37.829912+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "4d0003c4b1fb600b7bf7",
+      "title": "LiveLaw High Courts Daily Highlights: November 12, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-12T19:51:49+00:00",
+      "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-12-2026-558279",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
     {
       "id": "b4b09e876369641c4090",
       "title": "Delhi High Court Enhances Compensation To ₹4.26 Crore For Road Accident Victim In Coma Since 2022",
@@ -189,6 +202,19 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "e0591425437ae83b7c79",
+      "title": "GST Penalties May Be Treated As Charges, Offering Tax Relief To Businesses - A2Z Taxcorp LLP",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-12T12:58:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHNPTXphMFhXaV8xazdEU1Q1MTZOQmdNZGI4Q09nQWpOa0NOZmJxX0NTbEFPMHc1Tlh3bkdLTnlNSnJxMDJQVDd4YXNpWWFmV3pHNS1SY2J5cmFYNHhkUFNsZDFLNnhSOUNjMFJQWDJEZGJuMnMwSllHRnNPdFI1RkpsODFZREZmUUo4QWhhUWY2MU1iblNvMkwwVWhnUQ?oc=5",
+      "description": "GST Penalties May Be Treated As Charges, Offering Tax Relief To Businesses &nbsp;&nbsp; A2Z Taxcorp LLP",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -635,6 +661,20 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "b6e7c177536e97acf39d",
+      "title": "Intent To Evade Tax Not Expressly Required For Unaccounted Goods U/S 130(1)(ii): GSTAT - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-12T09:02:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqSHg4ZVpDQ0F5bkpkOGhTNXhMaHFPdW41dk5BYVFFRFBucWluSU9HOGxGSUZtcUtjempUdzBBX2VSVERwYUNDekZfdjJ1Q0FPUkFmU0JvdnllWkVrYXo3WWtyekdFZGtfSDRVenZmaFVsZw?oc=5",
+      "description": "Intent To Evade Tax Not Expressly Required For Unaccounted Goods U/S 130(1)(ii): GSTAT &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -3307,11 +3347,11 @@
     },
     {
       "id": "43c5a33ad5a6a638c703",
-      "title": "GSTAT State Bench Cuttack: Delayed Returns Alone Cannot Attract Section 74 of CGST Act | SCC Times - SCC Online",
+      "title": "GSTAT State Bench Cuttack: Mere delay in filing returns without fraud to evade tax does not justify invocation of Section 74 of CGST Act - SCC Online",
       "source": "GST Legal & Regulatory News (Google News RSS)",
       "published": "2026-11-10T05:30:56+00:00",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMVg0RmhpRGFnWURabHh0bHFlQ1RmQ0lHMnNjU2MyamtublZuQTBmVVR4NFljZFk1TGcxd0pNamQ1Zm1EYnJxbFZhU0dYQnlZWEljNHBYd1FMSFJtSnpOc1FvbG00Q2FaVFZHaC1nelNlUEFJS29nM3FWajhyaGhJRGk2R1hLZXBvUDJZaUNfU0FEV2g2Q1ZMeHF6Y2g?oc=5",
-      "description": "GSTAT State Bench Cuttack: Delayed Returns Alone Cannot Attract Section 74 of CGST Act | SCC Times &nbsp;&nbsp; SCC Online",
+      "description": "GSTAT State Bench Cuttack: Mere delay in filing returns without fraud to evade tax does not justify invocation of Section 74 of CGST Act &nbsp;&nbsp; SCC Online",
       "categories": [
         "GST",
         "Tribunals"
@@ -6652,47 +6692,6 @@
       ],
       "importance_score": 30,
       "priority": "General"
-    },
-    {
-      "id": "3798be4db56a5288283f",
-      "title": "Microfinance Fraud Case: Kerala High Court Finds No Sanction Required To Prosecute Vellappally Natesan, Others",
-      "source": "LiveLaw",
-      "published": "2026-11-06T07:45:36+00:00",
-      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-microfinance-fraud-case-sndp-vellappally-natesan-557628",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "0e39789c80e464e14b8a",
-      "title": "GST Notice Despite Advance Ruling: Gujarat High Court Restrains Final Order Without Its Permission - Juris Hour",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-06T07:36:51+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlZndCcXFjUTZiREpvQURvV1N0SGJaejJla3dPRGs0c0ZYMmtYcGNkWFNOdDdwQS1OTlBHcGMwa09xektJX0ctcF9haVc0ZUpBQWxhWlFFNDE3aVNsZHFvOXFnZG15cDBCYmNVTmY2VGo?oc=5",
-      "description": "GST Notice Despite Advance Ruling: Gujarat High Court Restrains Final Order Without Its Permission &nbsp;&nbsp; Juris Hour",
-      "categories": [
-        "GST",
-        "High Courts"
-      ],
-      "importance_score": 42,
-      "priority": "General"
-    },
-    {
-      "id": "6b1f836a1c96bd180399",
-      "title": "Supreme Court Issues Notice On ED's Plea Challenging Delhi HC's Quashing Case Against NewsClick, Prabir Purkayastha",
-      "source": "LiveLaw",
-      "published": "2026-11-06T07:32:26+00:00",
-      "url": "https://www.livelaw.in/top-stories/supreme-court-ed-plea-against-delhi-hc-quashing-of-eow-fir-ed-ecir-against-newsclick-prabir-purkayastha-foreign-funding-notice-557626",
-      "description": "\"We are not very impressed with the ED SLP\": Justice Joymalya Bagchi.",
-      "categories": [
-        "Criminal Law",
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
     }
   ]
 }
