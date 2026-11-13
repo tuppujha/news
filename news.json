@@ -1,9 +1,48 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-13T15:27:37.434073+00:00",
+  "last_updated": "2026-11-13T22:00:25.235853+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "dc0ae374128e9b8068f2",
+      "title": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide - CAclubindia",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-13T21:51:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWVJamVqVkprcGRvbXJqcU9Sdm1uMEcySWZyVkdsRm5qUENHazRfQzBiX2w3UWhPbUxnVWRmNGwzQWxaWlpLSXBQWlRoR0NSREJBRTl4bjh6SWFmR3dNejdjSWtid21oX0kxam1UOXpUYlkwM3dvSUMyZV9lVjdlOGVPQnlfR0c1VFpuc3RFSWdMT3pGZV9tZ3AyOGpTSm12Ui10cmV5N3VEajN3bUJNMkM5QQ?oc=5",
+      "description": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide &nbsp;&nbsp; CAclubindia",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "c15ed320726ca472c53d",
+      "title": "Stakeholder inputs sought on proposed GST return changes - The Economic Times",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-13T18:35:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3JTa05yY0ZES25GcmxqZFpnYkJrdWlUWkJ0V3lybXFBaHhEcDhaR1l0OVpTUHFQejMtRF9zcjE4OW5aVk5hWWNZTVNiOU5CQlpwdnlqTk5JOVZ0NlptcEdPbWYwMExCUktkT0xhallDWVc3WFdmTVVGczRTWi05YjNtYUlLVHo0VDZ1aWUwUUs5QU1MbzgxOHBsUXlldy1NYktZdGFsZVlMdjkzanpTbGFTLTNLblhfUHhSSGhaS3gwMVZpVzZBOGZkQdIB0AFBVV95cUxQU1JQemZZa1FuTml5LWFHS25hWFVPR1ZwTkZDelJHMmJXS210U2hHQ3MyT3dlRTUtT0VaMWZFLTJQU2NhdDl6VzdiQTFVcTAxd1NkeHJNUi1MTFYtcVFIN01iMGpaTGZvQzZSRTdEUzlLOEtVdGNSSG9sVVhJWlRWaERtekMwRUtrZ0dUNi1fOGNHUmtIMjBmMWptMEVXZGpBYW1lSXZ1Rm5ia3ZNb1JQOUctU01FV3VBRFRPZkhMN0Z3alFyZ2I1N196Qk5XbnYt?oc=5",
+      "description": "Stakeholder inputs sought on proposed GST return changes &nbsp;&nbsp; The Economic Times",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "ea0c7d686261b921190c",
+      "title": "RGNUL Invites Entries For 7th International Arbitral Award Writing Competition, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-13T18:13:29+00:00",
+      "url": "https://www.livelaw.in/lawschool/competitions/rgnul-invites-entries-for-7th-international-arbitral-award-writing-competition-2026-558414",
+      "description": "",
+      "categories": [
+        "Arbitration"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
     {
       "id": "ce7d1c3b9a1c3bf983c4",
       "title": "Fake High Court Orders Used To Takedown Of 95 Websites? | Here's What Happened",
@@ -285,19 +324,6 @@
       "priority": "General"
     },
     {
-      "id": "dc0ae374128e9b8068f2",
-      "title": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide - CAclubindia",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-13T12:29:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWVJamVqVkprcGRvbXJqcU9Sdm1uMEcySWZyVkdsRm5qUENHazRfQzBiX2w3UWhPbUxnVWRmNGwzQWxaWlpLSXBQWlRoR0NSREJBRTl4bjh6SWFmR3dNejdjSWtid21oX0kxam1UOXpUYlkwM3dvSUMyZV9lVjdlOGVPQnlfR0c1VFpuc3RFSWdMT3pGZV9tZ3AyOGpTSm12Ui10cmV5N3VEajN3bUJNMkM5QQ?oc=5",
-      "description": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide &nbsp;&nbsp; CAclubindia",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
       "id": "89a99299d35da391f3fb",
       "title": "Husband Can't Seek Judicial Separation On Same Grounds Rejected In Earlier Divorce Plea, Fresh Cause Of Action Needed: Gauhati High Court",
       "source": "LiveLaw",
@@ -457,6 +483,19 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "714e237bfde5008c27f2",
+      "title": "Rane Holdings Subsidiary Gets Relief as GST Authorities Withdraw Rs 11.88 Crore Demand - StudyCafe",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-13T10:59:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVC0yR1QzVUJ3VnJoWTFMZG1mT3JKOTk2QTI0SUltN3NhWDFKQ0FRLUR4ZGZsNmRMbFE4WDFsRm04ekZyeExzQ3J6REkzd1EtM2NSR2JRcElmWUtVNnpPWC1VaVdldFVkQTlkaGhYRTV1anVEcmlBdnV2cTVBa3VBSnExVkxNX0Y5N2hZd2RZN3V6OFJRU1g0cktwOHBBYnhaX3RlalljSXdqZmJGd2hzZzJ3VWQ1bkQtWi1F?oc=5",
+      "description": "Rane Holdings Subsidiary Gets Relief as GST Authorities Withdraw Rs 11.88 Crore Demand &nbsp;&nbsp; StudyCafe",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -6650,45 +6689,6 @@
       "source": "LiveLaw",
       "published": "2026-11-07T08:10:57+00:00",
       "url": "https://www.livelaw.in/job-updates/legal-researcher-vacancy-at-rajasthan-high-court-jodhpur-557774",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "e2c95c40997af8d2a791",
-      "title": "Consultant (Legal) Vacancy At Jawaharlal Institute Of Postgraduate Medical Education And Research",
-      "source": "LiveLaw",
-      "published": "2026-11-07T08:09:41+00:00",
-      "url": "https://www.livelaw.in/job-updates/consultant-legal-vacancy-at-jawaharlal-institute-of-postgraduate-medical-education-and-research-557773",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "90215a7bda7eef8709eb",
-      "title": "Rajasthan High Court Says State Need Not Be Impleaded In Cases Investigated By CBI, NCB, Other Central Agencies",
-      "source": "LiveLaw",
-      "published": "2026-11-07T08:00:40+00:00",
-      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-directs-discontinuation-routine-impleadment-state-557734",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "a862cda2daf633a72a5b",
-      "title": "Fake Freedom Fighter Quota Certificates In NEET-UG Counselling: Uttarakhand High Court Directs Verification, Action Against Erring Officials",
-      "source": "LiveLaw",
-      "published": "2026-11-07T07:58:09+00:00",
-      "url": "https://www.livelaw.in/high-court/uttarakhand-high-court/uttarakhand-high-court-directs-formation-verification-committee-action-erring-officials-557765",
       "description": "",
       "categories": [
         "High Courts"
