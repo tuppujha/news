@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-13T22:00:25.235853+00:00",
+  "last_updated": "2026-11-14T02:29:02.672892+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
@@ -8,7 +8,7 @@
       "id": "dc0ae374128e9b8068f2",
       "title": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide - CAclubindia",
       "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-13T21:51:26+00:00",
+      "published": "2026-11-14T00:38:16+00:00",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWVJamVqVkprcGRvbXJqcU9Sdm1uMEcySWZyVkdsRm5qUENHazRfQzBiX2w3UWhPbUxnVWRmNGwzQWxaWlpLSXBQWlRoR0NSREJBRTl4bjh6SWFmR3dNejdjSWtid21oX0kxam1UOXpUYlkwM3dvSUMyZV9lVjdlOGVPQnlfR0c1VFpuc3RFSWdMT3pGZV9tZ3AyOGpTSm12Ui10cmV5N3VEajN3bUJNMkM5QQ?oc=5",
       "description": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide &nbsp;&nbsp; CAclubindia",
       "categories": [
@@ -393,6 +393,20 @@
       "priority": "Relevant"
     },
     {
+      "id": "24b2b4fa690193f5c7f3",
+      "title": "Supplier’s Alleged Fraud Alone Can’t Justify S. 74 Action Against Purchaser: Karnataka High Court - Juris Hour",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-13T11:44:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zUzRGR0ZGZ0pwaHFZUnQxY1lsWWJjN1hqbFk2bkFmd3pFZ0xkN2RRcHFpX2k3V3VyV1lJczlmd0NqRkthNG5LejBELWEyVU1NMnlpTFloQjB4VE9xM0loZVhfTXVwLXp4OUp5ZzF3ZmJIakJB?oc=5",
+      "description": "Supplier’s Alleged Fraud Alone Can’t Justify S. 74 Action Against Purchaser: Karnataka High Court &nbsp;&nbsp; Juris Hour",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
+    {
       "id": "db36c4fd553f8e2004e7",
       "title": "'Harm Caused To Public Interest': MP High Court Imposes Costs On PIL Petitioner For Stalling Dam Project",
       "source": "LiveLaw",
@@ -535,6 +549,19 @@
         "General Legal News"
       ],
       "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "f1732074975ef0dd5654",
+      "title": "Govt invites public suggestions on alternate mechanism for amending GST liability, ITC - ANI News",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-13T10:38:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdF9ud2VKUkxGOU1ZS1FVYkdBQ0czMjdtMC0yODBvMXN3OUl1STdSQThYdDdvQktwMzN3TG8zZWRBVmJVMmtvNThDbXBlLWo1R1k1LUdKSVpOMGktcWlXd3JBRl9rbmltM1g0Um5pSllScFMxb1h5X3psNzRLUEVacXQwUmdBcFh5SmpfN3p1ZjBJZGhIS3FISkxLX3RhSnBVNDdIRHlqaU5yYy1idTlnbExtZ1EwZ3hxaGM4RGpOMVo2WTZ4Q1Atc04tM3BvTVlyWXc?oc=5",
+      "description": "Govt invites public suggestions on alternate mechanism for amending GST liability, ITC &nbsp;&nbsp; ANI News",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -6668,32 +6695,6 @@
         "General Legal News"
       ],
       "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "4a1e6fd1729fcf643208",
-      "title": "Empanelment Of Advocates At Security Printing And Minting Corporation Of India Limited",
-      "source": "LiveLaw",
-      "published": "2026-11-07T08:11:51+00:00",
-      "url": "https://www.livelaw.in/job-updates/empanelment-of-advocates-at-security-printing-and-minting-corporation-of-india-limited-557776",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "777a9777f096a2a79f18",
-      "title": "Legal Researcher Vacancy At Rajasthan High Court, Jodhpur",
-      "source": "LiveLaw",
-      "published": "2026-11-07T08:10:57+00:00",
-      "url": "https://www.livelaw.in/job-updates/legal-researcher-vacancy-at-rajasthan-high-court-jodhpur-557774",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
       "priority": "General"
     }
   ]
