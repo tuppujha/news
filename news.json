@@ -1,9 +1,22 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-15T17:14:35.530506+00:00",
+  "last_updated": "2026-11-15T21:53:33.536293+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "cb5ea8271481fffa3604",
+      "title": "Too little, too late - The Financial Express",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-15T18:21:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BMmU0MjJoaGJuM0RjeHV6RmY1TDUxaGRyUXJMT0FHYlVVWDUxRmNWWUR5RlZycW9nWkUydTBBQWNqMy1NVEJ1UkREWHgtR3g4aDlSR0dTV3ZnWHNUaXNWWi1qMjRvT0RwY19LMXVWVGV6UjZKOHAwTdIBf0FVX3lxTE1tNk5ub25yWnVSRTRobDFJdXZRMXdoRUMwOE9HUk5aMXZyS2VBVHpGczB2OFk0bk1nTWswcEtjaGpTQ0Y0aTJleVJpNTJzbEhySGxEalhXdHZydFlMdE1UMy1jTDBKRm5reUxUdmtmU1hyeE9pb2xSQTM5aGRsaUU?oc=5",
+      "description": "Too little, too late &nbsp;&nbsp; The Financial Express",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
     {
       "id": "cdab18f1f91b7cbeae7f",
       "title": "Important MCQs Based On Latest Supreme Court Judgments For Law Examinations",
@@ -6689,20 +6702,6 @@
       ],
       "importance_score": 30,
       "priority": "General"
-    },
-    {
-      "id": "7cbe98aa5e4c628385d0",
-      "title": "'Alleging Extramarital Affair Merely Because Wife Talks To Another Man Reflects Gender Stereotypes, Amounts To Cruelty'': Jharkhand High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-09T06:33:37+00:00",
-      "url": "https://www.livelaw.in/high-court/jharkhand-high-court/jharkhand-high-court-alleging-extramarital-affair-wife-talks-another-man-reflects-gender-stereotypes-557872",
-      "description": "",
-      "categories": [
-        "High Courts",
-        "Jharkhand"
-      ],
-      "importance_score": 52,
-      "priority": "Relevant"
     }
   ]
 }
