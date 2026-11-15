@@ -1,9 +1,49 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-15T09:32:40.510990+00:00",
+  "last_updated": "2026-11-15T17:14:35.530506+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "cdab18f1f91b7cbeae7f",
+      "title": "Important MCQs Based On Latest Supreme Court Judgments For Law Examinations",
+      "source": "LiveLaw",
+      "published": "2026-11-15T13:38:44+00:00",
+      "url": "https://www.livelaw.in/law-exams/important-mcqs-based-on-latest-supreme-court-judgments-for-law-examinations-558506",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "d221295abed8ef9c1c39",
+      "title": "Better Financial Resources No Ground To Deprive Mother Of Child's Custody: Allahabad High Court Dismisses Grandparents' Appeal",
+      "source": "LiveLaw",
+      "published": "2026-11-15T13:34:13+00:00",
+      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-better-financial-resources-mother-child-custody-558505",
+      "description": "The Court said grandparents can provide financial assistance to the mother for the good upbringing of both children.",
+      "categories": [
+        "Family Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "6aa12c9b81389e9a8759",
+      "title": "LiveLaw Allahabad High Court Weekly Round-Up: November 09 To November 15, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-15T13:02:05+00:00",
+      "url": "https://www.livelaw.in/round-ups/weekly/livelaw-allahabad-high-court-weekly-round-up-november-09-to-november-15-2026-558503",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
     {
       "id": "ca990c4a16ab114a7494",
       "title": "J&K&L High Court Denies Bail To Two Accused In Alleged JKLF-Y Revival Case",
@@ -30,19 +70,6 @@
         "High Courts"
       ],
       "importance_score": 42,
-      "priority": "General"
-    },
-    {
-      "id": "dc0ae374128e9b8068f2",
-      "title": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide - CAclubindia",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-15T06:53:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWVJamVqVkprcGRvbXJqcU9Sdm1uMEcySWZyVkdsRm5qUENHazRfQzBiX2w3UWhPbUxnVWRmNGwzQWxaWlpLSXBQWlRoR0NSREJBRTl4bjh6SWFmR3dNejdjSWtid21oX0kxam1UOXpUYlkwM3dvSUMyZV9lVjdlOGVPQnlfR0c1VFpuc3RFSWdMT3pGZV9tZ3AyOGpTSm12Ui10cmV5N3VEajN3bUJNMkM5QQ?oc=5",
-      "description": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide &nbsp;&nbsp; CAclubindia",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -727,6 +754,19 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "dc0ae374128e9b8068f2",
+      "title": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide - CAclubindia",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-14T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWVJamVqVkprcGRvbXJqcU9Sdm1uMEcySWZyVkdsRm5qUENHazRfQzBiX2w3UWhPbUxnVWRmNGwzQWxaWlpLSXBQWlRoR0NSREJBRTl4bjh6SWFmR3dNejdjSWtid21oX0kxam1UOXpUYlkwM3dvSUMyZV9lVjdlOGVPQnlfR0c1VFpuc3RFSWdMT3pGZV9tZ3AyOGpTSm12Ui10cmV5N3VEajN3bUJNMkM5QQ?oc=5",
+      "description": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide &nbsp;&nbsp; CAclubindia",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -6663,46 +6703,6 @@
       ],
       "importance_score": 52,
       "priority": "Relevant"
-    },
-    {
-      "id": "9b9b7129a5acdddaff87",
-      "title": "Karnataka High Court Grants Bail To Lawyer Accused Of Seeking Bribe In Judge's Name To Secure Bail For Client's Son",
-      "source": "LiveLaw",
-      "published": "2026-11-09T06:30:30+00:00",
-      "url": "https://www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-grants-bail-advocate-accused-demanding-money-bribe-557855",
-      "description": "",
-      "categories": [
-        "Criminal Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "2ed33132808bd11b5118",
-      "title": "Bombay High Court Directs Ban On Laser Lights, High-Intensity Beams During Festivities In Nagpur",
-      "source": "LiveLaw",
-      "published": "2026-11-09T06:27:57+00:00",
-      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-directs-ban-laser-lights-festivities-nagpur-557866",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "bc19cd1c447dfbf1e02e",
-      "title": "River Mandovi Pollution | Faecal Matter Exceeds Limits Near Goa's Casino Cruise Jetties: Bombay High Court Directs Audit",
-      "source": "LiveLaw",
-      "published": "2026-11-09T06:26:51+00:00",
-      "url": "https://www.livelaw.in/high-court/bombay-high-court/bombay-high-court-directs-water-audit-action-against-violators-water-act-557863",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
     }
   ]
 }
