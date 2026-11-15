@@ -1,14 +1,40 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-14T21:33:00.048312+00:00",
+  "last_updated": "2026-11-15T01:58:08.668044+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
     {
+      "id": "12ed026e34af2b323b13",
+      "title": "[Advertisement] NLU Delhi And Mentblue Launch Batch 1 Of Certificate Course On Criminal Litigation Drafting And Practice",
+      "source": "LiveLaw",
+      "published": "2026-11-15T00:17:58+00:00",
+      "url": "https://www.livelaw.in/lawschool/diploma-certificate-courses/nlu-delhi-mentblue-launch-batch-1-certificate-course-criminal-litigation-drafting-practice-558417",
+      "description": "",
+      "categories": [
+        "Criminal Law"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "ea0c7d686261b921190c",
+      "title": "7th Surana & Surana and RGNUL International Arbitral Award Writing Competition, 2026.",
+      "source": "LiveLaw",
+      "published": "2026-11-15T00:15:52+00:00",
+      "url": "https://www.livelaw.in/lawschool/competitions/rgnul-invites-entries-for-7th-international-arbitral-award-writing-competition-2026-558414",
+      "description": "",
+      "categories": [
+        "Arbitration"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "dc0ae374128e9b8068f2",
       "title": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide - CAclubindia",
       "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-14T18:45:38+00:00",
+      "published": "2026-11-14T21:47:05+00:00",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWVJamVqVkprcGRvbXJqcU9Sdm1uMEcySWZyVkdsRm5qUENHazRfQzBiX2w3UWhPbUxnVWRmNGwzQWxaWlpLSXBQWlRoR0NSREJBRTl4bjh6SWFmR3dNejdjSWtid21oX0kxam1UOXpUYlkwM3dvSUMyZV9lVjdlOGVPQnlfR0c1VFpuc3RFSWdMT3pGZV9tZ3AyOGpTSm12Ui10cmV5N3VEajN3bUJNMkM5QQ?oc=5",
       "description": "GSTR-9 Late Fee Structure by Turnover for FY 2025-26: Complete Guide &nbsp;&nbsp; CAclubindia",
       "categories": [
@@ -552,19 +578,6 @@
       "priority": "General"
     },
     {
-      "id": "12ed026e34af2b323b13",
-      "title": "[Advertisement] NLU Delhi And Mentblue Launch Batch 1 Of Certificate Course On Criminal Litigation Drafting And Practice",
-      "source": "LiveLaw",
-      "published": "2026-11-14T07:30:38+00:00",
-      "url": "https://www.livelaw.in/lawschool/diploma-certificate-courses/nlu-delhi-mentblue-launch-batch-1-certificate-course-criminal-litigation-drafting-practice-558417",
-      "description": "",
-      "categories": [
-        "Criminal Law"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
       "id": "340b01a56f6b9c74620b",
       "title": "Assistant Professors Absorbed Into Cadre Entitled To Same Advance Increments As Direct Recruits: Tripura High Court",
       "source": "LiveLaw",
@@ -985,19 +998,6 @@
         "High Courts"
       ],
       "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "ea0c7d686261b921190c",
-      "title": "RGNUL Invites Entries For 7th International Arbitral Award Writing Competition, 2026",
-      "source": "LiveLaw",
-      "published": "2026-11-13T18:13:29+00:00",
-      "url": "https://www.livelaw.in/lawschool/competitions/rgnul-invites-entries-for-7th-international-arbitral-award-writing-competition-2026-558414",
-      "description": "",
-      "categories": [
-        "Arbitration"
-      ],
-      "importance_score": 30,
       "priority": "General"
     },
     {
