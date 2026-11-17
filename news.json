@@ -1,9 +1,88 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-16T20:32:24.186260+00:00",
+  "last_updated": "2026-11-17T03:57:32.056219+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "b4242929cd8e1931086c",
+      "title": "LiveLaw Madras High Court Weekly Roundup: November 9 to November 15, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-17T03:36:12+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-weekly-roundup-november-9-to-15-2026-558636",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "dae4f434c97fc4a1bf6d",
+      "title": "Empanelment /Engagement Of Legal Retainer(S) / Advocate(S) Vacancy At National Health Mission, Jharkhand (NHM, Jharkhand)",
+      "source": "LiveLaw",
+      "published": "2026-11-17T03:33:50+00:00",
+      "url": "https://www.livelaw.in/job-updates/empanelment-engagement-of-legal-retainers-advocates-vacancy-at-national-health-mission-jharkhand-nhm-jharkhand-558659",
+      "description": "",
+      "categories": [
+        "Jharkhand"
+      ],
+      "importance_score": 40,
+      "priority": "General"
+    },
+    {
+      "id": "7fcd43b65ef8f8c77787",
+      "title": "Legal Assistant Vacancy At University Of Delhi",
+      "source": "LiveLaw",
+      "published": "2026-11-17T03:32:31+00:00",
+      "url": "https://www.livelaw.in/job-updates/legal-assistant-vacancy-at-university-of-delhi-558658",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "64a3e5e5df05c5319dfa",
+      "title": "Senior Advisor (Law) Vacancy At Central Electricity Regulatory Commission",
+      "source": "LiveLaw",
+      "published": "2026-11-17T03:31:12+00:00",
+      "url": "https://www.livelaw.in/job-updates/senior-advisor-law-vacancy-at-central-electricity-regulatory-commission-558657",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "4646cd35ed73b7c80f6f",
+      "title": "Legal Assistant Vacancy At Gujarat Road Safety Authority, Gandhinagar",
+      "source": "LiveLaw",
+      "published": "2026-11-17T03:30:09+00:00",
+      "url": "https://www.livelaw.in/job-updates/legal-assistant-vacancy-at-gujarat-road-safety-authority-gandhinagar-558656",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "e388d5d3e0c246b7f7de",
+      "title": "Gauhati High Court: Limitation Extension Invalid Without Prior Council Recommendation And Force Majeure - CAclubindia",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-17T03:28:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSVBmeDg4UXBERkhmemJ2dXFMcHB4QnlrZnZCWjBOSGQ1MEV4SmtRVGR5NG1Cb2RhWHRGcENXRXlYcXVzTlNXbWFlbk1raXBoMU1JSGtjYnZZd2ZRdldGc2NyTmJnOGQwUjUxc25nalBBM0xsXzBVR0Y4UEFjV1U2dmRENnJ0LWxtQjRXN0Nxb3FRLTdielc5ZmZJQjRlQ0o5VmNSNEhZQ1NYYUJqYXhkaUprSUxwMU95T0RCNC1vc21aSC1rOXBmMTg5MDRDVlFqcXdZWGZmSnU3bUgyTTRMMGd6NA?oc=5",
+      "description": "Gauhati High Court: Limitation Extension Invalid Without Prior Council Recommendation And Force Majeure &nbsp;&nbsp; CAclubindia",
+      "categories": [
+        "GST",
+        "High Courts"
+      ],
+      "importance_score": 42,
+      "priority": "General"
+    },
     {
       "id": "a8c567aa0903d89d0379",
       "title": "GST and Customs Pavilion at IITF Showcases Next-Gen GST Reforms and Digital Initiatives - www.nationpathindia.com",
@@ -6616,85 +6695,6 @@
       "source": "LiveLaw",
       "published": "2026-11-10T15:13:59+00:00",
       "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-dj-party-police-notice-radisson-blu-hotel-557979",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "2eab55698e06fba1f85e",
-      "title": "2026 LiveLaw (SC) 1149 | Yusuf v Vigyapan Loke Delhi Advertising CGHS Ltd.",
-      "source": "LiveLaw",
-      "published": "2026-11-10T15:11:51+00:00",
-      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1149-yusuf-v-vigyapan-loke-delhi-advertising-cghs-ltd-558042",
-      "description": "",
-      "categories": [
-        "General Legal News"
-      ],
-      "importance_score": 20,
-      "priority": "General"
-    },
-    {
-      "id": "daf8c875f216b65a0185",
-      "title": "Balance Sheet Entries Can Count As Acknowledgment Of Debt Under S.18 Of Limitation Act: Supreme Court",
-      "source": "LiveLaw",
-      "published": "2026-11-10T15:10:57+00:00",
-      "url": "https://www.livelaw.in/top-stories/supreme-court-restores-money-recovery-suit-558041",
-      "description": "",
-      "categories": [
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "c4afffc355213e7fca70",
-      "title": "Manipur High Court Keeps 2027 Census On Hold Till April 30, Directs Centre To Decide Seven Representations",
-      "source": "LiveLaw",
-      "published": "2026-11-10T15:02:24+00:00",
-      "url": "https://www.livelaw.in/high-court/manipur-high-court/manipur-high-court-directs-centre-decide-seven-representations-558038",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "e779aef16b4f4cef5300",
-      "title": "POCSO court hands life term till natural death to 65-year-old man for minor's rape in Dombivali - DT Next",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-10T13:58:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlg4LVV4VGR5QmhhTGYtX05ZQ1dkRnc2V2RzSWNkVmpOQTNETTZHWGp5N1Rfc2pxbE81TnlFck1ZdEFwbTRvUTRoS1JVbU52MkRpQm5adEUyUlR4WTM3Y1ZPWkJNbDNUdWh3VjNXM3ZmV2FhQ2dRV3lPcUpCUXI0eERiOE83RXRidGZQMkdiLV9WeElZazdZdDc5NDk3bGY4ZXJkV09yektGa3lZdnN6MzhURzM5Ry1raV84MmwzOUVDMGU4d3VNUTR30gHXAUFVX3lxTE1jbVJGdmVhYldGRzVRcHBjVG53ZlZfaVZ3MnljeWhTR0s3RW92WE9wa2lla21SMkJVYmpZSG9DM2szeFF4OVBLcW5ESG5FN041TzNlM2tKaFRLRi1ubFFOdE1BUFZPSEVkazJKS1R0Y0RRYXdwb2REeUJRMmlnaHNHWXBFRmM0NEFtWjBHWnJqOHFNUjVybjBfRmxKMVBSSUxIYmlsSFdiaEdoaDh4WlpTcjRUODNxbzFkcmRPLXVsdjN6NWFSTFlTX3oyYnRXUlFoVWQyQjhR?oc=5",
-      "description": "POCSO court hands life term till natural death to 65-year-old man for minor's rape in Dombivali &nbsp;&nbsp; DT Next",
-      "categories": [
-        "GST",
-        "Criminal Law"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "703fb5146c960fe2ab74",
-      "title": "J&K&L High Court Gives Two FCI Employees Last Chance To Save Jobs After Failing Mandatory Hindi Typing Test",
-      "source": "LiveLaw",
-      "published": "2026-11-10T13:55:18+00:00",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/food-corporation-employees-given-one-last-chance-to-save-jobs-after-being-denied-adequate-time-to-prepare-for-hindi-typing-test-jk-high-court-557919",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "c21c5bf644789f80ea97",
-      "title": "2423 Corruption Cases Pending Throughout TN: Madras High Court Asks State To Examine Setting Up Special Courts",
-      "source": "LiveLaw",
-      "published": "2026-11-10T13:35:46+00:00",
-      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-corruption-cases-pending-state-setup-special-courts-558032",
       "description": "",
       "categories": [
         "High Courts"
