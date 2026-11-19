@@ -1,9 +1,80 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-18T22:02:51.207490+00:00",
+  "last_updated": "2026-11-19T03:36:54.917115+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "14d2c025b9c42f4377ea",
+      "title": "Delay In Collecting Returned Petition Can't Be Excluded While Calculating Limitation Period: Tripura High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-19T03:30:42+00:00",
+      "url": "https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-state-cannot-claim-limitation-exclusion-delay-negligence-559011",
+      "image": "https://www.livelaw.in/h-upload/2019/09/28/365023-tripura-hc.webp",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "4488315c7e04ccca8e11",
+      "title": "November/December 2026 Due Date Guide: GST, Income Tax and ROC Filings - CAclubindia",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-19T03:23:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWZmR05DdVluN1Uzazk0bnZfZFRRdXRGUkxiZll6b0tSXzYzMzVjUU1rMkUtanprNTBtQVZtX09LNkw1dG5wOUp0Y1hRUFdYamJwSnI4QVhpWXE2eUtLWHphNXJYdE92N2pSQm9UNU5EdXdKR0tVcjN0RHQ0RV9xVXB0YU1pRjhiUENPRF9YOE5XblFreGdFQTFDZlVzQ0o3YjFjTTN5c3ROdDc3SjZoaXZVWnNzdw?oc=5",
+      "image": "",
+      "description": "November/December 2026 Due Date Guide: GST, Income Tax and ROC Filings &nbsp;&nbsp; CAclubindia",
+      "categories": [
+        "GST",
+        "Income Tax"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
+      "id": "a73683cecbad58e8669e",
+      "title": "Directions For Removal Of Highway Encroachment Can't Be Used To Demolish Structures Without Due Process : Supreme Court Clarifies Order",
+      "source": "LiveLaw",
+      "published": "2026-11-19T03:09:08+00:00",
+      "url": "https://www.livelaw.in/supreme-court/directions-for-removal-of-highway-encroachment-cant-be-used-to-demolish-structures-without-due-process-supreme-court-clarifies-order-559023",
+      "image": "https://www.livelaw.in/h-upload/2024/02/27/524694-nhai-and-sc.webp",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 60,
+      "priority": "Relevant"
+    },
+    {
+      "id": "0081731eec06b4b5ff48",
+      "title": "2026 LiveLaw (SC) 1172 | IN RE: PHALODI ACCIDENT VERSUS NATIONAL HIGHWAYS AUTHORITY OF INDIA & ORS",
+      "source": "LiveLaw",
+      "published": "2026-11-19T03:09:03+00:00",
+      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1171-in-re-phalodi-accident-versus-national-highways-authority-of-india-ors-559024",
+      "image": "https://www.livelaw.in/h-upload/2024/02/27/524694-nhai-and-sc.webp",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "17f35f5354632d3ea96f",
+      "title": "CBIC pavilion at IITF 2026 puts spotlight on next-gen GST reforms and new baggage rules - Prop News Time",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-19T00:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeTJEOU9vMUh3cTZfZnNOaF9ncTRZTW5FUFdpdGl0NEUzem9mZS1RTkpybjJRRG9EZWozZWkxcFRHcWswbkM0YTJEcVJIc3JmNjlfWmZtQjNFRFZWeDdQbEVQeDdJV2VrdXd2NDBJRmZnWnl5el9HR3ZTcFJ5U1lEekh1ZFY2UUVkVWN3R1RjQ3BRV1hpeGdoVC1pTEUxNkxqZ1Y3V0tTTmw4bWVlVThYakFwZW5WdzhyTUhscnVlMmd4TVRyMnBWQ2pkNF91dzR4cDVmZEFR?oc=5",
+      "image": "",
+      "description": "CBIC pavilion at IITF 2026 puts spotlight on next-gen GST reforms and new baggage rules &nbsp;&nbsp; Prop News Time",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
     {
       "id": "8cfb64d2af197fae980e",
       "title": "Faceless, centralised CGST framework likely from April: CBIC Chief - The Economic Times",
@@ -44,6 +115,20 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "221cde46e4cd3f21e19b",
+      "title": "Gaming firms prepare legal challenge to GST demands - The Financial Express",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-18T17:28:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTktaGtpMVVmbVk3MHI0TmxfczZXUDl3bGc1TU9TNkxlWGk2ZnhVY0pLWlhDRE5iRWtQZWd5ZE9XY3ZLZ1ZHWk96cF9GbDIzRm1SSG1lYkJHbmpGMUJ4SXp6VjAtMXp4czVQWDFkWUNKSHNmekZyaUJoZmNUb0JIY1BpNzJUSDZ1T2xVTUpuVG4xdERkQXhyWXdiZUJhQTNIME1HWENocWhIMlHSAbIBQVVfeXFMTVhPWmJ6TnY5RVR4UkM4LU02Tk9qNl9kSXNZc2p1TDhQaEVNQWg2Ulh2YWZrMVc1V2pHRkgzMW1YXzFhd1FhN01MRFJSVGJKS3pDM19Ua0NOVGpjamZOVTFCWFc4X3Z3aHZLM0NVekVRbjBWSWZTU0gzR1dVcjhyd2psa0QwS3h3NE5vSjlubWtMQS1VdDY1NEJHajVmWUNMTlBkT041VmRfdERfb0dVaEJjUQ?oc=5",
+      "image": "",
+      "description": "Gaming firms prepare legal challenge to GST demands &nbsp;&nbsp; The Financial Express",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -805,6 +890,20 @@
         "High Courts"
       ],
       "importance_score": 42,
+      "priority": "General"
+    },
+    {
+      "id": "16fb2fcab056dbe50859",
+      "title": "Ola Electric expects GST refund changes to ease working capital pressure - A2Z Taxcorp LLP",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-18T11:43:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkItVnNMUmFfLVFiYlZ2c3ZDdk1IWnh5dlIxc2FXNDBhR09fZ25KNDlKYzB4NG9PaElIVmVJeVg4NmlHQWIteW9IS05LWDZzdndlWmpJUjU4dy1vVGZEOGZ1cDRZTy11U0FZWGRJbHVGQ251MXEzUWJmaE9QdmNfMXRDcnRVZVpVQTVHMjZJMTQ5QlU1d2RIX1BtZ2Q?oc=5",
+      "image": "",
+      "description": "Ola Electric expects GST refund changes to ease working capital pressure &nbsp;&nbsp; A2Z Taxcorp LLP",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -5238,6 +5337,21 @@
       "priority": "General"
     },
     {
+      "id": "83688d3055c4c7361931",
+      "title": "GST not leviable on assignment of GIDC leasehold rights to third parties: GSTAT Surat - SCC Online",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-16T03:45:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU1dPMG5MdVpJVE1INzhyMi1fZE92bWFKTU5XZUlUNlA0V3llcVhMSVZZZTJ0QVlJaXpYQTgxaTNiODFRd1FzcnVZN1cyaFRJM25vY25CaGprTWI2YTh0UU5FWlBjTXdkT1BockF0V3ZhWG1BNGFJN25BMzE0X2VsM1drZHR4UUQ0eFBoVmNzX1NOOTZTcGplQkF6SjhDdw?oc=5",
+      "image": "",
+      "description": "GST not leviable on assignment of GIDC leasehold rights to third parties: GSTAT Surat &nbsp;&nbsp; SCC Online",
+      "categories": [
+        "GST",
+        "Tribunals"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "f4cae974f043ff31949b",
       "title": "[Advertisement] Kerala Law Academy, CCIFS Delhi Announce 60-Hour Certification Course In Forensic Science & Law",
       "source": "LiveLaw",
@@ -5262,21 +5376,6 @@
         "General Legal News"
       ],
       "importance_score": 20,
-      "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "83688d3055c4c7361931",
-      "title": "GST not leviable on assignment of GIDC leasehold rights to third parties: GSTAT Surat - SCC Online",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-16T03:30:34+00:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU1dPMG5MdVpJVE1INzhyMi1fZE92bWFKTU5XZUlUNlA0V3llcVhMSVZZZTJ0QVlJaXpYQTgxaTNiODFRd1FzcnVZN1cyaFRJM25vY25CaGprTWI2YTh0UU5FWlBjTXdkT1BockF0V3ZhWG1BNGFJN25BMzE0X2VsM1drZHR4UUQ0eFBoVmNzX1NOOTZTcGplQkF6SjhDdw?oc=5",
-      "description": "GST not leviable on assignment of GIDC leasehold rights to third parties: GSTAT Surat &nbsp;&nbsp; SCC Online",
-      "categories": [
-        "GST",
-        "Tribunals"
-      ],
-      "importance_score": 30,
       "priority": "General",
       "image": ""
     },
@@ -5429,14 +5528,14 @@
       "source": "GST Legal & Regulatory News (Google News RSS)",
       "published": "2026-11-15T06:51:07+00:00",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3gzbmdmbHBrMzhwVUhaYmo1WkJVYlBIbzB6NU9zdnNXUzl1RU5nRWxUMWNFWTJIMW1vQnA1aTVlTHg3bkpSWUJoWWFVV2dyczlSLUJnVUNSYS1vQlU3a1NCWkNWLURHcjRsMTFWcXptWUpNa3FQYzhaWmRVVERyNDVIdkw3UUt1?oc=5",
+      "image": "",
       "description": "GST Registration Can’t Be Cancelled Over ITC Non-Deposit When Recovery Procedure Is Available: Allahabad High Court &nbsp;&nbsp; Juris Hour",
       "categories": [
         "GST",
         "High Courts"
       ],
       "importance_score": 42,
-      "priority": "General",
-      "image": ""
+      "priority": "General"
     },
     {
       "id": "d34b15f85a5d51e402be",
@@ -5532,14 +5631,14 @@
       "source": "GST Legal & Regulatory News (Google News RSS)",
       "published": "2026-11-15T05:35:12+00:00",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2tiQ3J4QVlWb09VbUVwdU93TV8xZGUxQzNNNy1RVW56UjA2SU1YQ1VsYm9kVG94UlpvM3BDcGlkRGZUaXBkUkNBbk9qT2xGa2JFT0VGVnhXUHpkZGxQNk1fY0dzQ0dpbmdrUHFnc3JjRDBiYktJQ2x3a1V5anQxaFpkZ3hSYkxHTUFoTnlSRzY0dldlWWhrSDh1Vm14cUVGdjN6SlJSU09KS0E2?oc=5",
+      "image": "",
       "description": "System-Generated GST Notice Must Identify Issuing Officer: Allahabad High Court Quashes Registration Cancellation &nbsp;&nbsp; Juris Hour",
       "categories": [
         "GST",
         "High Courts"
       ],
       "importance_score": 42,
-      "priority": "General",
-      "image": ""
+      "priority": "General"
     },
     {
       "id": "a6ac00f88601622a84e9",
@@ -5576,14 +5675,14 @@
       "source": "GST Legal & Regulatory News (Google News RSS)",
       "published": "2026-11-15T05:17:47+00:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3BNUjBWTTI0V0g1b2Y5TE5ZcFRFbGZFMlk1V2pRV0UtNGZzSVQteHY1eVhqbnhTbzU2eV9YVkRsbEhmWWJIMkNvOWJkSnRZTmRlOTQ2R1E0UEtmR3dsa3E5a3hZY3NLZmpJODB0dS1NMDJGX3pLY0hDeGFQdl8tZlFMbTcteDdjYVZnSU9IR3Axcnc?oc=5",
+      "image": "",
       "description": "Disputed Tax Deposit Can’t Be A Condition For Restoring GST Registration When S. 74 Proceedings Are Pending: Allahabad High Court &nbsp;&nbsp; Juris Hour",
       "categories": [
         "GST",
         "High Courts"
       ],
       "importance_score": 42,
-      "priority": "General",
-      "image": ""
+      "priority": "General"
     },
     {
       "id": "78700c833295a65edd20",
@@ -7086,105 +7185,6 @@
         "High Courts"
       ],
       "importance_score": 32,
-      "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "879430c5045d28494b21",
-      "title": "AP High Court Declares 'No Waiting List' Clause In Police Recruitment Arbitrary, Orders Filling Of Vacant Posts",
-      "source": "LiveLaw",
-      "published": "2026-11-13T11:23:48+00:00",
-      "url": "https://www.livelaw.in/high-court/andhra-pradesh-high-court/ap-high-court-holds-waiting-list-clause-police-constable-recruitment-arbitrary-558364",
-      "description": "",
-      "categories": [
-        "Service Law",
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "b06952de7420a27a63b6",
-      "title": "Justice Bibhu Prasad Routray To Take Charge As Acting Chief Justice Of Orissa High Court",
-      "source": "LiveLaw",
-      "published": "2026-11-13T11:21:42+00:00",
-      "url": "https://www.livelaw.in/high-court/orissa-high-court/justice-bibhu-prasad-routray-appointed-acting-chief-justice-orissa-high-court-558345",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "585c91a27d4c09f254f6",
-      "title": "Gujarat AAR: 5% GST Rate on Biodegradable Bags Depends on Valid Biodegradability Claim - SAG Infotech Official Tax Blog",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-13T11:19:26+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRUhfT2dVOWJtQ2ZWNEg4WU00QjRWYmE0c05SamMwbjFZSmJqVWF5NlJZWG9taE9Jc2s1YkpHOGV2bmZkamJfLWxYM19vdHUxY0NBbDBJSDAzUVZHUkhfX2NpSWs0UUNTbzlRdXhZalRhelBmcDVpdUFONlc1ZzJUdnJDTW9PeUdnZEJGVkRJQXVuM3J5UGI5WUNn?oc=5",
-      "description": "Gujarat AAR: 5% GST Rate on Biodegradable Bags Depends on Valid Biodegradability Claim &nbsp;&nbsp; SAG Infotech Official Tax Blog",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "f8613e1014b79560714b",
-      "title": "Meghalaya High Court Upholds 24-Year Jail Term For Man Convicted Of Sexually Assaulting 10-Year-Old Stepdaughter",
-      "source": "LiveLaw",
-      "published": "2026-11-13T11:00:34+00:00",
-      "url": "https://www.livelaw.in/high-court/meghalaya-high-court/meghalaya-high-court-upholds-man-convicted-sexually-assaulting-stepdaughter-558271",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "714e237bfde5008c27f2",
-      "title": "Rane Holdings Subsidiary Gets Relief as GST Authorities Withdraw Rs 11.88 Crore Demand - StudyCafe",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-13T10:59:37+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVC0yR1QzVUJ3VnJoWTFMZG1mT3JKOTk2QTI0SUltN3NhWDFKQ0FRLUR4ZGZsNmRMbFE4WDFsRm04ekZyeExzQ3J6REkzd1EtM2NSR2JRcElmWUtVNnpPWC1VaVdldFVkQTlkaGhYRTV1anVEcmlBdnV2cTVBa3VBSnExVkxNX0Y5N2hZd2RZN3V6OFJRU1g0cktwOHBBYnhaX3RlalljSXdqZmJGd2hzZzJ3VWQ1bkQtWi1F?oc=5",
-      "description": "Rane Holdings Subsidiary Gets Relief as GST Authorities Withdraw Rs 11.88 Crore Demand &nbsp;&nbsp; StudyCafe",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "62f36fb433be88a642fb",
-      "title": "'Why Assume Drugs Happen Only After Midnight?' Kerala High Court Questions Police Ban On DJ Parties At Bars Permitted To Operate Till 3 AM",
-      "source": "LiveLaw",
-      "published": "2026-11-13T10:52:27+00:00",
-      "url": "https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-dj-party-appeal-bar-hotel-timings-558360",
-      "description": "The Court added that the police had the duty to rid of drugs - be that in the day or night",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "49da6cf9014183d09900",
-      "title": "Govt invites public suggestions on alternate mechanism for amending GST liability, ITC - The Tribune",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-13T10:42:42+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhmMnZmVHhiRkVQTS1iOHktTHViTHQwNkU1cVR6UkVOWWlLZkNNQ2ExUy1GRHVMRFVWVFJfbHpxNm5SQUpxWF9rOXByU2tmMDlpNkZhWjRWTjJnaTNTenk0ZW9lTDRuTkNnT24xekRCalFyMFFWbWNlV0pGc2JOZFBOZlpsWkVCMVQyR2FtNG8tN2VPbURPUENMcl9HTTh6NVVLeFZaeTVMSFVnX0V2WVZtZUI5a3dFZnRBQdIBzAFBVV95cUxNeGpWUUowMVRaR0s2eVAxQWNjdkF0SHBwU2dNajE3VnRJNWllMXZoUTBqQjBfaVZQZGt3ZUJ4YXhNY0FCTjdrekctQ2dsekQxV3F2VXZiTDhKNld5ZXAza2MyMFRkbHJ2enRMNy1rbjFLQm9qVWxGUnAwRmExUVAyNEpJMzhEamNFN09TQnQ3NTAtM0FXVXJoOEJMVHMzcHNyOGZpcXJMcnJXZC1zd3daWGhObzhZWjlEdUszbVNfS2xXOHlqODJVNU0tUGo?oc=5",
-      "description": "Govt invites public suggestions on alternate mechanism for amending GST liability, ITC &nbsp;&nbsp; The Tribune",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
       "priority": "General",
       "image": ""
     }
