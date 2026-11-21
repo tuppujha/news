@@ -1,9 +1,37 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-20T21:13:49.865527+00:00",
+  "last_updated": "2026-11-21T02:28:01.223871+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "c5911fd887488bc97fea",
+      "title": "Person's Religion Can't Be Determined From Name Or Govt Records Like Aadhar, Voter ID: Madras High Court",
+      "source": "LiveLaw",
+      "published": "2026-11-21T02:00:58+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/madras-high-court-religious-identity-not-determined-by-name-aadhar-voter-id-559378",
+      "image": "https://www.livelaw.in/h-upload/2026/11/20/713360-justice-cv-karthikeyan-and-justice-s-raveekumar-with-madras-hc.webp",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "f64ec0e1fc9cb086bdc1",
+      "title": "CBIC plans faceless GST assessment framework for 70 lakh taxpayers from April 2027 - Prop News Time",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-20T22:00:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDNBdTI5SzY1UzljMjc1V0pKWTk4SXJYVlB2ZFhpQWdIcTJVYXdEOG5HS2l2YkJ2M01ZbEY3VkphSmp4Zy1GMFlzUUMwdTM3a2xpdjcxVXdaTFNaRXc3aDIxWXRTR1hSOHJTY0xEdkZid3JSMW9hdG5oeFVLWjk4REJQOFQwLUNGcTdlTWVIQmlUU3FFN3NEZElfUE9xV21FMUdxRUlhWU1fUXlscl9rOURLWVZzcWF2WHlaY0N5al9UU2JMeUY5bDFMQ1FVN1E?oc=5",
+      "image": "",
+      "description": "CBIC plans faceless GST assessment framework for 70 lakh taxpayers from April 2027 &nbsp;&nbsp; Prop News Time",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
     {
       "id": "8ceb2e7e234de85ad895",
       "title": "CBIC Reshuffles 35 Additional, Joint Commissioners: Rasaal Dwivedi Posted to Delhi GST & Central Excise Zone - Indian Masterminds",
@@ -30,6 +58,20 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "78af7d7e3db312b7dca8",
+      "title": "GST investigation team raided, sealed cigarette factory for 21 hours raid at Panipat - The Financial World",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-20T18:50:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3RkanJrQ0pnUWxkWS1iZzlxT0d5ekdQYVQ4c0hpYk5hUTl5TFR2S09YQzV4Mmc4OVc1YTFFWWtMX2VVMm9LLXdGYUZzUFNoMUhMRmtzenNSbWx3Zm9DV1ozT1QtUl9HNm8yNEQtam9XS0ZLbnhEdEY4Uk9yLWpsN09SWXh0QlFON1o0bHl2ZzJ2aVg3Z3ZnaUtUYVVPRmlCd2JvUVVPUlFETUlnalNmNjNlYm4ycXJQUkE?oc=5",
+      "image": "",
+      "description": "GST investigation team raided, sealed cigarette factory for 21 hours raid at Panipat &nbsp;&nbsp; The Financial World",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -5149,6 +5191,20 @@
       "priority": "General"
     },
     {
+      "id": "20922b2145e3b1d599d5",
+      "title": "CBIC developing faceless, centralised GST administration framework; public consultation soon: Chairman - ANI News",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-18T07:42:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZUlwMWVhWWRMNVJTX2dnNzNrRFVtV0dzREVDT2UwSzVwcXRyU1RnMWNhYnNFallYVTJxRE9IR0ItN01xUExBY0RQbVQ4ZFI1Vl9Xa28yM1gzcVpib01TR1gzdmh2Rkt5bU9WX0Y2Rlp1XzFyaUIwc0RNWUxpNFRORTdxQTFOWVdjUXBZNkhhTld1cWI1Z3ZZRVNlekRXREMtWjREeU5EbkUwWmVjd0JQVnA1aEF3SzBKbS1RdnY5YzQwbTVLcTdpSXVTUGZnZjFRUjBRNHpMdTNSVEVjUzVWZEtSVTg?oc=5",
+      "image": "",
+      "description": "CBIC developing faceless, centralised GST administration framework; public consultation soon: Chairman &nbsp;&nbsp; ANI News",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "7d49b8eb87db8a46c8a2",
       "title": "No Need To Describe Child As 'Adopted' In Official Documents: Kerala High Court",
       "source": "LiveLaw",
@@ -7122,64 +7178,6 @@
       ],
       "importance_score": 20,
       "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "1c64cfe73fccfe477fd3",
-      "title": "Azam Khan ED Arrest | Allahabad High Court To Pass Order On Interim Relief; Allows ED To File Detailed Counter-Affidavit",
-      "source": "LiveLaw",
-      "published": "2026-11-17T07:00:48+00:00",
-      "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-high-court-azam-khan-ed-arrest-interim-relief-558711",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "2085b6103c6f1474bea8",
-      "title": "Balkrishna Industries receives Rs. 3.94 lakh interest demand from GST authority - Business Upturn",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-17T07:00:11+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkZ2VEhMWE4tVmRHWlZMOVQySm83bjlaQ29xRG5RZmVMalpqQV9rdHJmVDBqVF9IRnlNQzc4ZlBLejEyc21tX2lMNmR2MGZGdnZxYmdDQWlvLVVJQzNVUzRhREhzSmF6OG56ano2dG1rcmVISWFDODYwNXJiMTYxTHBFaFdral9PU0FZdE4xRm5NTVRXTVQ2NzNNeXlJdGZuZk56N1NrX29uTk1HUUwyMlVOckh1dw?oc=5",
-      "description": "Balkrishna Industries receives Rs. 3.94 lakh interest demand from GST authority &nbsp;&nbsp; Business Upturn",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General",
-      "image": ""
-    },
-    {
-      "id": "f9afa9f0edfba3a0dbc5",
-      "title": "Supreme Court Bars Retrospective 70:30 GST Rule for Solar EPC Firms - Mercomindia.com",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-17T06:59:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlJvVVlfOU9udkZGdUdQS3JZb0ZYMGlqcHB4R3QzVjB4T2tzWndMX2diRWpzSkwtY3lzcndoRFhEbWMxbWVQc19hWG42ZEM4SEEyeUMzTkRqLXRQOHE3aWNWRi1VUGxxRFZjdnc2SWxZSlpidTlxQ3lKdWJ1TVlWdk5nSmJCcWhXcm1xQVhlY2pUeTJLX2NkUDRn?oc=5",
-      "image": "",
-      "description": "Supreme Court Bars Retrospective 70:30 GST Rule for Solar EPC Firms &nbsp;&nbsp; Mercomindia.com",
-      "categories": [
-        "GST",
-        "Supreme Court"
-      ],
-      "importance_score": 55,
-      "priority": "Relevant"
-    },
-    {
-      "id": "e4209faf5e54b38b68e1",
-      "title": "ECI Failed To Produce Records Showing Unanimous Approval Of SIR Decisions: Petitioner To Supreme Court",
-      "source": "LiveLaw",
-      "published": "2026-11-17T06:53:45+00:00",
-      "url": "https://www.livelaw.in/top-stories/eci-failed-to-produce-records-showing-unanimous-approval-of-sir-decisions-petitioner-to-supreme-court-558714",
-      "description": "The petitioner also contended that the subsequent corrective measures taken by the ECI after the writ petition do not validate earlier decisions.",
-      "categories": [
-        "Constitutional Law",
-        "Supreme Court"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant",
       "image": ""
     }
   ]
