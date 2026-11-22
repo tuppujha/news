@@ -1,9 +1,23 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-22T15:26:09.657880+00:00",
+  "last_updated": "2026-11-22T21:52:27.948294+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "c6523cc17a4998e3f0a5",
+      "title": "TVK MLA Sent Obscene Messages To District Collector, Police Took No Action On Complaint : Justice Victoria Gowri",
+      "source": "LiveLaw",
+      "published": "2026-11-22T16:00:51+00:00",
+      "url": "https://www.livelaw.in/high-court/madras-high-court/tvk-mla-sent-obscene-messages-to-district-collector-police-took-no-action-on-complaint-justice-victoria-gowri-559506",
+      "image": "https://www.livelaw.in/h-upload/2023/02/07/457646-victoria-gowri-and-madras-hc.webp",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
     {
       "id": "af0b6b33404cc59fbdb7",
       "title": "Senior Citizen Can't Be Compelled To Share Own House With Children Against Wishes: Delhi High Court",
@@ -2129,6 +2143,20 @@
       "priority": "Relevant"
     },
     {
+      "id": "4af35356a542233824d6",
+      "title": "Rule 96(10) Omitted Without a Saving Clause: What Exporters With Pending IGST Refund Claims Must Know - TaxCorp AI",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-20T14:12:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGtMN1BZY1dUU2NVTFJQM2tudW1IdXJIcWVxRGhnSTdTMUpHdm5DUjljM0FCZGdReE8xTFFGZDBsaHFQeDRlck0tY0hSR3RKcm56UC1YT0JENEZJcDlqQk52LW8tak1Obl85Z210aUNDTHVvVzNaYUdFd29QcUk1ZWRieEwzUmhDNTdlbzJDV0UzdDZmd3BNT004SF9UYUlLbjdTMS1CMA?oc=5",
+      "image": "",
+      "description": "Rule 96(10) Omitted Without a Saving Clause: What Exporters With Pending IGST Refund Claims Must Know &nbsp;&nbsp; TaxCorp AI",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "7dcd76801f8f7e4bf09c",
       "title": "Calcutta High Court Refuses To Quash Murder Charges Against Promoter After 15 Died In Building Collapse",
       "source": "LiveLaw",
@@ -2564,6 +2592,20 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "7512b279bc6dc3e9ea47",
+      "title": "GST E-Invoicing 2027: RCM Self-Invoice Rules, Applicability and Readiness Checklist - TaxGuru",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-20T09:44:49+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjI5VXBLRkdDcWhCRFVCOXBHcU03cGRsVGhIZV83cGJ1ZERTYzZUOXgyTTRub21kVGdGTWR1WUgzUmhGSzBUeFBiTU03WnFoV3ZuQXNNN2N4VFRDSzVQcHNpVnltSmlwNVZOcDNtWlZ5ZURoY1U1Q3I0YlhySmdkVl9WVXVBVDlrZW1rdFB3XzUwcG1TSF8tc2lfQnd6OFdwT2ZkeEQ4TVhkeUp6b09Sdi1UOWpScHM?oc=5",
+      "image": "",
+      "description": "GST E-Invoicing 2027: RCM Self-Invoice Rules, Applicability and Readiness Checklist &nbsp;&nbsp; TaxGuru",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -5618,20 +5660,6 @@
       "priority": "General"
     },
     {
-      "id": "7512b279bc6dc3e9ea47",
-      "title": "GST E-Invoicing 2027: RCM Self-Invoice Rules, Applicability and Readiness Checklist - TaxGuru",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-19T03:29:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjI5VXBLRkdDcWhCRFVCOXBHcU03cGRsVGhIZV83cGJ1ZERTYzZUOXgyTTRub21kVGdGTWR1WUgzUmhGSzBUeFBiTU03WnFoV3ZuQXNNN2N4VFRDSzVQcHNpVnltSmlwNVZOcDNtWlZ5ZURoY1U1Q3I0YlhySmdkVl9WVXVBVDlrZW1rdFB3XzUwcG1TSF8tc2lfQnd6OFdwT2ZkeEQ4TVhkeUp6b09Sdi1UOWpScHM?oc=5",
-      "image": "",
-      "description": "GST E-Invoicing 2027: RCM Self-Invoice Rules, Applicability and Readiness Checklist &nbsp;&nbsp; TaxGuru",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
       "id": "4488315c7e04ccca8e11",
       "title": "November/December 2026 Due Date Guide: GST, Income Tax and ROC Filings - CAclubindia",
       "source": "GST Legal & Regulatory News (Google News RSS)",
@@ -7126,34 +7154,6 @@
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT0k4djJHZXljdTk1a21OX3ZhMVJKWlV2LTRJakd2TTExamVjb0ZQcjFWdDNsTjhsS1dVNEZPa0NpTTkxb2pxZWJULTJCeGRjVXY3TGNuaUphN3liY1ZSSERmSWZBUFBHVEFiRXpDVFdISUxCRF80dmd5V0RaVWZlMURhWUdIbl96OGJjWUlmMVd4OTZQQVZCUGhBNVFueFRBV1FRMkgwNkJMdUo0QXB0Vl9RNV9RZFBVQmd1LUJBQU8wT3hzajFtdlN2Z3drWjFMOTBjSEFneWlLRVI5U3I4Y1BUVmplamEtZ2RFYmI0cWp4NUNlOXFsa1doOWhjUdIBgwJBVV95cUxNaUZINVJCVFpvSDZhaFJEb1VlXzF2Ukl3dVg2TVE4NjIyWFRnTWpkT1QxQ1RTZDcyQ3JEX2hyYWppVmE5bjZNU2VvV3FpSzdDMGgxMG1QaktQWVlhZ3h3NlIxcUxJYlB1bklqZjhjSzBJSXRUTFVHV3d5Z3FwUHBVQmpLS2JfM0NHOHdPaHRxWmNnVDFwY0NaSU9OR3ZZd05FSEd3MXdRNnI3RDFNaWZ0ckVwUEJJV2F1azVTX2NLU3RFSlNwRXNxUW9rVjV6ajBsbWdRVzdHTW11TUlreXgxak13OFNrVmhnR1BFNDBleFhmdEwzUHdQV3lPMy1SRDBiRE1R?oc=5",
       "image": "",
       "description": "CBIC to release draft framework for faceless GST assessment soon; rollout likely from April 2027 &nbsp;&nbsp; The Economic Times",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "9d8e13148c2dbdaf40cf",
-      "title": "CBIC to release draft framework for faceless GST assessment soon; rollout likely from April 2027 - The Economic Times",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-18T07:51:51+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxONXYwZ3A4Yms4b09Tb2JFaHZhck9ESXhlS3dmX3lmWFh1R3FxTnVjS1FYQkRxNndrMkNNZk9sWXd0M3ZPYW80Y19HdDVCUFh0NVpBNVVjc3JGSW9hT1ZGSFFvZWNIV2xhTXBVdENuTDJsTHRhYXczaFVtcGxaLV9MYlV3bHJMeWx4bjZoYkh5YTdoMWl4dUFUR05HSXhvd1NDd09wOEJzTnI5UzlUZWROdER0MWs3TllaX2Jtazh2Q1VlcEZCSk5DSjBNWENzY3pVWGRCbHdhaVIzWGhOWlVQUmVaSVpqM0ZXNC1rei11VEkzZzdBN2R3NFE5SzZXNXkwYnRIeHp6QldKQdIBgwJBVV95cUxNaUZINVJCVFpvSDZhaFJEb1VlXzF2Ukl3dVg2TVE4NjIyWFRnTWpkT1QxQ1RTZDcyQ3JEX2hyYWppVmE5bjZNU2VvV3FpSzdDMGgxMG1QaktQWVlhZ3h3NlIxcUxJYlB1bklqZjhjSzBJSXRUTFVHV3d5Z3FwUHBVQmpLS2JfM0NHOHdPaHRxWmNnVDFwY0NaSU9OR3ZZd05FSEd3MXdRNnI3RDFNaWZ0ckVwUEJJV2F1azVTX2NLU3RFSlNwRXNxUW9rVjV6ajBsbWdRVzdHTW11TUlreXgxak13OFNrVmhnR1BFNDBleFhmdEwzUHdQV3lPMy1SRDBiRE1R?oc=5",
-      "image": "",
-      "description": "CBIC to release draft framework for faceless GST assessment soon; rollout likely from April 2027 &nbsp;&nbsp; The Economic Times",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "321d77da182f64abf679",
-      "title": "CBIC to seek public feedback on faceless CGST assessment framework - Business Standard",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-18T07:49:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTNUbnoteDJnOC1PeTUzTzdZQnVBQ0xDdjRZMTdGY1ByM1dJZGV3a0NueTlaWnFVMUFVNDlzWmRWSE5jdkVaOWdQYzNxaVFIUmdTYXJ3MWhkdHVIRXNZYWg3TjVqUDNlRURYcHd4RzJxNktWeHVzTGZKTlgtMmUyUVoyenhQdUxIT2FiMExhY0lmRXV6NWg2a0FNLUZLdG9wNG1MLUdjRk5SdVBIRXgxX2k4bUlTcGdUbDF0ajF2YS1JVm_SAcgBQVVfeXFMTmx1MlMxU3dVZnlITWJlenc2cjE4bld2ZDJ3NXh6V05oeV9wcDFIa2N6NlQyV1NPN0s3NXFDMHZFSktNOTR1cDFYVU9ETW03MTQ4cGZsdlpQMGV6MzlEd3Z2eGd0ZWtLY1FSUzFOVm5ablpGQnBmV2xCZm5xOUEyRTZmWHZ1YzVwMFlQVENEY0lSMExPaXBhNEJBcnJfeTIxMHoxbWRHNFI1bndhSTAyZ3dvbnBzQXo0LWotNjBia2s5TGhlTzFNWHk?oc=5",
-      "image": "",
-      "description": "CBIC to seek public feedback on faceless CGST assessment framework &nbsp;&nbsp; Business Standard",
       "categories": [
         "GST"
       ],
