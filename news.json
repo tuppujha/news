@@ -1,9 +1,108 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-25T15:43:56.508431+00:00",
+  "last_updated": "2026-11-26T00:29:39.092897+00:00",
   "article_count": 500,
   "sources_checked": 3,
   "articles": [
+    {
+      "id": "02aa42cb9cf0ceb15404",
+      "title": "Supreme Court Daily Round-Up : November 25, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-25T18:21:05+00:00",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-november-25-2026-560013",
+      "image": "https://www.livelaw.in/h-upload/2026/11/25/714333-750x450632929-nov-25.webp",
+      "description": "",
+      "categories": [
+        "Supreme Court"
+      ],
+      "importance_score": 45,
+      "priority": "Relevant"
+    },
+    {
+      "id": "9ae857d9d41e06c57aa3",
+      "title": "LiveLaw High Courts Daily Highlights: November 25, 2026",
+      "source": "LiveLaw",
+      "published": "2026-11-25T18:15:04+00:00",
+      "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-25-2026-560023",
+      "image": "https://www.livelaw.in/h-upload/2026/11/14/711522-high-court-daily-highlights-new.webp",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "565853e7f557786cc38c",
+      "title": "Delhi High Court Grants Anticipatory Bail To Lawyer Accused Of Molesting Woman On Pretext Of Offering Job, Cites Investigation Lapses",
+      "source": "LiveLaw",
+      "published": "2026-11-25T16:46:15+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-grants-anticipatory-bail-to-lawyer-accused-of-molesting-woman-on-pretext-of-offering-job-cites-investigation-lapses-560022",
+      "image": "https://www.livelaw.in/h-upload/2026/01/14/646749-500x300394930-lawyer.webp",
+      "description": "",
+      "categories": [
+        "Criminal Law",
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "361c2a81be0aebb627fa",
+      "title": "Woman Alleges 7-Hour Detention Without Being Told Grounds, Delhi High Court Orders Preservation Of CCTV Footage",
+      "source": "LiveLaw",
+      "published": "2026-11-25T16:30:43+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/woman-alleges-7-hour-detention-without-being-told-grounds-delhi-high-court-orders-preservation-of-cctv-footage-560020",
+      "image": "https://www.livelaw.in/h-upload/2025/02/28/588997-justice-sachin-datta-delhi-hc.webp",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "77de7e82420460520269",
+      "title": "Mere Erection Of Tin Sheets To Cover Vacant Plot Not Unauthorised Construction: Delhi High Court Refuses Contempt Against MCD",
+      "source": "LiveLaw",
+      "published": "2026-11-25T15:55:59+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/mere-erection-of-tin-sheets-to-cover-vacant-plot-not-unauthorised-construction-delhi-high-court-refuses-contempt-against-mcd-560019",
+      "image": "https://www.livelaw.in/h-upload/2022/10/11/438661-justice-neena-bansal-krishna-and-delhi-hc.jpg",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "470b01344db49fc74cc9",
+      "title": "Call For Papers: International Conference On “Sea Lanes, Sanctions And Sovereignty” At TNDALU, Chennai",
+      "source": "LiveLaw",
+      "published": "2026-11-25T15:54:23+00:00",
+      "url": "https://www.livelaw.in/lawschool/call-for-papers/international-conference-sea-lanes-sanctions-sovereignty-tndalu-chennai-560018",
+      "image": "https://www.livelaw.in/h-upload/2026/11/25/714242-23253656.webp",
+      "description": "",
+      "categories": [
+        "General Legal News"
+      ],
+      "importance_score": 20,
+      "priority": "General"
+    },
+    {
+      "id": "9b92e7fdd7b04fde4c58",
+      "title": "Indian Youth Congress Moves Delhi High Court Against Alleged Blocking Of Social Media Posts Carrying Rahul Gandhi's Name Or Photo",
+      "source": "LiveLaw",
+      "published": "2026-11-25T15:47:59+00:00",
+      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-indian-youth-congress-blocking-posts-featuring-rahul-gandhi-560003",
+      "image": "https://www.livelaw.in/h-upload/2022/10/14/439356-rahul-gandhi-delhi-hc.jpg",
+      "description": "",
+      "categories": [
+        "High Courts"
+      ],
+      "importance_score": 32,
+      "priority": "General"
+    },
     {
       "id": "146282cb5bc903eb3777",
       "title": "Prosecution Case Fails When Medical Evidence Is Completely Opposite Eyewitness Account : Supreme Court Acquits In 1986 Murder",
@@ -53,20 +152,6 @@
       "published": "2026-11-25T15:14:49+00:00",
       "url": "https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-upholds-25-year-sentence-rape-five-year-old-girl-560006",
       "image": "https://www.livelaw.in/h-upload/2025/11/21/632221-justice-abdul-shahid-1280-x-720-px.webp",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "9b92e7fdd7b04fde4c58",
-      "title": "Indian Youth Congress Moves Delhi High Court Against Alleged Blocking Of Social Media Posts Carrying Rahul Gandhi's Name Or Photo",
-      "source": "LiveLaw",
-      "published": "2026-11-25T15:07:33+00:00",
-      "url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-indian-youth-congress-blocking-posts-featuring-rahul-gandhi-560003",
-      "image": "https://www.livelaw.in/h-upload/2022/10/14/439356-rahul-gandhi-delhi-hc.jpg",
       "description": "",
       "categories": [
         "High Courts"
@@ -904,6 +989,20 @@
       "priority": "General"
     },
     {
+      "id": "bd3570e5d6691ed41613",
+      "title": "Budget 2026: Pre-Approval Regime For GST/HST Input Tax Credit Allocation Methods Of Financial Institutions - Legal 500",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-25T09:08:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRU9nRVFyeHFmZ3hLTmg1WEp5a0NKc3JpT0R3ZGlPUFJBbU5DRmpxeHVOUXJGdkNUNjRZSWdqcFpWd2NDVVVob2p2RmFYQTRNVHdRcmxzYUFCVC1wM29VWi1NMldNbzdydlhNMm9uYy15Z3UxU3JweHFvczcyVnYwcjE4MGVlU19FTnZ3cXNqVWFaQmVpUFBmRUhqV05zOGgyOTcxNnI5eURKRTBTOGZYNGNNTFRvNTBMdTZpa0ExdmY5ajk3c1pLM0Yya2d4cUI0cHE2TGwxQThOY0d1XzNZaEhNczd5cHY5YUE?oc=5",
+      "image": "",
+      "description": "Budget 2026: Pre-Approval Regime For GST/HST Input Tax Credit Allocation Methods Of Financial Institutions &nbsp;&nbsp; Legal 500",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
+      "priority": "General"
+    },
+    {
       "id": "fd09fe32ca814f24b5e5",
       "title": "Teacher Excluding Students Not Invited To Private Housewarming Ceremony Doesn't Amount To Untouchability: Karnataka High Court",
       "source": "LiveLaw",
@@ -1321,6 +1420,20 @@
         "High Courts"
       ],
       "importance_score": 32,
+      "priority": "General"
+    },
+    {
+      "id": "4c328abfa1f583a2510e",
+      "title": "GST Assessment Remanded for Failure to Try RPAD After Unanswered Portal Notices: Madras HC - TaxGuru",
+      "source": "GST Legal & Regulatory News (Google News RSS)",
+      "published": "2026-11-25T04:32:42+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOUdXcUI5Rnd4eWZmTHZVMVdVZUxXd1BfYVhhMDBsOTd5d09UY1hyTkVtTF9sQzlFUlE5UHItbll0cXlZSEJWTURYMDdJXzQyYUpGYXJNclNuRFhqVFRRQUt4ZWhZZWd3anBBZmg3UFllY1hJMkFDeUlGMlZGd0dEZHhud1NKTkJJckx0bG1mbm1hekdPbW1TQXU4dkpLTk9CSDBtQlFlVWdsWk0zUWlpQzBIcjc4TjhiLWc?oc=5",
+      "image": "",
+      "description": "GST Assessment Remanded for Failure to Try RPAD After Unanswered Portal Notices: Madras HC &nbsp;&nbsp; TaxGuru",
+      "categories": [
+        "GST"
+      ],
+      "importance_score": 30,
       "priority": "General"
     },
     {
@@ -7030,120 +7143,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOaC0yb1c2ZnFEUWlsNGV0ZDlGRjFWclB5NHlwWEJmMWRXUGE1Q1lXSG9nV0loSzNFMnp6ZlE1LVZPWXhkSmFSdnJNanNzbnFfZk9FeUNMTlpmRXRKZVNPVEZHYWJTU2VPZGJYLXprZVVDaE5rcHg4Z0NveWEyZFdxdE9GTkVvWnRjeWc1bFBPU3RHSGdSMXlFNmkwTGZma1BocjZfcTNMU2NHZUlBeVlCOV9PSnVZNTFleUJLUVpDMTZ5TmlabVcyV2piejBvQlF5VHV4MWNKeVVpWDNsbjZQVy1qclVfOWZCdmJOODdyU2xHdzJmWWJkcGIweTc2SEtNSTNHenE1QzV4NnVSQXpsTHpmb0XSAZgCQVVfeXFMTVYzZmdUaFJjclF2V1ZJLS1XMm5ObWtwM0EtMGlSWWlKTUFubWE1MEtydVVjUzRGSTh2NVlJUzBHUU5BbW1qOWRKSG41azlRNHN0UXlJaERzWHJidEtDTF84d0JUOWZvZEVBMVpOdjZaUEEwSkdWNFNJdkNtb3o5bTBDUmJ6QkdtT1lwWFVfencwRnFORy1mUEdDU3VOdUFwZmttUlJ3aDFBcG1XRjZQdkd1NFcxOHNBeHVId0pzQ3J3bDdYaEtVekhJNWlPQ1JpU1JUWE9Od3cxUUI0eGxBUmhMUFE4V1pybW5LZjRWQm9EcVhmcmZScnk2T2tqTFN0dUFhaWE5RE5fUFVOQTRNQ0pkZnh0NW5KYw?oc=5",
       "image": "",
       "description": "Chirag Paswan supports review of 40 pc GST on beverages, says low-priced products need relief &nbsp;&nbsp; ET HospitalityWorld",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "f0b59c26185687d083c0",
-      "title": "Chirag Paswan supports review of 40 pc GST on beverages, says low-priced products need relief - ETHospitalityWorld",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-21T03:15:16+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOaC0yb1c2ZnFEUWlsNGV0ZDlGRjFWclB5NHlwWEJmMWRXUGE1Q1lXSG9nV0loSzNFMnp6ZlE1LVZPWXhkSmFSdnJNanNzbnFfZk9FeUNMTlpmRXRKZVNPVEZHYWJTU2VPZGJYLXprZVVDaE5rcHg4Z0NveWEyZFdxdE9GTkVvWnRjeWc1bFBPU3RHSGdSMXlFNmkwTGZma1BocjZfcTNMU2NHZUlBeVlCOV9PSnVZNTFleUJLUVpDMTZ5TmlabVcyV2piejBvQlF5VHV4MWNKeVVpWDNsbjZQVy1qclVfOWZCdmJOODdyU2xHdzJmWWJkcGIweTc2SEtNSTNHenE1QzV4NnVSQXpsTHpmb0XSAZoCQVVfeXFMUEd5aE82U3c0VnBmTzZBVWh2ZFZCWW9ZM2NqQXFnUkE3aFB0d2tlUmEzZm1XY2xjU0Nka0JHbW9qbWF4RGJtc0ljME5CVExoUUlYalBLYWF5TXp0X3NMcHdLc19MM0lQMUI5dXBFLVlYcWRtYXU4WlYyR1lubkVrejJva0RXdkFFTFlyaVNUYlpZbFI3amEwMldsUHh2d0xNbWhmNVRZd2JMUFc4c3FxWmhJYzBLWHVBUy02Ykp5Z0dMaFlwZm0yZVhKRjladW0xYmFWcUxqVTJ3UWoteXpkdktLNHppNjV0eVF3ZllmanBFa2FBTVdiVnJmZ1FGaE9JU3lrdzFNejZNaGZpQWNOT1VFUlU4eksxSWtB?oc=5",
-      "image": "",
-      "description": "Chirag Paswan supports review of 40 pc GST on beverages, says low-priced products need relief &nbsp;&nbsp; ETHospitalityWorld",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "a92bcb12c8eb00b9caf6",
-      "title": "Corporate Guarantees Attract GST, But 1% Valuation Is Not Mandatory: Delhi High Court - CAclubindia",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-21T02:48:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVHBmcXppRVJRRnpyaHFGZzBJQm40ZmRkZjNmVXcyeHRzamdldnkzTXhhRUFyanNEMjZfbEE1YjJVYXNZckJpZ3hXN05DYXFJRnlYVVZZMUI2enByWmM5cUFrZmpRUHJaNTFxTndsZmJ1ckIxYXlMR0F6QkdCT3EtOE1fSV84LXc5VGJvZFVycHpyU0xhZGlMdm8zWVFSb29CTW9UamdYRjlIZkdwc00xb2dRZi1wVlgxSHZwMXc3X0tkOHBHNE5QXw?oc=5",
-      "image": "",
-      "description": "Corporate Guarantees Attract GST, But 1% Valuation Is Not Mandatory: Delhi High Court &nbsp;&nbsp; CAclubindia",
-      "categories": [
-        "GST",
-        "High Courts"
-      ],
-      "importance_score": 42,
-      "priority": "General"
-    },
-    {
-      "id": "2c00654f913106647c94",
-      "title": "Supreme Court Refuses Plea To Refer Shenbagavalli Weir Dispute Between Keralam & TN To Inter-State River Disputes Tribunal",
-      "source": "LiveLaw",
-      "published": "2026-11-21T02:44:22+00:00",
-      "url": "https://www.livelaw.in/top-stories/supreme-court-rejects-pil-for-judicial-intervention-kerala-tamil-nadu-restoration-of-shenbagavalli-weir-inter-state-water-dispute-559388",
-      "image": "https://www.livelaw.in/h-upload/2026/11/20/713349-kerala-tamil-nadu-and-sc.webp",
-      "description": "We cannot pass a mandamus initiating a litigation, said Justice Joymalya Bagchi.",
-      "categories": [
-        "Supreme Court",
-        "Tribunals"
-      ],
-      "importance_score": 45,
-      "priority": "Relevant"
-    },
-    {
-      "id": "5beaade5243efd2cf0a7",
-      "title": "Rajasthan High Court Restores Rule Requiring Lawyers To Show Proof Of Two Court Appearances To Vote In Bar Association Elections",
-      "source": "LiveLaw",
-      "published": "2026-11-21T02:36:03+00:00",
-      "url": "https://www.livelaw.in/high-court/rajasthan-high-court/rajasthan-high-court-upholds-additional-eligibility-conditions-bar-association-elections-559383",
-      "image": "https://www.livelaw.in/h-upload/2025/07/07/608450-rajasthan-high-court-jodhpur-bench.webp",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "f64ec0e1fc9cb086bdc1",
-      "title": "CBIC plans faceless GST assessment framework for 70 lakh taxpayers from April 2027 - Prop News Time",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-20T22:06:48+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDNBdTI5SzY1UzljMjc1V0pKWTk4SXJYVlB2ZFhpQWdIcTJVYXdEOG5HS2l2YkJ2M01ZbEY3VkphSmp4Zy1GMFlzUUMwdTM3a2xpdjcxVXdaTFNaRXc3aDIxWXRTR1hSOHJTY0xEdkZid3JSMW9hdG5oeFVLWjk4REJQOFQwLUNGcTdlTWVIQmlUU3FFN3NEZElfUE9xV21FMUdxRUlhWU1fUXlscl9rOURLWVZzcWF2WHlaY0N5al9UU2JMeUY5bDFMQ1FVN1E?oc=5",
-      "image": "",
-      "description": "CBIC plans faceless GST assessment framework for 70 lakh taxpayers from April 2027 &nbsp;&nbsp; Prop News Time",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "8ceb2e7e234de85ad895",
-      "title": "CBIC Reshuffles 35 Additional, Joint Commissioners: Rasaal Dwivedi Posted to Delhi GST & Central Excise Zone - Indian Masterminds",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-20T20:16:54+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX09mZXNpOHJaS2pxYjlaaWFldGJDc1M2SkJWYVQ4SGZqaV9yQ0pUbGxaV1I3WnVrNXc0VFFTQXA4ZHZ6NktnWHRuaE10TUNjTlZKbmdIUW1WV2FSQVlOWHN2UzIwSEhTbXc5TlI1WEM3MjVTakhLVE9vNlpKWGFLZGxuYXF4OFZ1X1Zna0tOSjhmOVlaZ1FIaGdoVHVub0MwbkRDRzZn?oc=5",
-      "image": "",
-      "description": "CBIC Reshuffles 35 Additional, Joint Commissioners: Rasaal Dwivedi Posted to Delhi GST & Central Excise Zone &nbsp;&nbsp; Indian Masterminds",
-      "categories": [
-        "GST"
-      ],
-      "importance_score": 30,
-      "priority": "General"
-    },
-    {
-      "id": "f0d26dd06c735a62e129",
-      "title": "LiveLaw High Courts Daily Highlights: November 20, 2026",
-      "source": "LiveLaw",
-      "published": "2026-11-20T19:18:34+00:00",
-      "url": "https://www.livelaw.in/high-court/all-high-courts/high-courts-daily-highlights-november-20-2026-559377",
-      "image": "https://www.livelaw.in/h-upload/2026/09/29/703382-high-court-daily-highlights.webp",
-      "description": "",
-      "categories": [
-        "High Courts"
-      ],
-      "importance_score": 32,
-      "priority": "General"
-    },
-    {
-      "id": "78af7d7e3db312b7dca8",
-      "title": "GST investigation team raided, sealed cigarette factory for 21 hours raid at Panipat - The Financial World",
-      "source": "GST Legal & Regulatory News (Google News RSS)",
-      "published": "2026-11-20T18:50:38+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3RkanJrQ0pnUWxkWS1iZzlxT0d5ekdQYVQ4c0hpYk5hUTl5TFR2S09YQzV4Mmc4OVc1YTFFWWtMX2VVMm9LLXdGYUZzUFNoMUhMRmtzenNSbWx3Zm9DV1ozT1QtUl9HNm8yNEQtam9XS0ZLbnhEdEY4Uk9yLWpsN09SWXh0QlFON1o0bHl2ZzJ2aVg3Z3ZnaUtUYVVPRmlCd2JvUVVPUlFETUlnalNmNjNlYm4ycXJQUkE?oc=5",
-      "image": "",
-      "description": "GST investigation team raided, sealed cigarette factory for 21 hours raid at Panipat &nbsp;&nbsp; The Financial World",
       "categories": [
         "GST"
       ],
